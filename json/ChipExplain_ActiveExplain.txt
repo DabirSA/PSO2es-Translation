@@ -214,14 +214,14 @@
 		"jp_explainShort": "定期的にＨＰを小回復",
 		"tr_explainShort": "HP recovery over time",
 		"jp_explainLong": "① 定期的にＨＰをわずかに回復する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Recovers HP by ?% (slight) every ? seconds.\n[Effect Duration] 16 seconds"
+		"tr_explainLong": "① Recovers HP by 5% every second.\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "1620",
 		"jp_explainShort": "定期的にＨＰを小回復",
 		"tr_explainShort": "HP recovery over time",
 		"jp_explainLong": "① 定期的にＨＰをわずかに回復する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Recovers 8% of your HP every second.\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Recovers HP by 8% every second.\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "30001",
@@ -508,7 +508,7 @@
 		"jp_explainShort": "攻撃力を劇的強化＋定期的にＨＰを小回復",
 		"tr_explainShort": "ATK up + HP recovery over time",
 		"jp_explainLong": "① 現在のＨＰを９割減少させる。\n② 攻撃力を劇的に強化する。\n③ 定期的にＨＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Cuts current HP by 90%.\n② Increases ATK by ??? (dramatic).\n③ Recovers HP by 10% every 2 seconds.\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Cuts current HP by 90%.\n② Increases ATK by ??? (dramatic).\n③ Recovers HP by 10% every 2 seconds.\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "30090",
@@ -1775,7 +1775,7 @@
 		"jp_explainShort": "ＪＡ威力増加＋ＪＡ攻撃力強化",
 		"tr_explainShort": "JAs boosted + ATK up per JA",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 ジャストアタックの威力を劇的に増加する。\n② ジャストアタックごとに\n　　 攻撃力を強化する。（最大時：劇的）\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts the damage of Just Attacks by 15% for\n    each different chip element equipped.\n    <color=yellow>[T-Frame]</color>\n② Increases ATK by 375 each time you successfully\n    perform a Just Attack.\n    (Maximum increase: 4500)\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts the damage of Just Attacks by 15% for\n    each different chip element equipped.\n    <color=yellow>[T-Frame]</color>\n② Increases ATK by 375 each time you successfully\n    perform a Just Attack.\n    (Maximum increase: 4500)\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31701",
@@ -1985,7 +1985,7 @@
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
 		"tr_explainShort": "Dam. boost + CP use down + act. rate up",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ??% (dramatic).\n    <color=yellow>[E-Frame]</color>\n② Increases the activation rate of all Support Chips\n    by ??%.\n③ Reduces CP consumption by ??%.\n    (Even applies to this chip's activation cost)\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts damage by ??% (dramatic).\n    <color=yellow>[E-Frame]</color>\n② Increases the activation rate of all Support Chips\n    by ??%.\n③ Reduces CP consumption by 20%.\n    (Even applies to this chip's activation cost)\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31788",
@@ -2111,7 +2111,7 @@
 		"jp_explainShort": "必殺技・法術使用毎に威力小増加",
 		"tr_explainShort": "Damage boost per PA/Tech use",
 		"jp_explainLong": "① 必殺技・法術を使用するごとに\n　　 威力をわずかに増加する。（最大時：大きく）\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ??% each time you use a PA\n    or Tech.\n    (Maximum boost: ???% (great))\n    <color=yellow>[L-Frame]</color>\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts damage by ??% each time you use a PA\n    or Tech.\n    (Maximum boost: ???% (great))\n    <color=yellow>[L-Frame]</color>\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31846",
@@ -2209,7 +2209,7 @@
 		"jp_explainShort": "定期的に大ダメージ",
 		"tr_explainShort": "Damage over time",
 		"jp_explainLong": "① 攻撃対象の敵に対して\n　　 定期的に攻撃力に応じた大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Deals heavy damage based on attack power to\n    the targeted enemy at regular intervals.\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Deals heavy damage based on attack power to\n    the targeted enemy at regular intervals.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31885",
@@ -7179,14 +7179,14 @@
 		"jp_explainShort": "プレイヤーの闇属性を劇的強化",
 		"tr_explainShort": "Dark Element boosted",
 		"jp_explainLong": "① 効果発動時の闇属性値に応じて\n　　 闇属性を劇的に強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts your Dark Element value by ???% of its\n    value on activation (dramatic).\n[Effect Duration] ?? seconds (Medium)"
+		"tr_explainLong": "① Boosts your Dark Element value by 80 of its\n    value on activation.\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "4020",
 		"jp_explainShort": "プレイヤーの闇属性を劇的強化",
 		"tr_explainShort": "Dark Element boosted",
 		"jp_explainLong": "① 効果発動時の闇属性値に応じて\n　　 闇属性を劇的に強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts your Dark Element value by ???% of its\n    value on activation (dramatic).\n[Effect Duration] ?? seconds (Medium)"
+		"tr_explainLong": "① Boosts your Dark Element value by 110 of its\n    value on activation.\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "4110",
@@ -7221,14 +7221,14 @@
 		"jp_explainShort": "敵から受けるダメージを軽減",
 		"tr_explainShort": "Damage taken reduced",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Reduces damage taken from enemies by ??%.\n[Effect Duration] 9 seconds"
+		"tr_explainLong": "① Reduces damage taken from enemies by 35%.\n[Effect Duration] 9 seconds"
 	},
 	{
 		"assign": "4520",
 		"jp_explainShort": "敵から受けるダメージを大軽減",
 		"tr_explainShort": "Damage taken reduced",
 		"jp_explainLong": "① 敵から受けるダメージを大きく軽減する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Reduces damage taken from enemies by ??%.\n[Effect Duration] 11 seconds"
+		"tr_explainLong": "① Reduces damage taken from enemies by 45%.\n[Effect Duration] 11 seconds"
 	},
 	{
 		"assign": "4810",
@@ -7340,7 +7340,7 @@
 		"jp_explainShort": "法術小強化＋加速",
 		"tr_explainShort": "Techs boosted + actions quickened",
 		"jp_explainLong": "① 法撃の威力をわずかに増加する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts the power of all Techs by ??% (slight).\n    <color=yellow>[A-Frame]</color>\n② Increases speed of movement and normal attacks.\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts the power of all Techs by ??% (slight).\n    <color=yellow>[A-Frame]</color>\n② Increases speed of movement and normal attacks.\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "5410",
@@ -7599,14 +7599,14 @@
 		"jp_explainShort": "プレイヤーの光属性を劇的強化",
 		"tr_explainShort": "Light Element boosted",
 		"jp_explainLong": "① 効果発動時の光属性値に応じて\n　　 光属性を劇的に強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts your Light Element value by 180% of its\n    value on activation.\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "① Boosts your Light Element value by 80% of its\n    value on activation.\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "9320",
 		"jp_explainShort": "プレイヤーの光属性を劇的強化",
 		"tr_explainShort": "Light Element boosted",
 		"jp_explainLong": "① 効果発動時の光属性値に応じて\n　　 光属性を劇的に強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts your Light Element value by ???% of its\n    value on activation (dramatic).\n[Effect Duration] ?? seconds (Medium)"
+		"tr_explainLong": "① Boosts your Light Element value by 110% of its\n    value on activation (dramatic).\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "9410",
@@ -7627,14 +7627,14 @@
 		"jp_explainShort": "ダメージ小増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boost + damage HP recovery",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ??% (slight).\n    <color=yellow>[E-Frame]</color>\n② Recovers ??% of damage dealt as HP.\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts damage by 25%.\n    <color=yellow>[E-Frame]</color>\n② Recovers 1% of damage dealt as HP.\n    (Maximum recovery per hit: 1% of max HP)\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "9424",
 		"jp_explainShort": "ダメージ小増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boost + damage HP recovery",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ??% (slight).\n    <color=yellow>[E-Frame]</color>\n② Recovers ??% of damage dealt as HP.\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts damage by ??% (slight).\n    <color=yellow>[E-Frame]</color>\n② Recovers 1% of damage dealt as HP.\n    (Maximum recovery per hit: 1% of max HP)\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "9421",
@@ -7732,7 +7732,7 @@
 		"jp_explainShort": "ターゲットとの距離によって攻撃力が大増加",
 		"tr_explainShort": "Damage boosted by distance from target",
 		"jp_explainLong": "① 攻撃対象の敵との距離が遠いほど\n　　 攻撃力を大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Greatly boosts damage based on how far you are\n    from the target.\n    <color=yellow>[E-Frame]</color>\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Greatly boosts damage based on how far you are\n    from the target.\n    <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "20037",
@@ -8019,7 +8019,7 @@
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "[Poison] + dam. boost vs [Poison]",
 		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Boosts damage by ??% against enemies affected\n    by [Poison] (slight).\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Boosts damage by ??% against enemies affected\n    by [Poison] (slight).\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "20066",

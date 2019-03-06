@@ -2305,14 +2305,14 @@
 	{
 		"assign": "31922",
 		"jp_explainShort": "光枚数属性ダメージ＋光枚数属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Light elem. boosted + max Light value up",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じ\n　　 光属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が大きく上昇する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts Light elemental damage by 130% + 10% x\n    the number of Light chips equipped against\n    enemies weak to Light.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Light value by 10 x the\n    number of Light chips equipped.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31923",
 		"jp_explainShort": "光枚数属性ダメージ＋光枚数属性上限上昇",
-		"tr_explainShort": "",
+		"tr_explainShort": "Light elem. boosted + max Light value up",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じ\n　　 光属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が大きく上昇する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts Light elemental damage by 150% + 10% x\n    the number of Light chips equipped against\n    enemies weak to Light.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Light value by 10 x the\n    number of Light chips equipped.\n[Effect Duration] 70 seconds"
 	},

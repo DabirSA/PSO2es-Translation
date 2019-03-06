@@ -2265,7 +2265,7 @@
 		"jp_explainShort": "必殺技・法術使用毎に威力大増加＋ＣＰ最大値増",
 		"tr_explainShort": "Dam. boost per PA/Tech use + max CP up",
 		"jp_explainLong": "① 必殺技・法術を使用するごとに\n　　 威力を大きく増加する。（最大時：超絶）\n② ＣＰの最大値を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ??% each time you use a PA or\n    Tech (great).\n    (Maximum boost: ???% (immense))\n    <color=yellow>[L-Frame]</color>\n② Increases your maximum CP by ??.\.\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts damage by ??% each time you use a PA or\n    Tech (great).\n    (Maximum boost: ???% (immense))\n    <color=yellow>[L-Frame]</color>\n② Increases your maximum CP by ??.\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31903",

@@ -1011,14 +1011,14 @@
 		"assign": "31277",
 		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力絶大強化",
 		"tr_explainShort": "PA&Tech CP usage up, damage boosted",
-		"jp_explainLong": "① 必殺技・法術の威力を絶大に増加する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts the power of all PAs and Techs by 135%.\n    <color=yellow>[A-Frame]</color>\n② Increases the CP consumption of all PAs\n    and Techs by 25%.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31278",
 		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力絶大強化",
 		"tr_explainShort": "PA&Tech CP usage up, damage boosted",
-		"jp_explainLong": "① 必殺技・法術の威力を絶大に増加する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts the power of all PAs and Techs by 145%.\n    <color=yellow>[A-Frame]</color>\n② Increases the CP consumption of all PAs\n    and Techs by 25%.\n[Effect Duration] 60 seconds"
 	},
 	{
@@ -1081,14 +1081,14 @@
 		"assign": "31327",
 		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力劇的強化",
 		"tr_explainShort": "PA&Tech power boosted, CP usage up",
-		"jp_explainLong": "① 必殺技・法術の威力を劇的に増加する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 必殺技・法術の威力を劇的に強化する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts the power of all PAs and Techs by ??% (dramatic).\n    <color=yellow>[A-Frame]</color>\n② Increases the CP consumption of all PAs\n    and Techs by ??%.\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31328",
 		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力劇的強化",
 		"tr_explainShort": "PA&Tech power boosted, CP usage up",
-		"jp_explainLong": "① 必殺技・法術の威力を劇的に増加する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 必殺技・法術の威力を劇的に強化する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts the power of all PAs and Techs by 95%.\n    <color=yellow>[A-Frame]</color>\n② Increases the CP consumption of all PAs\n    and Techs by 20%.\n[Effect Duration] 60 seconds"
 	},
 	{
@@ -1123,14 +1123,14 @@
 		"assign": "31345",
 		"jp_explainShort": "攻撃力小増加＋特定地形で攻撃力大増加",
 		"tr_explainShort": "Damage boost + damage boost on Lillipa",
-		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 砂漠か地下坑道か採掘場での戦闘では\n　　 さらに攻撃力を大きく増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 砂漠か地下坑道か採掘場での戦闘で\n　　 さらに攻撃力を大きく増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage by ??% (slight).\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage by ??% if fighting in the\n    Desert, the Tunnels or the Quarry (great).\n    <color=yellow>[I-Frame]</color>\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31346",
 		"jp_explainShort": "攻撃力大増加＋特定地形で攻撃力大増加",
 		"tr_explainShort": "Damage boost + damage boost on Lillipa",
-		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 砂漠か地下坑道か採掘場での戦闘では\n　　 さらに攻撃力を大きく増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 砂漠か地下坑道か採掘場での戦闘で\n　　 さらに攻撃力を大きく増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage by 40%.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage by 50% if fighting in the\n    Desert, the Tunnels or the Quarry.\n    <color=yellow>[I-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
@@ -1291,14 +1291,14 @@
 		"assign": "31453",
 		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力絶大強化",
 		"tr_explainShort": "PAs & Techs boosted + CP usage up",
-		"jp_explainLong": "① 必殺技・法術の威力を絶大に増加する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts the power of all PAs and Techs by ???% (great).\n    <color=yellow>[A-Frame]</color>\n② Increases the CP consumption of all PAs and Techs\n    by ??%.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31454",
 		"jp_explainShort": "技と法術のＣＰ消費を増加し、威力絶大強化",
 		"tr_explainShort": "PAs & Techs boosted + CP usage up",
-		"jp_explainLong": "① 必殺技・法術の威力を絶大に増加する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 必殺技・法術のＣＰ消費量を増加する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts the power of all PAs and Techs by 145%.\n    <color=yellow>[A-Frame]</color>\n② Increases the CP consumption of all PAs and Techs\n    by 25%.\n[Effect Duration] 60 seconds"
 	},
 	{
@@ -2138,21 +2138,21 @@
 		"assign": "31849",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
-		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage by ???% (immense).\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by ??% x this chip's ability level\n    against enemies in the Eternal Tower (maximal).\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips by ??% if\n    there is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31850",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
-		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage by ???% (immense).\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by ??% x this chip's ability level\n    against enemies in the Eternal Tower (maximal).\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips by ??% if\n    there is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31851",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
-		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage by 190%.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by 10% x this chip's ability level\n    against enemies in the Eternal Tower.\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips by ??% if\n    there is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
@@ -2283,35 +2283,35 @@
 	},
 	{
 		"assign": "31907",
-		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
+		"jp_explainShort": "攻撃力超絶増＋技法威力大強化＋ＣＰ消費増",
 		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
-		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 光属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく強化する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 光属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage by ???% (overwhelming).\n    <color=yellow>[E-Frame]</color>\n② Boosts the power of all PAs and Techs by ???% (great).\n    <color=yellow>[A-Frame]</color>\n③ Increases the CP consumption of all PAs\n    and Techs by ??%.\n④ If there is a Light chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    Light PAs and Techs are halved.\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31908",
-		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
+		"jp_explainShort": "攻撃力超絶増＋技法威力大強化＋ＣＰ消費増",
 		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
-		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 光属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく強化する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 光属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage by ???% (overwhelming).\n    <color=yellow>[E-Frame]</color>\n② Boosts the power of all PAs and Techs by ???% (great).\n    <color=yellow>[A-Frame]</color>\n③ Increases the CP consumption of all PAs\n    and Techs by ??%.\n④ If there is a Light chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    Light PAs and Techs are halved.\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31909",
-		"jp_explainShort": "攻撃力超絶増＋技法威力大増＋ＣＰ消費増",
+		"jp_explainShort": "攻撃力超絶増＋技法威力大強化＋ＣＰ消費増",
 		"tr_explainShort": "Dam. boost + PA/Tech boost, CP use up",
-		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく増加する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 光属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 必殺技・法術の威力を大きく強化する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n④ リンクスロットに装備したチップの属性が\n　　 光属性の場合に③の効果を無効にする。\n⑤ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts damage by ???% (overwhelming).\n    <color=yellow>[E-Frame]</color>\n② Boosts the power of all PAs and Techs by ???% (great).\n    <color=yellow>[A-Frame]</color>\n③ Increases the CP consumption of all PAs\n    and Techs by ??%.\n④ If there is a Light chip in this chip's link slot,\n    the effect of ③ is not applied.\n⑤ While this chip is equipped, the equip costs of\n    all PAs and Techs are halved.\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31922",
-		"jp_explainShort": "船上の歌姫 クーナ[ＴＣＧ]",
+		"jp_explainShort": "光枚数属性ダメージ＋光枚数属性上限上昇",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じ\n　　 光属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が大きく上昇する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts Light elemental damage by 130% + 10% x\n    the number of Light chips equipped against\n    enemies weak to Light.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Light value by 10 x the\n    number of Light chips equipped.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31923",
-		"jp_explainShort": "船上の歌姫 クーナ[ＳＴＣＧ]",
+		"jp_explainShort": "光枚数属性ダメージ＋光枚数属性上限上昇",
 		"tr_explainShort": "",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じ\n　　 光属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が大きく上昇する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts Light elemental damage by 150% + 10% x\n    the number of Light chips equipped against\n    enemies weak to Light.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Light value by 10 x the\n    number of Light chips equipped.\n[Effect Duration] 70 seconds"
@@ -7332,14 +7332,14 @@
 		"assign": "20043",
 		"jp_explainShort": "法術小強化＋加速",
 		"tr_explainShort": "Techs boosted + actions quickened",
-		"jp_explainLong": "① 法撃の威力をわずかに増加する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 法術の威力をわずかに強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts the power of all Techs by ??% (slight).\n    <color=yellow>[A-Frame]</color>\n② Increases speed of movement and normal attacks.\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "20044",
 		"jp_explainShort": "法術小強化＋加速",
 		"tr_explainShort": "Techs boosted + actions quickened",
-		"jp_explainLong": "① 法撃の威力をわずかに増加する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]長い時間",
+		"jp_explainLong": "① 法術の威力をわずかに強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts the power of all Techs by ??% (slight).\n    <color=yellow>[A-Frame]</color>\n② Increases speed of movement and normal attacks.\n[Effect Duration] 40 seconds"
 	},
 	{

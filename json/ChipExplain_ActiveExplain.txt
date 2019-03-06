@@ -7067,84 +7067,84 @@
 		"jp_explainShort": "炎属性を小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Fire Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Fire Element by 10.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "20210",
 		"jp_explainShort": "炎属性を強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Fire Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Fire Element by 20.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "20310",
 		"jp_explainShort": "氷属性を小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Ice Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Ice Element by 10.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "20410",
 		"jp_explainShort": "氷属性を強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Ice Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Ice Element by 20.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "20510",
 		"jp_explainShort": "雷属性を小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Lightning Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Lightning Element by 10.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "20610",
 		"jp_explainShort": "雷属性を強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Lightning Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Lightning Element by 20.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "20710",
 		"jp_explainShort": "風属性を小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Wind Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Wind Element by 10.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "20810",
 		"jp_explainShort": "風属性を強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Wind Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Wind Element by 20.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "20910",
 		"jp_explainShort": "光属性を小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Light Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Light Element by 10.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "21010",
 		"jp_explainShort": "光属性を強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Light Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Light Element by 20.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "21110",
 		"jp_explainShort": "闇属性を小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Slightly increases Dark Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Dark Element by 10.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "21210",
 		"jp_explainShort": "闇属性を強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Dark Element.\n[Effect Duration] ?? seconds (Short)"
+		"tr_explainLong": "① Increases your Dark Element by 20.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "3810",

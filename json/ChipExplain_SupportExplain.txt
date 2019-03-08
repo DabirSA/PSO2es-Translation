@@ -1376,14 +1376,14 @@
 		"jp_explainShort": "チップ発見数攻撃力劇的増加＋ＨＰ小回復",
 		"tr_explainShort": "Damage boost x Lab + HP up over time",
 		"jp_explainLong": "① チップ研究室において発見済みチップが\n　　 多いほど攻撃力を劇的に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 0.11% for each chip discovered\n    in the Chip Lab.\n    (Maximum boost: 110%)\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by ??% every ? seconds (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Boosts damage by 0.11% x the number of chips\n    discovered in the Chip Lab.\n    (Maximum boost: 110%)\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by ??% every ? seconds (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31170",
 		"jp_explainShort": "チップ発見数攻撃力絶大増加＋ＨＰ小回復",
 		"tr_explainShort": "Damage boost x Lab + HP up over time",
 		"jp_explainLong": "① チップ研究室において発見済みチップが\n　　 多いほど攻撃力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 0.15% for each chip discovered\n    in the Chip Lab.\n    (Maximum boost: 150%)\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Boosts damage by 0.15% x the number of chips\n    discovered in the Chip Lab.\n    (Maximum boost: 150%)\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31173",
@@ -2440,7 +2440,7 @@
 		"jp_explainShort": "攻撃小増＋必殺技のＣＰ消費増加と劇的強化",
 		"tr_explainShort": "Dam. boost + PA&Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 必殺技・法術の威力を劇的に強化する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ??% (slight).\n    <color=yellow>[E-Frame]</color>\n② Boosts the power of all PAs and Techs by ??%\n    (dramatic).\n    <color=yellow>[A-Frame]</color>\n③ Increases the CP consumption of all PAs and Techs\n    by ??%..\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by ??% (slight).\n    <color=yellow>[E-Frame]</color>\n② Boosts the power of all PAs and Techs by ??%\n    (dramatic).\n    <color=yellow>[A-Frame]</color>\n③ Increases the CP consumption of all PAs and Techs\n    by ??%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
 	},
 	{
 		"assign": "31392",
@@ -2664,14 +2664,14 @@
 		"jp_explainShort": "全種族に対してダメージが増加",
 		"tr_explainShort": "Damage boosted vs all races",
 		"jp_explainLong": "① アビリティレベルに応じて\n　　 すべての種族に与えるダメージを増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage against all races by 20% +\n    1 x this chip's ability level.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Boosts damage against all races by 20% +\n    1% x this chip's ability level.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31436",
 		"jp_explainShort": "全種族に対してダメージが大増加",
 		"tr_explainShort": "Damage boosted vs all races",
 		"jp_explainLong": "① アビリティレベルに応じて\n　　 すべての種族に与えるダメージを大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage against all races by 30% +\n    1 x this chip's ability level.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Boosts damage against all races by 30% +\n    1% x this chip's ability level.\n    <color=yellow>[B-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31439",

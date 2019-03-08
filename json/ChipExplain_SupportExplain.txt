@@ -4876,28 +4876,28 @@
 		"jp_explainShort": "必殺技・法術の威力大強化＋加速",
 		"tr_explainShort": "PAs & Techs boosted + actions quickened",
 		"jp_explainLong": "① 必殺技・法術の威力を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Increases speed of movement and normal attacks.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts the power of all PAs and Techs by 55%.\n    <color=yellow>[A-Frame]</color>\n② Increases speed of movement and normal attacks.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31894",
 		"jp_explainShort": "必殺技・法術の威力劇的強化＋加速",
 		"tr_explainShort": "PAs & Techs boosted + actions quickened",
 		"jp_explainLong": "① 必殺技・法術の威力を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Dramatically boosts PAs and Techs.\n    <color=yellow>[A-Frame]</color>\n② Increases speed of movement and normal attacks.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts the power of all PAs and Techs by 75%.\n    <color=yellow>[A-Frame]</color>\n② Increases speed of movement and normal attacks.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31895",
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加特大ダメージ",
 		"tr_explainShort": "HP recov. + CP recov. + add. damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Deals dramatic additional damage to enemies.\n    <color=yellow>[Chase]</color>\n② Recovers HP by ??% (slight).\n③ Recovers CP.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Deals an additional 105% damage to enemies.\n    <color=yellow>[Chase]</color>\n② Recovers HP by 10%.\n③ Recovers CP by 8.\n[Activation Trigger] Landing an attack\n[Effect Duration] 10 seconds"
 	},
 	{
 		"assign": "31896",
 		"jp_explainShort": "ＨＰ回復＋ＣＰ回復＋追加特大ダメージ",
 		"tr_explainShort": "HP recov. + CP recov. + add. damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰを回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Deals dramatic additional damage to enemies.\n    <color=yellow>[Chase]</color>\n② Recovers HP.\n③ Recovers CP.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Deals an additional 115% damage to enemies.\n    <color=yellow>[Chase]</color>\n② Recovers HP by 15%.\n③ Recovers CP by 12.\n[Activation Trigger] Landing an attack\n[Effect Duration] 10 seconds"
 	},
 	{
 		"assign": "31897",

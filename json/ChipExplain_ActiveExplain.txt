@@ -1152,14 +1152,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋氷属性武器で攻撃力増加",
 		"tr_explainShort": "Damage boosted + Ice weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 さらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ???% (dramatic).\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage b??25% if using an Ice\n    weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts damage by ???% (dramatic).\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by a further 25% if using an Ice\n    weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31380",
 		"jp_explainShort": "攻撃力絶大増加＋氷属性武器で攻撃力増加",
 		"tr_explainShort": "Damage boosted + Ice weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 さらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 140%.\n    <color=yellow>[E-Frame]</color>\n② Further boosts damage by 25% if using an Ice\n    weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "① Boosts damage by 140%.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by a further 25% if using an Ice\n    weapon.\n    <color=yellow>[H-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31389",

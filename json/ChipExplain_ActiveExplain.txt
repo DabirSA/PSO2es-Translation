@@ -1530,7 +1530,7 @@
 		"jp_explainShort": "攻撃力超絶増＋消費ＣＰ減＋特定条件時追撃",
 		"tr_explainShort": "Dam. boost + CP use down + add. dam.",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n③ リンクスロットに装備したチップのクラスボーナスが\n　　 ファイターかブレイバーの場合、追加ダメージを与える。\n④ このチップを装備中は氷属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ??? (overwhelming)%.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption by ??%.\n    (Even applies to this chip's activation cost)\n③ Deals an additional 30% damage to enemies if the\n    class bonus of the chip in this chip's link slot\n    is Fighter or Braver.\n    <color=yellow>[Chase]</color>\n④ While this chip is equipped, the equip costs of\n    Ice PAs and Techs are halved.\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts damage by ???% (overwhelming).\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption by ??%.\n    (Even applies to this chip's activation cost)\n③ Deals an additional 30% damage to enemies if the\n    class bonus of the chip in this chip's link slot\n    is Fighter or Braver.\n    <color=yellow>[Chase]</color>\n④ While this chip is equipped, the equip costs of\n    Ice PAs and Techs are halved.\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31577",

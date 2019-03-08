@@ -1635,14 +1635,14 @@
 		"jp_explainShort": "攻撃力超絶増＋ダメージ大軽減＋攻撃威力増",
 		"tr_explainShort": "Dam. boost + dam. res. + boost x D. link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 敵から受けるダメージを大きく軽減する。\n③ 全てのリンクスロットに装備した\n　　 闇属性チップの枚数に応じて攻撃の威力を増加する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 275%.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies by ??%.\n③ Boosts damage by 5% for each Dark chip\n    equipped in a link slot.\n    <color=yellow>[P-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts damage by 275%.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies by 40%.\n③ Boosts damage by 5% for each Dark chip\n    equipped in a link slot.\n    <color=yellow>[P-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31634",
 		"jp_explainShort": "攻撃力超絶増＋ダメージ大軽減＋攻撃威力増",
 		"tr_explainShort": "Dam. boost + dam. res. + boost x D. link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 敵から受けるダメージを大きく軽減する。\n③ 全てのリンクスロットに装備した\n　　 闇属性チップの枚数に応じて攻撃の威力を増加する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 290%.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies by ??%.\n③ Boosts damage by 5% for each Dark chip\n    equipped in a link slot.\n    <color=yellow>[P-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts damage by 290%.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies by 40%.\n③ Boosts damage by 5% for each Dark chip\n    equipped in a link slot.\n    <color=yellow>[P-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31635",
@@ -2048,7 +2048,7 @@
 		"jp_explainShort": "状態異常を取り払いＨＰを中回復",
 		"tr_explainShort": "Status cured + HP recovered",
 		"jp_explainLong": "① 自身にかかった状態異常を取り払う。\n② ＨＰを回復する。",
-		"tr_explainLong": "① Cures all status effects on yourself.\n② Recovers HP by ??%."
+		"tr_explainLong": "① Cures all status effects on yourself.\n② Recovers HP by 45%."
 	},
 	{
 		"assign": "31831",

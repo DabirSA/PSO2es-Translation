@@ -2076,14 +2076,14 @@
 		"jp_explainShort": "光枚数ＪＡ威力劇的増加＋ＪＡ攻撃力強化",
 		"tr_explainShort": "JAs boosted x # Light + JA = ATK up",
 		"jp_explainLong": "① 装備中チップの光属性チップの枚数に応じて\n　　 ジャストアタックの威力を劇的に増加する。\n② ジャストアタックごとに\n　　 攻撃力を強化する。（最大時：劇的）\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts the damage of Just Attacks by ???%\n    based on the number of Light chips equipped (dramatic).\n    <color=yellow>[T-Frame]</color>\n② Increases ATK by ??? each time you successfully\n    perform a Just Attack.\n  (Maximum Increase: ????)\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts the damage of Just Attacks by ???%\n    based on the number of Light chips equipped\n    (dramatic).\n    <color=yellow>[T-Frame]</color>\n② Increases ATK by ??? each time you successfully\n    perform a Just Attack.\n  (Maximum Increase: ????)\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31841",
 		"jp_explainShort": "光枚数ＪＡ威力絶大増加＋ＪＡ攻撃力強化",
 		"tr_explainShort": "JAs boosted x # Light + JA = ATK up",
 		"jp_explainLong": "① 装備中チップの光属性チップの枚数に応じて\n　　 ジャストアタックの威力を絶大に増加する。\n② ジャストアタックごとに\n　　 攻撃力を強化する。（最大時：劇的）\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts the damage of Just Attacks by ???%\n    based on the number of Light chips equipped (dramatic).\n    <color=yellow>[T-Frame]</color>\n② Increases ATK by ??? each time you successfully\n    perform a Just Attack.\n  (Maximum Increase: ????)\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts the damage of Just Attacks by ???%\n    based on the number of Light chips equipped\n    (dramatic).\n    <color=yellow>[T-Frame]</color>\n② Increases ATK by ??? each time you successfully\n    perform a Just Attack.\n  (Maximum Increase: ????)\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31842",
@@ -2139,21 +2139,21 @@
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ???% (immense).\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by ??% x this chip's ability level\n    against enemies in the Eternal Tower (maximal).\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips by ??% if\n    there is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts damage by ???% (immense).\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by ??% x this chip's ability level\n    against enemies in the Eternal Tower (maximal).\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips by ??%\n    if there is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31850",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ???% (immense).\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by ??% x this chip's ability level\n    against enemies in the Eternal Tower (maximal).\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips by ??% if\n    there is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts damage by ???% (immense).\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by ??% x this chip's ability level\n    against enemies in the Eternal Tower (maximal).\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips by ??%\n    if there is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31851",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② エターナルタワーで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 190%.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by 10% x this chip's ability level\n    against enemies in the Eternal Tower.\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips by ??% if\n    there is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts damage by 190%.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by 10% x this chip's ability level\n    against enemies in the Eternal Tower.\n    <color=yellow>[X-Frame]</color>\n③ Reduces the CP consumption of Dark chips by ??%\n    if there is a Dark chip in this chip's link slot.\n    (Even applies to this chip's activation cost)\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31852",
@@ -2244,14 +2244,14 @@
 		"jp_explainShort": "雷枚数ＪＡ威力超絶増加＋ＪＡ成功３回毎ＣＰ回復",
 		"tr_explainShort": "JA boost x # Lightning + 3 JAs = CP recovery",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じて\n　　 ジャストアタックの威力を超絶に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts the damage of Just Attacks by ???% x\n    the number of Lightning chips equipped (overwhelming).\n    <color=yellow>[T-Frame]</color>\n② Recovers CP by ??% each time you successfully\n    perform 3 Just Attacks (slight).\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts the damage of Just Attacks by ???% x\n    the number of Lightning chips equipped\n    (overwhelming).\n    <color=yellow>[T-Frame]</color>\n② Recovers CP by ??% each time you successfully\n    perform 3 Just Attacks (slight).\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31900",
 		"jp_explainShort": "雷枚数ＪＡ威力極度増加＋ＪＡ成功３回毎ＣＰ回復",
 		"tr_explainShort": "JA boost x # Lightning + 3 JAs = CP recovery",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じて\n　　 ジャストアタックの威力を極度に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts the damage of Just Attacks by ???% x\n    the number of Lightning chips equipped (maximal).\n    <color=yellow>[T-Frame]</color>\n② Recovers CP by ??% each time you successfully\n    perform 3 Just Attacks (slight)\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Boosts the damage of Just Attacks by ???% x\n    the number of Lightning chips equipped\n    (maximal).\n    <color=yellow>[T-Frame]</color>\n② Recovers CP by ??% each time you successfully\n    perform 3 Just Attacks (slight)\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "31901",

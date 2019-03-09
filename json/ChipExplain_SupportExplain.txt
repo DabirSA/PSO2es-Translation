@@ -1824,14 +1824,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋追加ダメージ効果小増加",
 		"tr_explainShort": "Damage boosted + add. damage boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中チップの追加ダメージ威力を\n　　 それぞれわずかに増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 190%.\n    <color=yellow>[E-Frame]</color>\n② Increases the strength of all <color=yellow>[Chase]</color>\n    effects by 25%.\n    <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Boosts damage by 190%.\n    <color=yellow>[E-Frame]</color>\n② Increases the strength of all <color=yellow>[Chase]</color> effects by\n    25%.\n    <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31274",
 		"jp_explainShort": "攻撃力超絶増加＋追加ダメージ効果増加",
 		"tr_explainShort": "Damage boosted + add. damage boosted",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 装備中チップの追加ダメージ威力を\n　　 それぞれ増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 200%.\n    <color=yellow>[E-Frame]</color>\n② Increases the strength of all <color=yellow>[Chase]</color> effects by 35%.\n    <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "① Boosts damage by 200%.\n    <color=yellow>[E-Frame]</color>\n② Increases the strength of all <color=yellow>[Chase]</color> effects by\n    35%.\n    <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31275",

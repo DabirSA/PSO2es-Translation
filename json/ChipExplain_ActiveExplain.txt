@@ -2174,14 +2174,14 @@
 		"jp_explainShort": "闇枚数属性ダメージ＋闇枚数属性上限上昇",
 		"tr_explainShort": "Dark elem. boosted + max Dark value up",
 		"jp_explainLong": "① 装備中の闇属性チップの枚数に応じ\n　　 闇属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Dark elemental damage against enemies\n    weak to Dark by 130% + 10% x the number of Dark\n    chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Dark value by 10 x the\n    number of Dark chips equipped.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "① Boosts Dark elemental damage against enemies\n    weak to Dark by 130% + 10% x the number of\n    Dark chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Dark value by 10 x the\n    number of Dark chips equipped.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31859",
 		"jp_explainShort": "闇枚数属性ダメージ＋闇枚数属性上限上昇",
 		"tr_explainShort": "Dark elem. boosted + max Dark value up",
 		"jp_explainLong": "① 装備中の闇属性チップの枚数に応じ\n　　 闇属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Dark elemental damage against enemies\n    weak to Dark by 150% + 10% x the number of Dark\n    chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Dark value by 10 x the\n    number of Dark chips equipped.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts Dark elemental damage against enemies\n    weak to Dark by 150% + 10% x the number of\n    Dark chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Dark value by 10 x the\n    number of Dark chips equipped.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31864",
@@ -2216,14 +2216,14 @@
 		"jp_explainShort": "風枚数属性ダメージ＋風枚数属性上限上昇",
 		"tr_explainShort": "Wind elem. boosted + max Wind value up",
 		"jp_explainLong": "① 装備中の風属性チップの枚数に応じ\n　　 風属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Wind elemental damage by 130% + 10% x\n    the number of Wind chips equipped against\n    enemies weak to Wind.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Wind value by 10 x the\n    number of Wind chips equipped.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "① Boosts Wind elemental damage against enemies\n    weak to Wind by 130% + 10% x the number of\n    Wind chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Wind value by 10 x the\n    number of Wind chips equipped.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31886",
 		"jp_explainShort": "風枚数属性ダメージ＋風枚数属性上限上昇",
 		"tr_explainShort": "Wind elem. boosted + max Wind value up",
 		"jp_explainLong": "① 装備中の風属性チップの枚数に応じ\n　　 風属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Wind elemental damage by 150% + 10% x\n    the number of Wind chips equipped against\n    enemies weak to Wind.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Wind value by 10 x the\n    number of Wind chips equipped.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts Wind elemental damage against enemies\n    weak to Wind by 150% + 10% x the number of\n    Wind chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Wind value by 10 x the\n    number of Wind chips equipped.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31887",
@@ -2272,14 +2272,14 @@
 		"jp_explainShort": "氷枚数属性ダメージ＋氷枚数属性上限上昇",
 		"tr_explainShort": "Ice elem. boosted + max Ice value up",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じ\n　　 氷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Ice elemental damage against enemies\n    weak to Ice by 130% + 10% x the number of Ice\n    chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Ice value by 10 x the\n    number of Ice chips equipped.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "① Boosts Ice elemental damage against enemies\n    weak to Ice by 130% + 10% x the number of\n    Ice chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Ice value by 10 x the\n    number of Ice chips equipped.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31904",
 		"jp_explainShort": "氷枚数属性ダメージ＋氷枚数属性上限上昇",
 		"tr_explainShort": "Ice elem. boosted + max Ice value up",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じ\n　　 氷属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Ice elemental damage against enemies\n    weak to Ice by 150% + 10% x the number of Ice\n    chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Ice value by 10 x the\n    number of Ice chips equipped.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts Ice elemental damage against enemies\n    weak to Ice by 150% + 10% x the number of\n    Ice chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Ice value by 10 x the\n    number of Ice chips equipped.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31907",
@@ -2307,14 +2307,14 @@
 		"jp_explainShort": "光枚数属性ダメージ＋光枚数属性上限上昇",
 		"tr_explainShort": "Light elem. boosted + max Light value up",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じ\n　　 光属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Light elemental damage against enemies\n    weak to Light by 130% + 10% x the number of Light\n    chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Light value by 10 x the\n    number of Light chips equipped.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "① Boosts Light elemental damage against enemies\n    weak to Light by 130% + 10% x the number of\n    Light chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Light value by 10 x the\n    number of Light chips equipped.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31923",
 		"jp_explainShort": "光枚数属性ダメージ＋光枚数属性上限上昇",
 		"tr_explainShort": "Light elem. boosted + max Light value up",
 		"jp_explainLong": "① 装備中の光属性チップの枚数に応じ\n　　 光属性が弱点の敵に対して\n　　 その属性によるダメージを超絶に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性の上限値が大きく上昇する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Light elemental damage against enemies\n    weak to Light by 150% + 10% x the number of Light\n    chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Light value by 10 x the\n    number of Light chips equipped.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts Light elemental damage against enemies\n    weak to Light by 150% + 10% x the number of\n    Light chips equipped.\n    <color=yellow>[S-Frame]</color>\n② Increases your maximum Light value by 10 x the\n    number of Light chips equipped.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "2110",

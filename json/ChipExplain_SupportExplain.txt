@@ -8306,14 +8306,14 @@
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Dark Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "3620",
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Dark Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "3710",
@@ -8488,14 +8488,14 @@
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Wind Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "5720",
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Wind Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "5810",
@@ -8537,21 +8537,21 @@
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Ice Element by ?? (slight).\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] ?? seconds (short)"
 	},
 	{
 		"assign": "6310",
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Ice Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "6320",
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Ice Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "6510",
@@ -8642,14 +8642,14 @@
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Fire Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "8020",
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Fire Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "8110",
@@ -8712,14 +8712,14 @@
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Light Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "8520",
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Light Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "8610",
@@ -8824,14 +8824,14 @@
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Lightning Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Lightning Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "9620",
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases Lightning Element by ?? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Lightning Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "9710",

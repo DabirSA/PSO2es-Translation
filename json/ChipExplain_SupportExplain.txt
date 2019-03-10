@@ -1558,14 +1558,14 @@
 		"jp_explainShort": "機甲種にダメージ劇的増加＋被ダメージ軽減",
 		"tr_explainShort": "Dam. boost & damage reduced vs Mechs",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 機甲種から受けるダメージを軽減する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage against Mechs by ??% (dramatic).\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Mechs.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage against Mechs by ??% (dramatic).\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Mechs by ??%.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] ?? seconds (medium)"
 	},
 	{
 		"assign": "31210",
 		"jp_explainShort": "機甲種ダメージ劇的増加＋被ダメージ大軽減",
 		"tr_explainShort": "Dam. boost & damage reduced vs Mechs",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 機甲種から受けるダメージを大きく軽減する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage against Mechs by ??% (dramatic).\n    <color=yellow>[B-Frame]</color>\n② Greatly reduces damage taken from Mechs.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage against Mechs by 90%.\n    <color=yellow>[B-Frame]</color>\n② Reduces damage taken from Mechs by 40%.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31213",

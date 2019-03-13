@@ -2706,8 +2706,7 @@
 		"jp_explainShort": "攻撃力大増加＋氷風闇の技・法の威力大増",
 		"tr_explainShort": "Dam. boost + Ice/Wind/Dark move boost",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 必殺技・法術チップが氷・風・闇属性の場合は\n　　 威力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 40%n    <color=yellow>[E-Frame]</color>\n
-        ② Boosts Ice, Wind and Dark PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 40%n    <color=yellow>[E-Frame]</color>\n② Boosts Ice, Wind and Dark PAs and Techs.\n    <color=yellow>[K-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
 	},
 	{
 		"assign": "31446",

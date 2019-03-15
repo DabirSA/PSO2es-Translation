@@ -1838,14 +1838,14 @@
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が光属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 345%.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by ??% every 5 seconds.\n③ Extends the Effect Duration of chips' abilities by\n    10 seconds if there is a Light chip in this chip's link\n    slot.\n④ While this chip is equipped, the equip costs of\n    Light PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts damage by 345%.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by 10% every 5 seconds.\n③ Extends the Effect Duration of chips' abilities by\n    10 seconds if there is a Light chip in this chip's link\n    slot.\n④ While this chip is equipped, the equip costs of\n    Light PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31734",
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が光属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 365%.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by ??% every 5 seconds.\n③ Extends the Effect Duration of chips' abilities by\n    10 seconds if there is a Light chip in this chip's link\n    slot.\n④ While this chip is equipped, the equip costs of\n    Light PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "① Boosts damage by 365%.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by 10% every 5 seconds.\n③ Extends the Effect Duration of chips' abilities by\n    10 seconds if there is a Light chip in this chip's link\n    slot.\n④ While this chip is equipped, the equip costs of\n    Light PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31735",

@@ -8334,7 +8334,7 @@
 		"jp_explainShort": "防御力が小強化",
 		"tr_explainShort": "DEF up",
 		"jp_explainLong": "① 防御力をわずかに強化する。\n[発動条件]バトル開始時\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases DEF by ??? (slight).\n[Activation Trigger] Start of battle\n[Effect Duration] ?? seconds (long)"
+		"tr_explainLong": "① Increases DEF by ??? (slight).\n[Activation Trigger] Start of battle\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "4220",
@@ -8348,7 +8348,7 @@
 		"jp_explainShort": "追加で小ダメージ",
 		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で小ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "① Deals an additional ??% damage to enemies\n    (minor).\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "① Deals an additional 7% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "4420",
@@ -8404,7 +8404,7 @@
 		"jp_explainShort": "ダーカーから受けるダメージが軽減",
 		"tr_explainShort": "Damage from Darkers reduced",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[発動条件]ダーカーからダメージを受けた時",
-		"tr_explainLong": "① Reduces damage taken by ??%.\n[Activation Trigger] Taking damage from Darkers"
+		"tr_explainLong": "① Reduces damage taken by 40%.\n[Activation Trigger] Taking damage from Darkers"
 	},
 	{
 		"assign": "5220",
@@ -8502,7 +8502,7 @@
 		"jp_explainShort": "攻撃力が小強化",
 		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases ATK by ??? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases ATK by ??? (slight).\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "5820",

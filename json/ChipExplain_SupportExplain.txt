@@ -2867,7 +2867,7 @@
 		"jp_explainShort": "発見済みウェポノイドチップ数で追加ダメージ",
 		"tr_explainShort": "Add. damage x # Weaponoids discovered",
 		"jp_explainLong": "① チップ研究室において発見済みウェポノイドチップが\n　　 多いほど追加で特大ダメージを与える。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Deals an additional 0.4% damage x the number of\n    Weaponoid Chips discovered in the Chip Lab.\n    (Maximum additional damage: 80%)\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Deals an additional 0.4% damage x the number of\n    Weaponoid Chips discovered in the Chip Lab.\n    (Maximum additional damage: 80%)\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31473",
@@ -8292,7 +8292,7 @@
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by ?? (slight).\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Dark Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "3520",
@@ -8474,7 +8474,7 @@
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by ?? (slight).\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Wind Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "5620",
@@ -8530,7 +8530,7 @@
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by ?? (slight).\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Ice Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "6220",
@@ -8656,7 +8656,7 @@
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by ?? (slight).\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Fire Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "8120",
@@ -8726,7 +8726,7 @@
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by ?? (slight).\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Light Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "8620",
@@ -8810,7 +8810,7 @@
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Lightning Element by ?? (slight).\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] ?? seconds (short)"
+		"tr_explainLong": "① Increases your Lightning Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "9520",

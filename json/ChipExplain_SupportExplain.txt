@@ -4092,7 +4092,7 @@
 		"jp_explainShort": "ダーカーにダメージ増加＋攻撃力劇的強化",
 		"tr_explainShort": "Damage boost vs Darkers + ATK up",
 		"jp_explainLong": "① ダーカーに与えるダメージを増加する。\n② 攻撃力を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage against Darkers by 35%.\n    <color=yellow>[B-Frame]</color>\n② Increases ATK by 5000.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds
+		"tr_explainLong": "① Boosts damage against Darkers by 35%.\n    <color=yellow>[B-Frame]</color>\n② Increases ATK by 5000.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31722",

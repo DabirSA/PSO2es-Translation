@@ -2818,7 +2818,7 @@
 		"jp_explainShort": "ダメージ軽減＋風弱点時ダメージ劇的増加",
 		"tr_explainShort": "Dam. resist + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 80% against enemies that are\n    weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies by 30%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds
+		"tr_explainLong": "① Boosts damage by 80% against enemies that are\n    weak to Wind.\n    <color=yellow>[D-Frame]</color>\n② Reduces damage taken from enemies by 30%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31466",

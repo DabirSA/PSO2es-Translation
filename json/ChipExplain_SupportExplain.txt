@@ -2594,14 +2594,14 @@
 		"jp_explainShort": "攻撃力超絶増＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② ジャストアタックで与えたダメージの一部を\n　　 自身のＨＰとして回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ???% (overwhelming).\n    <color=yellow>[E-Frame]</color>\n② Recovers ??% of damage dealt by Just Attacks\n    as HP\n    (Maximum recovery: ??% of your max HP).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by ???% (overwhelming).\n    <color=yellow>[E-Frame]</color>\n② Recovers ??% of damage dealt by Just Attacks\n    as HP.\n    (Maximum recovery: ??% of your max HP).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (medium)"
 	},
 	{
 		"assign": "31422",
 		"jp_explainShort": "攻撃力超絶増＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② ジャストアタックで与えたダメージの一部を\n　　 自身のＨＰとして回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 210%.\n    <color=yellow>[E-Frame]</color>\n② Recovers 1% of damage dealt by Just Attacks\n    as HP\n    (Maximum recovery: 3% of your max HP).\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "① Boosts damage by 210%.\n    <color=yellow>[E-Frame]</color>\n② Recovers 1% of damage dealt by Just Attacks\n    as HP.\n    (Maximum recovery: 3% of your max HP).\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31423",

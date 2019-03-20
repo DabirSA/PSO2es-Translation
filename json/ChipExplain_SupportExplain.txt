@@ -4799,21 +4799,21 @@
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が闇属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by ??% every ? seconds (slight).\n③ Extends the Effect Duration of chips' abilities if\n    there is a Dark chip in this chip's link slot.\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 345%.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by 10% every 5 seconds.\n③ Extends the Effect Duration of chips' abilities by\n    5 seconds if there is a Dark chip in this chip's link\n    slot.\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
 	},
 	{
 		"assign": "31877",
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が闇属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by ??% every ? seconds (slight).\n③ Extends the Effect Duration of chips' abilities if\n    there is a Dark chip in this chip's link slot.\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 365%.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by 10% every 5 seconds.\n③ Extends the Effect Duration of chips' abilities by\n    10 seconds if there is a Dark chip in this chip's link\n    slot.\n④ While this chip is equipped, the equip costs of\n    Dark PAs and Techs are halved.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
 	},
 	{
 		"assign": "31878",
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が闇属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Maximally boosts damage.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by ??% every ? seconds (slight).\n③ Extends the Effect Duration of chips' abilities if\n    there is a Dark chip in this chip's link slot.\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are halved.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 390%.\n    <color=yellow>[E-Frame]</color>\n② Recovers HP by 10% every 5 seconds.\n③ Extends the Effect Duration of chips' abilities by\n    10 seconds if there is a Dark chip in this chip's link\n    slot.\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are halved.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
 	},
 	{
 		"assign": "31879",

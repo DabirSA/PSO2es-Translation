@@ -4848,28 +4848,28 @@
 		"jp_explainShort": "ダメージ効果絶大増＋ＪＡ成功毎さらに増加＋加速",
 		"tr_explainShort": "Dam. effect boost x JA + actions quickened",
 		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② ジャストアタックを成功させるごとに\n　　 ダメージ効果をわずかに増加する。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts damage effects.\n    <color=yellow>[Z-Frame]</color>\n② Slightly boosts damage effects for each successful\n    Just Attack.\n    <color=yellow>[Z-Frame]</color>\n③ Increases speed of movement and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage effects by 120%.\n    <color=yellow>[Z-Frame]</color>\n② Boosts damage effects by 1% each time you\n    successfully perform a Just Attack.\n    <color=yellow>[Z-Frame]</color>\n③ Increases speed of movement and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31890",
 		"jp_explainShort": "ダメージ効果絶大増＋ＪＡ成功毎さらに増加＋加速",
 		"tr_explainShort": "Dam. effect boost x JA + actions quickened",
 		"jp_explainLong": "① ダメージ効果を絶大に増加する。\n② ジャストアタックを成功させるごとに\n　　 ダメージ効果をわずかに増加する。\n③ 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Immensely boosts damage effects.\n    <color=yellow>[Z-Frame]</color>\n② Slightly boosts damage effects for each successful\n    Just Attack.\n    <color=yellow>[Z-Frame]</color>\n③ Increases speed of movement and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (long)"
+		"tr_explainLong": "① Boosts damage effects by 130%.\n    <color=yellow>[Z-Frame]</color>\n② Boosts damage effects by 1% each time you\n    successfully perform a Just Attack.\n    <color=yellow>[Z-Frame]</color>\n③ Increases speed of movement and normal attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31891",
 		"jp_explainShort": "雷属性ダメージ＋回避",
 		"tr_explainShort": "Lightning elem. boosted + chance to evade",
 		"jp_explainLong": "① 雷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts Lightning elemental damage\n    against enemies weak to Lightning.\n    <color=yellow>[S-Frame]</color>\n② Grants a ?? chance to avoid damage from\n    enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Lightning elemental damage by 145%\n    against enemies weak to Lightning.\n    <color=yellow>[S-Frame]</color>\n② Grants a ?? chance to avoid damage from\n    enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
 	},
 	{
 		"assign": "31892",
 		"jp_explainShort": "雷属性ダメージ＋回避",
 		"tr_explainShort": "Lightning elem. boosted + chance to evade",
 		"jp_explainLong": "① 雷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Immensely boosts Lightning elemental damage\n    against enemies weak to Lightning.\n    <color=yellow>[S-Frame]</color>\n② Grants a ?? chance to avoid damage from\n    enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Lightning elemental damage by 155%\n    against enemies weak to Lightning.\n    <color=yellow>[S-Frame]</color>\n② Grants a ?? chance to avoid damage from\n    enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31893",

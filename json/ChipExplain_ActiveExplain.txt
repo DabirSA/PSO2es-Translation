@@ -1810,15 +1810,13 @@
 		"jp_explainShort": "属性ダメージ＋ダメージ防御＋一定確率回避",
 		"tr_explainShort": "Weakness boosted + barrier + evading",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 敵からの攻撃を一定確率で回避する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts elemental damage by 135% against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Grants a ??% chance to avoid damage from\n    enemies.\n[Effect Duration] 60 seconds"
-	},
+		"tr_explainLong": "① Boosts elemental damage by 135% against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Grants a ??% chance to avoid damage from\n    enemies.\n[Effect Duration] 60 seconds"	},
 	{
 		"assign": "31712",
 		"jp_explainShort": "属性ダメージ＋ダメージ防御＋一定確率回避",
 		"tr_explainShort": "Weakness boosted + barrier + evading",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 敵からの攻撃を一定確率で回避する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts elemental damage by 155% against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Grants a ??% chance to avoid damage from\n    enemies.\n[Effect Duration] 70 seconds"
-	},
+		"tr_explainLong": "① Boosts elemental damage by 155% against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Grants a ??% chance to avoid damage from\n    enemies.\n[Effect Duration] 70 seconds"	},
 	{
 		"assign": "31713",
 		"jp_explainShort": "攻撃力を劇的強化＋防御力減少",
@@ -1901,22 +1899,19 @@
 		"jp_explainShort": "攻撃力増＋ダメージ防御＋風弱点ダメージ増",
 		"tr_explainShort": "Dam. boost + barrier + Wind weak boost",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 275%.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Boosts damage by 7% x the number of Wind chips\n    equipped in all link slots against enemies weak to\n    Wind.\n    <color=yellow>[D-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are halved.\n[Effect Duration] ?? seconds (Long)"
-	},
+		"tr_explainLong": "① Boosts damage by 275%.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Boosts damage by 7% x the number of Wind chips\n    equipped in all link slots against enemies weak to\n    Wind.\n    <color=yellow>[D-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are halved.\n[Effect Duration] ?? seconds (Long)"	},
 	{
 		"assign": "31753",
 		"jp_explainShort": "攻撃力増＋ダメージ防御＋風弱点ダメージ増",
 		"tr_explainShort": "Dam. boost + barrier + Wind weak boost",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 290%.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Boosts damage by 7% x the number of Wind chips\n    equipped in all link slots against enemies weak to\n    Wind.\n    <color=yellow>[D-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are halved.\n[Effect Duration] ?? seconds (Long)"
-	},
+		"tr_explainLong": "① Boosts damage by 290%.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Boosts damage by 7% x the number of Wind chips\n    equipped in all link slots against enemies weak to\n    Wind.\n    <color=yellow>[D-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    Wind PAs and Techs are halved.\n[Effect Duration] ?? seconds (Long)"	},
 	{
 		"assign": "31754",
 		"jp_explainShort": "攻撃力増＋ダメージ防御＋風弱点ダメージ増",
 		"tr_explainShort": "Dam. boost + barrier + Wind weak boost",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 310%.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Boosts damage by 7% x the number of Wind chips\n    equipped in all link slots against enemies weak to\n    Wind.\n    <color=yellow>[D-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
-	},
+		"tr_explainLong": "① Boosts damage by 310%.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Boosts damage by 7% x the number of Wind chips\n    equipped in all link slots against enemies weak to\n    Wind.\n    <color=yellow>[D-Frame]</color>\n④ While this chip is equipped, the equip costs of\n    all PAs and Techs are halved.\n[Effect Duration] 70 seconds"	},
 	{
 		"assign": "31757",
 		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
@@ -1936,15 +1931,13 @@
 		"jp_explainShort": "絶大追撃＋ダーカー大ダメージ＋ダメージ防御",
 		"tr_explainShort": "Add. dam. + boost. vs Darkers + barrier",
 		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② ダーカーに与えるダメージを大きく増加する。\n③ 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[効果時間]長い時間",
-		"tr_explainLong": "① Deals an additional 165% damage to enemies.\n    <color=yellow>[Chase]</color>\n② Boosts damage against Darkers by 45%.\n    <color=yellow>[B-Frame]</color>\n③ Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n[Effect Duration] 60 seconds"
-	},
+		"tr_explainLong": "① Deals an additional 165% damage to enemies.\n    <color=yellow>[Chase]</color>\n② Boosts damage against Darkers by 45%.\n    <color=yellow>[B-Frame]</color>\n③ Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n[Effect Duration] 60 seconds"	},
 	{
 		"assign": "31760",
 		"jp_explainShort": "絶大追撃＋ダーカー大ダメージ＋ダメージ防御",
 		"tr_explainShort": "Add. dam. + boost. vs Darkers + barrier",
 		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② ダーカーに与えるダメージを大きく増加する。\n③ 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[効果時間]長い時間",
-		"tr_explainLong": "① Deals an additional 175% damage to enemies.\n    <color=yellow>[Chase]</color>\n② Boosts damage against Darkers by 45%.\n    <color=yellow>[B-Frame]</color>\n③ Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n[Effect Duration] 70 seconds"
-	},
+		"tr_explainLong": "① Deals an additional 175% damage to enemies.\n    <color=yellow>[Chase]</color>\n② Boosts damage against Darkers by 45%.\n    <color=yellow>[B-Frame]</color>\n③ Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n[Effect Duration] 70 seconds"	},
 	{
 		"assign": "31772",
 		"jp_explainShort": "攻撃力絶大増加＋一定確率で自身がフリーズ",
@@ -1964,15 +1957,13 @@
 		"jp_explainShort": "属性ダメージ＋ダメージ防御＋一定確率回避",
 		"tr_explainShort": "Elem. dam. boost + barrier + rand. evasion",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを劇的に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 敵からの攻撃を一定確率で回避する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts elemental damage by 65% against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Grants a ?% chance to avoid damage from\n    enemies.\n[Effect Duration] 60 seconds"
-	},
+		"tr_explainLong": "① Boosts elemental damage by 65% against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Grants a ?% chance to avoid damage from\n    enemies.\n[Effect Duration] 60 seconds"	},
 	{
 		"assign": "31779",
 		"jp_explainShort": "属性ダメージ＋ダメージ防御＋一定確率回避",
 		"tr_explainShort": "Elem. dam. boost + barrier + rand. evasion",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを劇的に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 敵からの攻撃を一定確率で回避する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts elemental damage by 70% against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Grants a ?% chance to avoid damage from\n    enemies.\n[Effect Duration] 70 seconds"
-	},
+		"tr_explainLong": "① Boosts elemental damage by 70% against\n    enemies weak to that element.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Grants a ?% chance to avoid damage from\n    enemies.\n[Effect Duration] 70 seconds"	},
 	{
 		"assign": "31780",
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
@@ -1992,15 +1983,13 @@
 		"jp_explainShort": "アビＬｖ技法増加＋ダメージ防御＋フリーズ付与",
 		"tr_explainShort": "PA/T boost x lv. + barr. + counter-Freeze",
 		"jp_explainLong": "① アビリティレベルに応じて必殺技・法術チップの\n　　 威力を大きく増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「フリーズ」効果を与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts the power of all PAs and Techs by 5% x\n    this chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    5% of your HP x this chip's ability level.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] 60 seconds"
-	},
+		"tr_explainLong": "① Boosts the power of all PAs and Techs by 5% x\n    this chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    5% of your HP x this chip's ability level.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] 60 seconds"	},
 	{
 		"assign": "31789",
 		"jp_explainShort": "アビＬｖ技法増加＋ダメージ防御＋フリーズ付与",
 		"tr_explainShort": "PA/T boost x lv. + barr. + counter-Freeze",
 		"jp_explainLong": "① アビリティレベルに応じて必殺技・法術チップの\n　　 威力を大きく増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「フリーズ」効果を与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts the power of all PAs and Techs by 6% x\n    this chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    5% of your HP x this chip's ability level.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] 70 seconds"
-	},
+		"tr_explainLong": "① Boosts the power of all PAs and Techs by 6% x\n    this chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    5% of your HP x this chip's ability level.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] 70 seconds"	},
 	{
 		"assign": "31790",
 		"jp_explainShort": "被バーン状態時に攻撃力劇的増加",
@@ -2062,15 +2051,13 @@
 		"jp_explainShort": "氷属性ダメージ＋ダメージ防御＋フリーズ付与",
 		"tr_explainShort": "Ice weak boost + barrier + counter [Freeze]",
 		"jp_explainLong": "① 氷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「フリーズ」効果を与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Ice elemental damage by ???% against\n    enemies weak to Ice (immense).\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] ?? seconds (Long)"
-	},
+		"tr_explainLong": "① Boosts Ice elemental damage by ???% against\n    enemies weak to Ice (immense).\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] ?? seconds (Long)"	},
 	{
 		"assign": "31835",
 		"jp_explainShort": "氷属性ダメージ＋ダメージ防御＋フリーズ付与",
 		"tr_explainShort": "Ice weak boost + barrier + counter [Freeze]",
 		"jp_explainLong": "① 氷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「フリーズ」効果を与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts Ice elemental damage by ???% against\n    enemies weak to Ice (immense).\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] ?? seconds (Long)"
-	},
+		"tr_explainLong": "① Boosts Ice elemental damage by ???% against\n    enemies weak to Ice (immense).\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Freeze].\n[Effect Duration] ?? seconds (Long)"	},
 	{
 		"assign": "31840",
 		"jp_explainShort": "光枚数ＪＡ威力劇的増加＋ＪＡ攻撃力強化",

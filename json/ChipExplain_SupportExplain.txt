@@ -4673,28 +4673,28 @@
 		"jp_explainShort": "アビＬｖ風技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Wind boost x ab. lv. + extension x # Wind",
 		"jp_explainLong": "① 必殺技・法術チップが風属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Wind PAs and Techs by ??% based on this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Wind Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Wind PAs and Techs by ??% + ?% x this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Wind Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31855",
 		"jp_explainShort": "アビＬｖ風技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Wind boost x ab. lv. + extension x # Wind",
 		"jp_explainLong": "① 必殺技・法術チップが風属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Wind PAs and Techs by ??% based on this\n    chip's ability level (dramatic).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Wind Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Wind PAs and Techs by 38% + 3% x this\n    chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Wind Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31856",
 		"jp_explainShort": "アビＬｖ雷技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Thun. boost x ab. lv. + extension x # Thun.",
 		"jp_explainLong": "① 必殺技・法術チップが雷属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Lightning PAs and Techs by ??% based on\n    this chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Lightning Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Lightning PAs and Techs by ??% + ?% x\n    this chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Lightning Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31857",
 		"jp_explainShort": "アビＬｖ雷技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Thun. boost x ab. lv. + extension x # Thun.",
 		"jp_explainLong": "① 必殺技・法術チップが雷属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Lightning PAs and Techs by ??% based on\n    this chip's ability level (dramatic).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Lightning Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Lightning PAs and Techs by 38% + 3% x\n    this chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Lightning Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31860",
@@ -4743,28 +4743,28 @@
 		"jp_explainShort": "アビＬｖ炎技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Fire boost x ab. lv. + extension x # Fire",
 		"jp_explainLong": "① 必殺技・法術チップが炎属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の炎属性チップの枚数に応じて\n　　 炎属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Fire PAs and Techs by ??% based on this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Fire Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Fire PAs and Techs by ??% + ?% x this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Fire Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31869",
 		"jp_explainShort": "アビＬｖ炎技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Fire boost x ab. lv. + extension x # Fire",
 		"jp_explainLong": "① 必殺技・法術チップが炎属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の炎属性チップの枚数に応じて\n　　 炎属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Fire PAs and Techs by ??% based on this\n    chip's ability level (dramatic).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Fire Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Fire PAs and Techs by 38% + 3% x this\n    chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Fire Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31870",
 		"jp_explainShort": "アビＬｖ闇技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Dark boost x ab. lv. + extension x # Dark",
 		"jp_explainLong": "① 必殺技・法術チップが闇属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Dark PAs and Techs by ??% based on this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Dark Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Dark PAs and Techs by ??% + ?% x this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Dark Support\n    Chips' abilities by ?? seconds x the number of\n    Dark chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31871",
 		"jp_explainShort": "アビＬｖ闇技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Dark boost x ab. lv. + extension x # Dark",
 		"jp_explainLong": "① 必殺技・法術チップが闇属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Dark PAs and Techs by ??% based on this\n    chip's ability level (dramatic).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Dark Support\n    Chips' abilities by ?? seconds x the number of\n    Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Dark PAs and Techs by 38% + 3% x this\n    chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Dark Support\n    Chips' abilities by ?? seconds x the number of\n    Dark chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31872",
@@ -4820,14 +4820,14 @@
 		"jp_explainShort": "アビＬｖ光技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Light boost x ab. lv. + extension x # Light",
 		"jp_explainLong": "① 必殺技・法術チップが光属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Light PAs and Techs by ??% based on this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Light Support\n    Chips' abilities by ?? seconds x the number of\n    Light chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Light PAs and Techs by ??% + ?% x this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Light Support\n    Chips' abilities by ?? seconds x the number of\n    Light chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31880",
 		"jp_explainShort": "アビＬｖ光技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Light boost x ab. lv. + extension x # Light",
 		"jp_explainLong": "① 必殺技・法術チップが光属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Light PAs and Techs by ??% based on this\n    chip's ability level (dramatic).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Light Support\n    Chips' abilities by ?? seconds x the number of\n    Light chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Light PAs and Techs by 38% + 3% x this\n    chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Light Support\n    Chips' abilities by ?? seconds x the number of\n    Light chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31883",
@@ -4932,14 +4932,14 @@
 		"jp_explainShort": "アビＬｖ氷技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Ice boost x ab. lv. + extension x # Ice",
 		"jp_explainLong": "① 必殺技・法術チップが氷属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Ice PAs and Techs by ??% based on this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Ice Support\n    Chips' abilities by ?? seconds x the number of\n    Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Ice PAs and Techs by ??% + ?% x this\n    chip's ability level (great).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Ice Support\n    Chips' abilities by ?? seconds x the number of\n    Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31911",
 		"jp_explainShort": "アビＬｖ氷技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Ice boost x ab. lv. + extension x # Ice",
 		"jp_explainLong": "① 必殺技・法術チップが氷属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Ice PAs and Techs by ??% based on this\n    chip's ability level (dramatic).\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Ice Support\n    Chips' abilities by ?? seconds x the number of\n    Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Ice PAs and Techs by 38% + 3% x this\n    chip's ability level.\n    <color=yellow>[K-Frame]</color>\n② Extends the Effect Duration of Ice Support\n    Chips' abilities by ?? seconds x the number of\n    Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31912",

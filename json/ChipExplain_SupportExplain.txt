@@ -3266,7 +3266,7 @@
 		"jp_explainShort": "攻撃力劇的増＋必殺技・法術使用毎に小増加",
 		"tr_explainShort": "Damage boost + boost per PA/Tech use",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 必殺技・法術を使用するごとに\n　　 威力をわずかに増加する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ??% (dramatic).\n    <color=yellow>[E-Frame]</color>\n② Slightly boosts damage each time you use a PA\n    or Tech.\n    (Maximum boost: Dramatic)\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (long)"
+		"tr_explainLong": "① Boosts damage by ??% (dramatic).\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by ??% each time you use a PA\n    or Tech (slight).\n    (Maximum boost: ???% (Dramatic))\n    <color=yellow>[L-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (long)"
 	},
 	{
 		"assign": "31554",
@@ -4946,28 +4946,28 @@
 		"jp_explainShort": "闇属性ダメージ＋ダメージ防御＋ポイズン付与",
 		"tr_explainShort": "Dark elem. boosted + barrier + counter-Poison",
 		"jp_explainLong": "① 闇属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「ポイズン」効果を与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Dark elemental damage by ???%\n    against enemies weak to Dark (immense).\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    ??% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Dark elemental damage by 150%\n    against enemies weak to Dark.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31913",
 		"jp_explainShort": "闇属性ダメージ＋ダメージ防御＋ポイズン付与",
 		"tr_explainShort": "Dark elem. boosted + barrier + counter-Poison",
 		"jp_explainLong": "① 闇属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵からダメージを受けた時\n　　 一定確率で「ポイズン」効果を与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts Dark elemental damage by ???%\n    against enemies weak to Dark (immense).\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    ??% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts Dark elemental damage by 160%\n    against enemies weak to Dark.\n    <color=yellow>[S-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    50% of your maximum HP.\n③ Responds to damage from the targeted enemy\n    with a fixed chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31914",
 		"jp_explainShort": "攻撃ダメージ増＋特定属性チップ装備攻撃力増",
 		"tr_explainShort": "Attack damage boost + weakness chip boost",
 		"jp_explainLong": "① 攻撃ダメージを劇的に増加する。\n② 敵の弱点に有効な属性のチップを装備している場合\n　　 攻撃力を絶大に増加する。\n③ ＣＰの回復速度を劇的に強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts attack damage by ??% (dramatic).\n    <color=yellow>[W-Frame]</color>\n② Immensely boosts damage when equipped with a\n    chip of an element the targeted enemy is weak to.\n    <color=yellow>[?-Frame]</color>\n③ Boosts your CP regeneration speed by ??%\n    (dramatic).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts attack damage by 65%.\n    <color=yellow>[W-Frame]</color>\n② Boosts damage by 140% when equipped with a\n    chip of an element the targeted enemy is weak to.\n    <color=yellow>[2A-Frame]</color>\n③ Boosts your CP regeneration speed by ??%\n    (dramatic).\n[Activation Trigger] Landing an attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31915",
 		"jp_explainShort": "攻撃ダメージ増＋特定属性チップ装備攻撃力増",
 		"tr_explainShort": "Attack damage boost + weakness chip boost",
 		"jp_explainLong": "① 攻撃ダメージを劇的に増加する。\n② 敵の弱点に有効な属性のチップを装備している場合\n　　 攻撃力を絶大に増加する。\n③ ＣＰの回復速度を劇的に強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts attack damage by ??% (dramatic).\n    <color=yellow>[W-Frame]</color>\n② Immensely boosts damage when equipped with a\n    chip of an element the targeted enemy is weak to.\n    <color=yellow>[?-Frame]</color>\n③ Boosts your CP regeneration speed by ??%\n    (dramatic).\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts attack damage by 65%.\n    <color=yellow>[W-Frame]</color>\n② Boosts damage by 150% when equipped with a\n    chip of an element the targeted enemy is weak to.\n    <color=yellow>[2A-Frame]</color>\n③ Boosts your CP regeneration speed by ??%\n    (dramatic).\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31918",
@@ -4988,14 +4988,14 @@
 		"jp_explainShort": "闇武器攻撃力絶大増加＋闇属性上限上昇",
 		"tr_explainShort": "Dark weapons boosted + max Dark up",
 		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 攻撃力を絶大に増加する。\n② 闇属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ???% if using a Dark weapon\n    (immense).\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Dark element value by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 130% if using a Dark weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Dark element value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31921",
 		"jp_explainShort": "闇武器攻撃力絶大増加＋闇属性上限上昇",
 		"tr_explainShort": "Dark weapons boosted + max Dark up",
 		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 攻撃力を絶大に増加する。\n② 闇属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ???% if using a Dark weapon\n    (immense).\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Dark element value by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 140% if using a Dark weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Dark element value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31924",

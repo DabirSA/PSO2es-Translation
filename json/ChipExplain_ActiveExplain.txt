@@ -2111,7 +2111,7 @@
 		"jp_explainShort": "必殺技・法術使用毎に威力小増加",
 		"tr_explainShort": "Damage boost per PA/Tech use",
 		"jp_explainLong": "① 必殺技・法術を使用するごとに\n　　 威力をわずかに増加する。（最大時：大きく）\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by ??% each time you use a PA\n    or Tech.\n    (Maximum boost: ???% (great))\n    <color=yellow>[L-Frame]</color>\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "① Boosts damage by 11.5% each time you use a PA\n    or Tech.\n    (Maximum boost: 57.5%)\n    <color=yellow>[L-Frame]</color>\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31846",

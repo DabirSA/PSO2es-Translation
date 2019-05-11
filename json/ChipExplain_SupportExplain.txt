@@ -5093,7 +5093,7 @@
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加大ダメージ",
 		"tr_explainShort": "HP recov. + CP recov. + add. dam.",
 		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "① Deals an additional ??% damage to enemies (heavy).\n    <color=yellow>[Chase]</color>\n② Recovers HP by ??% (slight).\n③ Recovers CP by ??%.\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "① Deals an additional ??% damage to enemies\n    (heavy).\n    <color=yellow>[Chase]</color>\n② Recovers HP by ??% (slight).\n③ Recovers CP by ??%.\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "31936",

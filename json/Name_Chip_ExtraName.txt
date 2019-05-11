@@ -1421,13 +1421,13 @@
 	},
 	{
 		"assign": "4759",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "闇の両剣 爆化",
+		"tr_text": "Dark Double Saber - Magnification"
 	},
 	{
 		"assign": "4760",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "闇の両剣 爆化＋",
+		"tr_text": "Dark Double Saber - Magnification+"
 	},
 	{
 		"assign": "4761",
@@ -1981,13 +1981,13 @@
 	},
 	{
 		"assign": "4871",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "氷の長杖 爆化",
+		"tr_text": "Ice Rod - Magnification"
 	},
 	{
 		"assign": "4872",
-		"jp_text": "-",
-		"tr_text": ""
+		"jp_text": "氷の長杖 爆化＋",
+		"tr_text": "Ice Rod - Magnification+"
 	},
 	{
 		"assign": "4873",

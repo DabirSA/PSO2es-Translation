@@ -2216,14 +2216,14 @@
 		"jp_explainShort": "攻撃力超絶増加＋消費ＣＰ減少",
 		"tr_explainShort": "Dam. boost x # Lightning + CP use down",
 		"jp_explainLong": "① 装備中チップの雷属性の枚数に応じて\n　　 攻撃力を超絶に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ???% + ??% x  the number of\n    Lightning chips equipped. (overwhelming)\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption by ??%.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Boosts damage by ???% + ??% x the number of\n    Lightning chips equipped. (overwhelming)\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption by ??%.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31354",
 		"jp_explainShort": "攻撃力超絶増加＋消費ＣＰ減少",
 		"tr_explainShort": "Dam. boost x # Lightning + CP use down",
 		"jp_explainLong": "① 装備中チップの雷属性の枚数に応じて\n　　 攻撃力を超絶に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 195% + 5% x  the number of\n    Lightning chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption by 40%.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Boosts damage by 195% + 5% x the number of\n    Lightning chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Reduces CP consumption by 40%.\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31357",
@@ -2244,14 +2244,14 @@
 		"jp_explainShort": "攻撃力増加＋追加絶大ダメージ",
 		"tr_explainShort": "Damage boosted + additional damage",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 敵に追加で絶大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 30%.\n    <color=yellow>[E-Frame]</color>\n② Deals an additional 130?% damage to enemies\n    (tremendous).\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Boosts damage by 30%.\n    <color=yellow>[E-Frame]</color>\n② Deals an additional 130% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31360",
 		"jp_explainShort": "攻撃力大増加＋追加絶大ダメージ",
 		"tr_explainShort": "Damage boosted + additional damage",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 敵に追加で絶大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts damage by 40%n    <color=yellow>[E-Frame]</color>\n② Deals an additional 135% damage to enemies\n    (tremendous).\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "① Boosts damage by 40%n    <color=yellow>[E-Frame]</color>\n② Deals an additional 135% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31361",

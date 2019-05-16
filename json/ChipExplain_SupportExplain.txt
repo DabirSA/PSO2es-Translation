@@ -18,14 +18,14 @@
 		"jp_explainShort": "攻撃力が大強化",
 		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases ATK by ??? (great).\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Increases ATK by ??? (great).\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "820",
 		"jp_explainShort": "攻撃力が大強化",
 		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases ATK by ??? (great).\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Increases ATK by ??? (great).\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "1010",
@@ -319,7 +319,7 @@
 		"jp_explainShort": "定期的にＨＰが小回復＋ダウン無効",
 		"tr_explainShort": "HP up over time + knockdown immunity",
 		"jp_explainLong": "① 定期的にＨＰをわずかに回復する。\n② ダウンしなくなる。\n[発動条件]敵からの攻撃でＨＰが一定以下になった時\n[効果時間]一定時間",
-		"tr_explainLong": "① Recovers HP by ??% every ? seconds (slight).\n② Grants knockdown immunity.\n[Activation Trigger] Damaged to low HP\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Recovers HP by 8% every 5 seconds.\n② Grants knockdown immunity.\n[Activation Trigger] Damaged to low HP\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "30055",
@@ -1222,7 +1222,7 @@
 		"jp_explainShort": "状態異常付与＋状態異常ダメージ絶大増加",
 		"tr_explainShort": "Status imbued + damage boost vs status",
 		"jp_explainLong": "① 通常攻撃にランダムで特定の状態異常効果を付与する。\n② 状態異常の敵に対してダメージを絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Gives normal attacks a chance to inflict random\n    status effects.\n② Boosts damage by 120% against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Gives normal attacks a chance to inflict random\n    status effects.\n② Boosts damage by 120% against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31134",
@@ -2412,7 +2412,7 @@
 		"jp_explainShort": "光属性値に応じて攻撃力超絶増加",
 		"tr_explainShort": "Damage boosted x Light Element",
 		"jp_explainLong": "① 光属性値に応じて攻撃力を超絶に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 120% + 0.333% x your Light\n    Element value.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 120% + 0.333% x your Light\n    Element value.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31386",

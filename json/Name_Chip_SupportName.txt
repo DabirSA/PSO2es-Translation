@@ -1622,12 +1622,12 @@
 	{
 		"assign": "31363",
 		"jp_text": "剛衝破天斬",
-		"tr_text": ""
+		"tr_text": "Strength to Split the Heavens"
 	},
 	{
 		"assign": "31364",
 		"jp_text": "剛衝破天斬＋",
-		"tr_text": ""
+		"tr_text": "Strength to Split the Heavens+"
 	},
 	{
 		"assign": "31365",
@@ -2002,12 +2002,12 @@
 	{
 		"assign": "31463",
 		"jp_text": "六世苦根毒",
-		"tr_text": ""
+		"tr_text": "Agony Unto The Sixth Generation"
 	},
 	{
 		"assign": "31464",
 		"jp_text": "六世苦根毒＋",
-		"tr_text": ""
+		"tr_text": "Agony Unto The Sixth Generation+"
 	},
 	{
 		"assign": "31465",
@@ -2022,12 +2022,12 @@
 	{
 		"assign": "31467",
 		"jp_text": "厳氷成層斬",
-		"tr_text": ""
+		"tr_text": "Ice-Bound Slash"
 	},
 	{
 		"assign": "31468",
 		"jp_text": "厳氷成層斬＋",
-		"tr_text": ""
+		"tr_text": "Ice-Bound Slash+"
 	},
 	{
 		"assign": "31469",

@@ -912,12 +912,12 @@
 	{
 		"assign": "31443",
 		"jp_text": "垂氷の剣よ戒めと成れ",
-		"tr_text": ""
+		"tr_text": "Cold and Cautious Blades"
 	},
 	{
 		"assign": "31444",
 		"jp_text": "垂氷の剣よ戒めと成れ＋",
-		"tr_text": ""
+		"tr_text": "Cold and Cautious Blades+"
 	},
 	{
 		"assign": "31453",
@@ -5257,12 +5257,12 @@
 	{
 		"assign": "20007",
 		"jp_text": "疾烈の堕翼",
-		"tr_text": ""
+		"tr_text": "Angel of Death"
 	},
 	{
 		"assign": "20008",
 		"jp_text": "疾神の堕翼",
-		"tr_text": ""
+		"tr_text": "God of Death"
 	},
 	{
 		"assign": "20017",

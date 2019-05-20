@@ -2321,14 +2321,14 @@
 		"jp_explainShort": "必殺技・法術威力絶大強化＋ダメージ軽減",
 		"tr_explainShort": "PAs/Techs boosted + dam. taken reduced",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts power of PAs and Techs by ???%\n    (immense).\n    <color=yellow>[A-Frame]</color>\n② Reduces damage taken from enemies.\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts power of PAs and Techs by ???%\n    (immense).\n    <color=yellow>[A-Frame]</color>\n② Reduces damage taken from enemies by ??%.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31939",
 		"jp_explainShort": "必殺技・法術威力絶大強化＋ダメージ大軽減",
 		"tr_explainShort": "PAs/Techs boosted + dam. taken reduced",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Boosts power of PAs and Techs by ???%\n    (immense).\n    <color=yellow>[A-Frame]</color>\n② Greatly reduces damage taken from enemies.\n[Effect Duration] Long"
+		"tr_explainLong": "① Boosts power of PAs and Techs by 145%.\n    <color=yellow>[A-Frame]</color>\n② Reduces damage taken from enemies by ??% (great).\n[Effect Duration] ?? seconds (long)"
 	},
 	{
 		"assign": "31949",

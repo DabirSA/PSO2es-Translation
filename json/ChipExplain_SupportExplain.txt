@@ -5100,14 +5100,14 @@
 		"jp_explainShort": "炎武器攻撃力絶大増加＋炎属性上限上昇",
 		"tr_explainShort": "Fire weapons boosted + max Fire up",
 		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 攻撃力を絶大に増加する。\n② 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ??% if using a Fire weapon\n    (immense).\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Fire value by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 130% if using a Fire weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Fire value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31937",
 		"jp_explainShort": "炎武器攻撃力絶大増加＋炎属性上限上昇",
 		"tr_explainShort": "Fire weapons boosted + max Fire up",
 		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 攻撃力を絶大に増加する。\n② 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ??% if using a Fire weapon\n    (immense).\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Fire value by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 140% if using a Fire weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Fire value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31940",
@@ -5142,7 +5142,7 @@
 		"jp_explainShort": "風武器攻撃力絶大増加＋風属性上限上昇",
 		"tr_explainShort": "Wind weapons boosted + max Wind up",
 		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 攻撃力を絶大に増加する。\n② 風属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 140% if using a Wind weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Wind value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 140% if using a Wind weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Wind value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31947",

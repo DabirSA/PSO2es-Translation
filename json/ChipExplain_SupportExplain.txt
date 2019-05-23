@@ -1796,7 +1796,7 @@
 		"jp_explainShort": "攻撃力大増加＋飛翔剣で大増加",
 		"tr_explainShort": "Damage boosted + Dual Blades boosted",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 飛翔剣を装備している場合は\n　　 さらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ??% (great).\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by a further ??% if equipped with\n    Dual Blades.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 60%.\n    <color=yellow>[E-Frame]</color>\n② Boosts damage by a further 30% if equipped with\n    Dual Blades.\n    <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31264",

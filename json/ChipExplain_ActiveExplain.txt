@@ -7375,7 +7375,7 @@
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "[Poison] + damage boosted vs [Poison]",
 		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Boosts damage by 8% against enemies affected\n    by [Poison].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Boosts damage by ??% against enemies affected\n    by [Poison] (slight).\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "20018",
@@ -8075,13 +8075,13 @@
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "[Poison] + dam. boost vs [Poison]",
 		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Boosts damage by ??% against enemies affected\n    by [Poison] (slight).\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Boosts damage by 8% against enemies affected\n    by [Poison].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "20066",
 		"jp_explainShort": "「ポイズン」付与＋「ポイズン」ダメージ小増加",
 		"tr_explainShort": "[Poison] + dam. boost vs [Poison]",
 		"jp_explainLong": "① 敵に「ポイズン」を付与する。\n② 「ポイズン」状態の敵に対して\n　　 ダメージをわずかに増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Boosts damage by ??% against enemies affected\n    by [Poison] (slight).\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Inflicts [Poison] on targeted enemy.\n② Boosts damage by 16% against enemies affected\n    by [Poison].\n    <color=yellow>[C-Frame]</color>\n[Effect Duration] 30 seconds"
 	}
 ]

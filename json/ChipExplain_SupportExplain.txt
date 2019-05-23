@@ -1754,7 +1754,7 @@
 		"jp_explainShort": "ダメージ軽減＋雷チップ数で攻撃力劇的増加",
 		"tr_explainShort": "Dam. resist + dam. boost x # of Lightning",
 		"jp_explainLong": "① 装備中の雷属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 敵から受けるダメージを軽減する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 13% x the number of Lightning\n    chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies by ??%.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 13% x the number of Lightning\n    chips equipped.\n    <color=yellow>[E-Frame]</color>\n② Reduces damage taken from enemies by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31252",
@@ -5135,14 +5135,14 @@
 		"jp_explainShort": "風武器攻撃力絶大増加＋風属性上限上昇",
 		"tr_explainShort": "Wind weapons boosted + max Wind up",
 		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 攻撃力を絶大に増加する。\n② 風属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ??% if using a Wind weapon\n    (immense).\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Wind value by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 130% if using a Wind weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Wind value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31946",
 		"jp_explainShort": "風武器攻撃力絶大増加＋風属性上限上昇",
 		"tr_explainShort": "Wind weapons boosted + max Wind up",
 		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 攻撃力を絶大に増加する。\n② 風属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by ??% if using a Wind weapon\n    (immense).\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Wind value by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 140% if using a Wind weapon.\n    <color=yellow>[H-Frame]</color>\n② Increases your maximum Wind value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds (medium)"
 	},
 	{
 		"assign": "31947",

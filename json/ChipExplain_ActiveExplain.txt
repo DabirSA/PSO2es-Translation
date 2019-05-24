@@ -4,7 +4,7 @@
 		"jp_explainShort": "炎属性を大強化＋攻撃力を小強化",
 		"tr_explainShort": "Fire Element up + slight ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 炎属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by ??? (slight).\n② Increases your Fire Element by 70.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "① Increases ATK by 200.\n② Increases your Fire Element by 70.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "120",
@@ -18,7 +18,7 @@
 		"jp_explainShort": "氷属性を大強化＋攻撃力を小強化",
 		"tr_explainShort": "Ice Element up + slight ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 氷属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by ??? (slight).\n② Increases your Ice Element by 70.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "① Increases ATK by 200.\n② Increases your Ice Element by 70.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "220",
@@ -32,7 +32,7 @@
 		"jp_explainShort": "雷属性を大強化＋攻撃力を小強化",
 		"tr_explainShort": "Lightning Element up + slight ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 雷属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by ??? (slight).\n② Increases your Lightning Element by 70.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "① Increases ATK by 200.\n② Increases your Lightning Element by 70.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "320",
@@ -46,7 +46,7 @@
 		"jp_explainShort": "風属性を大強化＋攻撃力を小強化",
 		"tr_explainShort": "Wind Element up + slight ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 風属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by ??? (slight).\n② Increases your Wind Element by 70.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "① Increases ATK by 200.\n② Increases your Wind Element by 70.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "420",
@@ -60,7 +60,7 @@
 		"jp_explainShort": "光属性を大強化＋攻撃力を小強化",
 		"tr_explainShort": "Light Element up + slight ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 光属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by ??? (slight).\n② Increases your Light Element by 70.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "① Increases ATK by 200.\n② Increases your Light Element by 70.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "520",
@@ -74,7 +74,7 @@
 		"jp_explainShort": "闇属性を大強化＋攻撃力を小強化",
 		"tr_explainShort": "Dark Element up + slight ATK up",
 		"jp_explainLong": "① 攻撃力をわずかに強化する。\n② 闇属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by ??? (slight).\n② Increases your Dark Element by 70.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "① Increases ATK by 200.\n② Increases your Dark Element by 70.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "620",
@@ -228,7 +228,7 @@
 		"jp_explainShort": "通常攻撃と移動を加速＋攻撃力を大強化",
 		"tr_explainShort": "Actions quickened + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases ATK by ??? (great).\n② Increases speed of movement and normal attacks.\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Increases ATK by 450.\n② Increases speed of movement and normal attacks.\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "30002",
@@ -424,14 +424,14 @@
 		"jp_explainShort": "攻撃力を大強化＋ダウン無効",
 		"tr_explainShort": "ATK up + knockdown immunity",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② ダウンしなくなる。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by ??? (great).\n② Grants knockdown immunity.\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "① Increases ATK by 460.\n② Grants knockdown immunity.\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "30054",
 		"jp_explainShort": "攻撃力を大強化＋ダウン無効",
 		"tr_explainShort": "ATK up + knockdown immunity",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② ダウンしなくなる。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by ??? (great).\n② Grants knockdown immunity.\n[Effect Duration] 45 seconds"
+		"tr_explainLong": "① Increases ATK by 580.\n② Grants knockdown immunity.\n[Effect Duration] 45 seconds"
 	},
 	{
 		"assign": "30067",

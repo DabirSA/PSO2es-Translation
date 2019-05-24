@@ -312,14 +312,14 @@
 		"jp_explainShort": "ＣＰ残量に応じて攻撃力を劇的強化",
 		"tr_explainShort": "ATK up in proportion to remaining CP",
 		"jp_explainLong": "① ＣＰ残量が多いほど攻撃力を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by 13 x your CP (dramatic).\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "① Increases ATK by ?? x your remaining CP\n    (dramatic).\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "30018",
 		"jp_explainShort": "ＣＰ残量に応じて攻撃力を劇的強化",
 		"tr_explainShort": "ATK up in proportion to remaining CP",
 		"jp_explainLong": "① ＣＰ残量が多いほど攻撃力を劇的に強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases ATK by 13 x your CP.\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Increases ATK by 13 x your remaining CP.\n[Effect Duration] ?? seconds (Long)"
 	},
 	{
 		"assign": "30027",

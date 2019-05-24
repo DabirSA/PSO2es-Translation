@@ -137,7 +137,7 @@
 		"jp_explainShort": "攻撃力が強化",
 		"tr_explainShort": "ATK increased",
 		"jp_explainLong": "① 攻撃力を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases ATK by ???.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Increases ATK by 300.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "30009",

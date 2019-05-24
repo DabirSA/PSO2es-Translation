@@ -375,7 +375,7 @@
 		"jp_explainShort": "通常攻撃に「ポイズン」効果＋攻撃大強化",
 		"tr_explainShort": "[Poison] imbued + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「ポイズン」効果を与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases ATK by ??? (great).\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Increases ATK by 580.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "30063",
@@ -389,7 +389,7 @@
 		"jp_explainShort": "通常攻撃に「ミラージュ」効果＋攻撃大強化",
 		"tr_explainShort": "[Mirage] imbued + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「ミラージュ」効果を与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases ATK by ??? (great).\n② Gives normal attacks a chance to inflict [Mirage].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Increases ATK by 580.\n② Gives normal attacks a chance to inflict [Mirage].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "30065",
@@ -1467,7 +1467,7 @@
 		"jp_explainShort": "ミラージュ付与＋ミラージュ時ダメージ劇的増加",
 		"tr_explainShort": "[Mirage] imbued + dam. boost vs [Mirage]",
 		"jp_explainLong": "① 通常攻撃に「ミラージュ」効果を付与する。\n② 「ミラージュ」状態の敵に対して\n　　 ダメージを劇的に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "① Gives normal attacks a chance to inflict [Mirage].\n② Boosts damage by 70% against enemies\n    affected by [Mirage] by 70%.\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "① Gives normal attacks a chance to inflict [Mirage].\n② Boosts damage by 70% against enemies\n    affected by [Mirage].\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31191",

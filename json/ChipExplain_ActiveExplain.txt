@@ -368,7 +368,7 @@
 		"jp_explainShort": "通常攻撃に「パニック」＋攻撃力を大強化",
 		"tr_explainShort": "[Panic] imbued + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「パニック」効果を付与する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases ATK by ??? (great).\n② Gives normal attacks a chance to inflict [Panic].\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Increases ATK by 450.\n② Gives normal attacks a chance to inflict [Panic].\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "30034",

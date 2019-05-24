@@ -1432,7 +1432,7 @@
 		"jp_explainShort": "ＨＰ・ＣＰ特大回復＋追加特大ダメージ",
 		"tr_explainShort": "HP & CP recovery + additional damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰを劇的に回復する。\n③ ＣＰを劇的に回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Deals an additional 105% damage to enemies.\n    <color=yellow>[Chase]</color>\n② Recovers HP by ??% (dramatic).\n③ Recovers CP by ?? (dramatic).\n[Effect Duration] ?? seconds (Long)"
+		"tr_explainLong": "① Deals an additional 105% damage to enemies.\n    <color=yellow>[Chase]</color>\n② Recovers HP by 98%.\n③ Recovers CP by 98.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31524",

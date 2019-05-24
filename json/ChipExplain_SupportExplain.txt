@@ -2629,7 +2629,7 @@
 		"jp_explainShort": "攻撃力劇的増加＋ダメージ防御",
 		"tr_explainShort": "Damage boosted + barrier",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 70%.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    ??% of your maximum HP.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds (medium)"
+		"tr_explainLong": "① Boosts damage by 70%.\n    <color=yellow>[E-Frame]</color>\n② Grants you a barrier that prevents damage up to\n    ??% of your maximum HP.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31431",

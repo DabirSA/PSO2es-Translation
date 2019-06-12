@@ -326,7 +326,7 @@
 		"jp_explainShort": "風チップ数に応じて攻撃力を強化",
 		"tr_explainShort": "ATK up x # of Wind chips",
 		"jp_explainLong": "① 装備中の風属性チップの枚数に応じて\n　　 攻撃力を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases your ATK by 100 x the number of\n    Wind chips equipped.\n<color=yellow>SP: </color>Increases your ATK by 110 x the number of\n     Wind chips equipped.\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "① Increases your ATK by 100 x the number of\n    Wind chips equipped.\n<color=yellow>SP: </color>Increases your ATK by 110 x the number of\n    Wind chips equipped.\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "30028",

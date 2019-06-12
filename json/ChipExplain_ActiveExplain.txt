@@ -2615,14 +2615,14 @@
 		"jp_explainShort": "全体に中ダメージ＋確率で「ポイズン」",
 		"tr_explainShort": "Damage to all + chance to [Poison]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に中ダメージを与える。\n② 一定確率で「ポイズン」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium damage to all enemies.\n② Has a chance to inflict [Poison]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 675% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 810% shooting damage to all enemies.\n② Has a chance to inflict [Poison]."
 	},
 	{
 		"assign": "81120",
 		"jp_explainShort": "全体に大ダメージ＋確率で「ポイズン」",
 		"tr_explainShort": "Damage to all + chance to [Poison]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に大ダメージを与える。\n② 一定確率で「ポイズン」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy damage to all enemies.\n② Has a chance to inflict [Poison]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 900% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 1080% shooting damage to all enemies.\n② Has a chance to inflict [Poison]."
 	},
 	{
 		"assign": "81210",
@@ -7333,14 +7333,14 @@
 		"jp_explainShort": "中ダメージ＋一定確率で「ポイズン」",
 		"tr_explainShort": "Medium damage + chance to [Poison]",
 		"jp_explainLong": "【ダメージボム】\n① 中ダメージを与える。\n② 一定確率で「ポイズン」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium damage to the target. \n② Has a chance to inflict [Poison]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 375% shooting damage to the target.\n<color=yellow>SP: </color>Deals 450% shooting damage to the target.\n② Has a chance to inflict [Poison]."
 	},
 	{
 		"assign": "3920",
 		"jp_explainShort": "中ダメージ＋一定確率で「ポイズン」",
 		"tr_explainShort": "Medium damage + chance to [Poison]",
 		"jp_explainLong": "【ダメージボム】\n① 中ダメージを与える。\n② 一定確率で「ポイズン」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium damage to the target. \n② Has a chance to inflict [Poison]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 525% shooting damage to the target.\n<color=yellow>SP: </color>Deals 675% shooting damage to the target.\n② Has a chance to inflict [Poison]."
 	},
 	{
 		"assign": "4010",
@@ -7515,70 +7515,70 @@
 		"jp_explainShort": "打撃による小ダメージ",
 		"tr_explainShort": "Minor striking damage",
 		"jp_explainLong": "【ダメージボム】\n① 打撃による小ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals minor striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 100% striking damage to the target.\n<color=yellow>SP: </color>Deals 120% striking damage to the target."
 	},
 	{
 		"assign": "5420",
 		"jp_explainShort": "打撃による小ダメージ",
 		"tr_explainShort": "Minor striking damage",
 		"jp_explainLong": "【ダメージボム】\n① 打撃による小ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals minor striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 140% striking damage to the target.\n<color=yellow>SP: </color>Deals 160% striking damage to the target."
 	},
 	{
 		"assign": "5510",
 		"jp_explainShort": "射撃による小ダメージ",
 		"tr_explainShort": "Minor shooting damage",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による小ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals minor shooting damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 190% shooting damage to the target.\n<color=yellow>SP: </color>Deals 230% shooting damage to the target."
 	},
 	{
 		"assign": "5520",
 		"jp_explainShort": "射撃による中ダメージ",
 		"tr_explainShort": "Medium shooting damage",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 270% shooting damage to the target.\n<color=yellow>SP: </color>Deals 320% shooting damage to the target."
 	},
 	{
 		"assign": "6010",
 		"jp_explainShort": "射撃による小ダメージ",
 		"tr_explainShort": "Minor shooting damage",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による小ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals minor shooting damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 190% shooting damage to the target.\n<color=yellow>SP: </color>Deals 230% shooting damage to the target."
 	},
 	{
 		"assign": "6020",
 		"jp_explainShort": "射撃による中ダメージ",
 		"tr_explainShort": "Medium shooting damage",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 270% shooting damage to the target.\n<color=yellow>SP: </color>Deals 320% shooting damage to the target."
 	},
 	{
 		"assign": "6110",
 		"jp_explainShort": "中ダメージ＋一定確率で「フリーズ」",
 		"tr_explainShort": "Medium damage + chance to [Freeze]",
 		"jp_explainLong": "【ダメージボム】\n① 中ダメージを与える。\n② 一定確率で「フリーズ」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium damage to the target.\n② Has a chance to inflict [Freeze]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 375% shooting damage to the target.\n<color=yellow>SP: </color>Deals 450% shooting damage to the target.\n② Has a chance to inflict [Freeze]."
 	},
 	{
 		"assign": "6120",
 		"jp_explainShort": "中ダメージ＋一定確率で「フリーズ」",
 		"tr_explainShort": "Medium damage + chance to [Freeze]",
 		"jp_explainLong": "【ダメージボム】\n① 中ダメージを与える。\n② 一定確率で「フリーズ」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium damage to the target.\n② Has a chance to inflict [Freeze]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 525% shooting damage to the target.\n<color=yellow>SP: </color>Deals 675% shooting damage to the target.\n② Has a chance to inflict [Freeze]."
 	},
 	{
 		"assign": "6410",
 		"jp_explainShort": "打撃による小ダメージ",
 		"tr_explainShort": "Minor striking damage",
 		"jp_explainLong": "【ダメージボム】\n① 打撃による小ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals minor striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 210% striking damage to the target.\n<color=yellow>SP: </color>Deals 250% striking damage to the target."
 	},
 	{
 		"assign": "6420",
 		"jp_explainShort": "打撃による中ダメージ",
 		"tr_explainShort": "Medium striking damage",
 		"jp_explainLong": "【ダメージボム】\n① 打撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 300% striking damage to the target.\n<color=yellow>SP: </color>Deals 350% striking damage to the target."
 	},
 	{
 		"assign": "6610",
@@ -7655,28 +7655,28 @@
 		"jp_explainShort": "全体に大ダメージ＋確率で「ショック」",
 		"tr_explainShort": "Damage to all + chance to [Shock]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に射撃による大ダメージを与える。\n② 一定確率で「ショック」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy shooting damage to all enemies.\n② Has a chance to inflict [Shock]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% shooting damage to all enemies.\n② Has a chance to inflict [Shock]."
 	},
 	{
 		"assign": "7220",
 		"jp_explainShort": "全体に大ダメージ＋確率で「ショック」",
 		"tr_explainShort": "Damage to all + chance to [Shock]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に射撃による大ダメージを与える。\n② 一定確率で「ショック」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy shooting damage to all enemies.\n② Has a chance to inflict [Shock]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 1600% shooting damage to all enemies.\n② Has a chance to inflict [Shock]."
 	},
 	{
 		"assign": "7310",
 		"jp_explainShort": "全体に中ダメージ＋確率で「フリーズ」",
 		"tr_explainShort": "All Attack + Chance of [Freeze]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に射撃による中ダメージを与える。\n② 一定確率で「フリーズ」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage to all enemies.\n② Has a chance to inflict [Freeze]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 375% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 450% shooting damage to all enemies.\n② Has a chance to inflict [Freeze]."
 	},
 	{
 		"assign": "7320",
 		"jp_explainShort": "全体に中ダメージ＋確率で「フリーズ」",
 		"tr_explainShort": "All Attack + Chance of [Freeze]",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に射撃による中ダメージを与える。\n② 一定確率で「フリーズ」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage to all enemies.\n② Has a chance to inflict [Freeze]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 525% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 675% shooting damage to all enemies.\n② Has a chance to inflict [Freeze]."
 	},
 	{
 		"assign": "7410",
@@ -7809,14 +7809,14 @@
 		"jp_explainShort": "全体に大ダメージ＋確率で「ポイズン」",
 		"tr_explainShort": "Damage to all + chance to [Poison]",
 		"jp_explainLong": "【ダメージボム】\n① 法撃による大ダメージを与える。\n② 一定確率で「ポイズン」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Tech damage to all enemies.\n② Has a chance to inflict [Poison]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% tech damage to all enemies.\n② Has a chance to inflict [Poison]."
 	},
 	{
 		"assign": "9422",
 		"jp_explainShort": "全体に大ダメージ＋確率で「ポイズン」",
 		"tr_explainShort": "Damage to all + chance to [Poison]",
 		"jp_explainLong": "【ダメージボム】\n① 法撃による大ダメージを与える。\n② 一定確率で「ポイズン」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Tech damage to all enemies.\n② Has a chance to inflict [Poison]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1600% tech damage to all enemies.\n② Has a chance to inflict [Poison]."
 	},
 	{
 		"assign": "20025",
@@ -7837,28 +7837,28 @@
 		"jp_explainShort": "射撃小ダメージ＋一定確率で「パニック」",
 		"tr_explainShort": "Shooting damage + chance to [Panic]",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による小ダメージを与える。\n② 一定確率で「パニック」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals minor shooting damage to the target.\n② Has a chance to inflict [Panic]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 200% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 250% shooting damage to all enemies.\n② Has a chance to inflict [Panic]."
 	},
 	{
 		"assign": "20028",
 		"jp_explainShort": "射撃中ダメージ＋一定確率で「パニック」",
 		"tr_explainShort": "Shooting damage + chance to [Panic]",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による中ダメージを与える。\n② 一定確率で「パニック」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage to the target.\n② Has a chance to inflict [Panic]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 300% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 350% shooting damage to all enemies.\n② Has a chance to inflict [Panic]."
 	},
 	{
 		"assign": "9810",
 		"jp_explainShort": "射撃の中ダメージ＋確率で「ショック」",
 		"tr_explainShort": "Shooting damage + chance to [Shock]",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による中ダメージを与える。\n② 一定確率で「ショック」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage to the target.\n② Has a chance to inflict [Shock]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 375% shooting damage to the target.\n<color=yellow>SP: </color>Deals 450% shooting damage to the target.\n② Has a chance to inflict [Shock]."
 	},
 	{
 		"assign": "9820",
 		"jp_explainShort": "射撃の中ダメージ＋確率で「ショック」",
 		"tr_explainShort": "Shooting damage + chance to [Shock]",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による中ダメージを与える。\n② 一定確率で「ショック」効果を与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium shooting damage to the target.\n② Has a chance to inflict [Shock]."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 525% shooting damage to the target.\n<color=yellow>SP: </color>Deals 675% shooting damage to the target.\n② Has a chance to inflict [Shock]."
 	},
 	{
 		"assign": "9910",

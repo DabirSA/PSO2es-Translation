@@ -690,8 +690,7 @@
 		"jp_explainShort": "ターゲットとの距離によって攻撃力を劇的強化",
 		"tr_explainShort": "ATK up x proximity to target",
 		"jp_explainLong": "① ターゲットしている敵との距離が近いほど\n　　 攻撃力を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "
-       ① Increases your ATK by up to ???, based on how\n    close you are to the target.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Increases your ATK by up to ???, based on how\n    close you are to the target.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31024",

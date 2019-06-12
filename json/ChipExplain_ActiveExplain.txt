@@ -2336,6 +2336,7 @@
 		"tr_explainShort": "Boost x ab. lv. x Fi/Th/Da + CP regen",
 		"jp_explainLong": "① アビリティレベルと炎・雷・闇属性の合計値に応じて\n　　 属性攻撃力を絶大に増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
 		"tr_explainLong": "① Boosts elemental power by 5% + 8% x this chip's\n    ability level x your total Fire, Lightning and Dark\n    elements (max. total: 750) / 750.\n<color=yellow>SP: </color>Boosts elemental power by 5% + 9% x this chip's\n    ability level x your total Fire, Lightning and Dark\n    elements (max. total: 750) / 750.\n    <color=yellow>[R-Frame]</color>\n② Recovers CP by 5 every 6 seconds.\n[Effect Duration] 60 seconds"
+	},
 	{
 		"assign": "31950",
 		"jp_explainShort": "属性攻撃力を絶大増加＋定期的にＣＰ小回復",

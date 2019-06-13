@@ -7921,56 +7921,56 @@
 		"jp_explainShort": "原生種に対してダメージを増加",
 		"tr_explainShort": "Damage to Natives boosted",
 		"jp_explainLong": "① 原生種に与えるダメージを増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Natives by 30%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Natives by 30%.\n<color=yellow>SP: </color>Boosts damage against Natives by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "30120",
 		"jp_explainShort": "原生種に対してダメージを大増加",
 		"tr_explainShort": "Damage to Natives boosted",
 		"jp_explainLong": "① 原生種に与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Natives by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Natives by 40%.\n<color=yellow>SP: </color>Boosts damage against Natives by 50%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "30210",
 		"jp_explainShort": "機甲種に対してダメージを増加",
 		"tr_explainShort": "Damage to Mechs boosted",
 		"jp_explainLong": "① 機甲種に与えるダメージを増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Mechs. by 30%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Mechs. by 30%.\n<color=yellow>SP: </color>Boosts damage against Mechs. by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "30220",
 		"jp_explainShort": "機甲種に対してダメージを大増加",
 		"tr_explainShort": "Damage to Mechs boosted",
 		"jp_explainLong": "① 機甲種に与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Mechs by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Mechs by 40%.\n<color=yellow>SP: </color>Boosts damage against Mechs by 50%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "30310",
 		"jp_explainShort": "龍族に対してダメージを増加",
 		"tr_explainShort": "Damage to Dragonkin boosted",
 		"jp_explainLong": "① 龍族に与えるダメージを増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Dragonkin by 30%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Dragonkin by 30%.\n<color=yellow>SP: </color>Boosts damage against Dragonkin by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "30320",
 		"jp_explainShort": "龍族に対してダメージを大増加",
 		"tr_explainShort": "Damage to Dragonkin boosted",
 		"jp_explainLong": "① 龍族に与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Dragonkin by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Dragonkin by 40%.\n<color=yellow>SP: </color>Boosts damage against Dragonkin by 50%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "30410",
 		"jp_explainShort": "ダーカーに対してダメージを増加",
 		"tr_explainShort": "Damage to Darkers boosted",
 		"jp_explainLong": "① ダーカーに与えるダメージを増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Darkers by 30%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Darkers by 30%.\n<color=yellow>SP: </color>Boosts damage against Darkers by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "30420",
 		"jp_explainShort": "ダーカーに対してダメージを大増加",
 		"tr_explainShort": "Damage to Darkers boosted",
 		"jp_explainLong": "① ダーカーに与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Darkers by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Darkers by 40%.\n<color=yellow>SP: </color>Boosts damage against Darkers by 50%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "25010",
@@ -8117,14 +8117,14 @@
 		"jp_explainShort": "海王種に対してダメージを増加",
 		"tr_explainShort": "Damage to Oceanids boosted",
 		"jp_explainLong": "① 海王種に与えるダメージを増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Oceanids by 30%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Oceanids by 30%.\n<color=yellow>SP: </color>Boosts damage against Oceanids by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "20010",
 		"jp_explainShort": "海王種に対してダメージを大増加",
 		"tr_explainShort": "Damage to Oceanids boosted",
 		"jp_explainLong": "① 海王種に与えるダメージを大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Oceanids by 40%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Oceanids by 40%.\n<color=yellow>SP: </color>Boosts damage against Oceanids by 50%.\n     <color=yellow>[B-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "20011",

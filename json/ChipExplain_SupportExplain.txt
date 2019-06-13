@@ -256,14 +256,14 @@
 		"jp_explainShort": "通常攻撃に「フリーズ」効果＋攻撃大強化",
 		"tr_explainShort": "[Freeze] imbued + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「フリーズ」効果を与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases your ATK by ???.\n② Gives normal attacks a chance to inflict [Freeze].\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Increases your ATK by 460.\n<color=yellow>SP: </color>Increases your ATK by 520.\n② Gives normal attacks a chance to inflict [Freeze].\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "30040",
 		"jp_explainShort": "通常攻撃に「フリーズ」効果＋攻撃大強化",
 		"tr_explainShort": "[Freeze] imbued + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「フリーズ」効果を与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases your ATK by ???.\n② Gives normal attacks a chance to inflict [Freeze].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Increases your ATK by 580.\n<color=yellow>SP: </color>Increases your ATK by 640.\n② Gives normal attacks a chance to inflict [Freeze].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "30041",
@@ -368,28 +368,28 @@
 		"jp_explainShort": "通常攻撃に「ポイズン」効果＋攻撃大強化",
 		"tr_explainShort": "[Poison] imbued + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「ポイズン」効果を与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases your ATK by ???.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Increases your ATK by 460.\n<color=yellow>SP: </color>Increases your ATK by 520.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "30062",
 		"jp_explainShort": "通常攻撃に「ポイズン」効果＋攻撃大強化",
 		"tr_explainShort": "[Poison] imbued + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「ポイズン」効果を与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases your ATK by 580.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Increases your ATK by 580.\n<color=yellow>SP: </color>Increases your ATK by 640.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "30063",
 		"jp_explainShort": "通常攻撃に「ミラージュ」効果＋攻撃大強化",
 		"tr_explainShort": "[Mirage] imbued + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「ミラージュ」効果を与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases your ATK by ???.\n② Gives normal attacks a chance to inflict [Mirage].\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Increases your ATK by 460.\n<color=yellow>SP: </color>Increases your ATK by 520.\n② Gives normal attacks a chance to inflict [Mirage].\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "30064",
 		"jp_explainShort": "通常攻撃に「ミラージュ」効果＋攻撃大強化",
 		"tr_explainShort": "[Mirage] imbued + ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② 通常攻撃に「ミラージュ」効果を与える。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases your ATK by 580.\n② Gives normal attacks a chance to inflict [Mirage].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Increases your ATK by 580.\n<color=yellow>SP: </color>Increases your ATK by 640.\n② Gives normal attacks a chance to inflict [Mirage].\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "30065",
@@ -1866,14 +1866,14 @@
 		"jp_explainShort": "通常攻撃にポイズン付与＋弱点属性大強化",
 		"tr_explainShort": "[Poison] imbued + Weak Element up",
 		"jp_explainLong": "① 攻撃対象の敵の弱点属性を大きく強化する。\n② 通常攻撃に「ポイズン」効果を付与する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases all elements that the targeted enemy is\n    weak to by 60.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Increases all elements that the targeted enemy is\n    weak to by 60.\n<color=yellow>SP: </color>Increases all elements that the targeted enemy is\n    weak to by 70.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31282",
 		"jp_explainShort": "通常攻撃にポイズン付与＋弱点属性劇的強化",
 		"tr_explainShort": "[Poison] imbued + Weak Element up",
 		"jp_explainLong": "① 攻撃対象の敵の弱点属性を劇的に強化する。\n② 通常攻撃に「ポイズン」効果を付与する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "① Increases all elements that the targeted enemy is\n    weak to by 80.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Increases all elements that the targeted enemy is\n    weak to by 80.\n<color=yellow>SP: </color>Increases all elements that the targeted enemy is\n    weak to by 90.\n② Gives normal attacks a chance to inflict [Poison].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31283",

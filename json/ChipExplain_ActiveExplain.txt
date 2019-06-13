@@ -704,14 +704,14 @@
 		"jp_explainShort": "追加で大ダメージ",
 		"tr_explainShort": "Additional damage on hit",
 		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Deals an additional 60% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "① Deals an additional 60% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 70% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31120",
 		"jp_explainShort": "追加で特大ダメージ",
 		"tr_explainShort": "Additional damage on hit",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "① Deals an additional 80% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "① Deals an additional 80% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 90% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31131",
@@ -7375,42 +7375,42 @@
 		"jp_explainShort": "攻撃時に追加で小ダメージ",
 		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で小ダメージを与える。\n[効果時間]短い時間",
-		"tr_explainLong": "① Deals an additional ??% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "① Deals an additional 10% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 15% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 10 seconds"
 	},
 	{
 		"assign": "4320",
 		"jp_explainShort": "攻撃時に追加で小ダメージ",
 		"tr_explainShort": "Additional  damage to enemies",
 		"jp_explainLong": "① 敵に追加で小ダメージを与える。\n[効果時間]短い時間",
-		"tr_explainLong": "① Deals an additional ??%  damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "① Deals an additional 20%  damage to enemies.\n<color=yellow>SP: </color>Deals an additional 25%  damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "4510",
 		"jp_explainShort": "敵から受けるダメージを軽減",
 		"tr_explainShort": "Damage taken reduced",
 		"jp_explainLong": "① 敵から受けるダメージを軽減する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Reduces damage taken from enemies by 35%.\n[Effect Duration] 9 seconds"
+		"tr_explainLong": "① Reduces damage taken from enemies by 35%.\n<color=yellow>SP: </color>Reduces damage taken from enemies by 40%.\n[Effect Duration] 10 seconds"
 	},
 	{
 		"assign": "4520",
 		"jp_explainShort": "敵から受けるダメージを大軽減",
 		"tr_explainShort": "Damage taken reduced",
 		"jp_explainLong": "① 敵から受けるダメージを大きく軽減する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Reduces damage taken from enemies by 45%.\n[Effect Duration] 11 seconds"
+		"tr_explainLong": "① Reduces damage taken from enemies by 45%.\n<color=yellow>SP: </color>Reduces damage taken from enemies by 50%.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "4810",
 		"jp_explainShort": "攻撃時に追加で中ダメージ",
 		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で中ダメージを与える。\n[効果時間]短い時間",
-		"tr_explainLong": "① Deals an additional 30% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 5 seconds"
+		"tr_explainLong": "① Deals an additional 30% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 35% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 6 seconds"
 	},
 	{
 		"assign": "4820",
 		"jp_explainShort": "攻撃時に追加で大ダメージ",
-		"tr_explainShort": "Heavy additional damage to enemies",
+		"tr_explainShort": "Additional damage to enemies",
 		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n[効果時間]短い時間",
-		"tr_explainLong": "① Deals an additional 40% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 7 seconds"
+		"tr_explainLong": "① Deals an additional 40% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 50% damage to enemies.\n    <color=yellow>[Chase]</color>\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "4910",

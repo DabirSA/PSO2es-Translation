@@ -634,28 +634,28 @@
 		"jp_explainShort": "攻撃力大強化＋攻撃３回ごと攻撃力小強化",
 		"tr_explainShort": "ATK up + 3 actions = ATK up",
 		"jp_explainLong": "① 攻撃力を大きく強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力をわずかに強化する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Increases your ATK by ???.\n②  Increases your ATK by ??? every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: ????)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Increases your ATK by 500.\n<color=yellow>SP: </color>Increases your ATK by 600.\n②  Increases your ATK by 150 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 4000)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31016",
 		"jp_explainShort": "攻撃力劇的強化＋攻撃３回ごと攻撃力小強化",
 		"tr_explainShort": "ATK up + 3 actions = ATK up",
 		"jp_explainLong": "① 攻撃力を劇的に強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力をわずかに強化する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Increases your ATK by ???.\n②  Increases your ATK by ??? every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: ????)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Increases your ATK by 700.\n<color=yellow>SP: </color>Increases your ATK by 800.\n②  Increases your ATK by 150 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 4000)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31017",
 		"jp_explainShort": "雷属性大強化＋攻撃３回ごと攻撃力小強化",
 		"tr_explainShort": "Lightning up + 3 actions = ATK up",
 		"jp_explainLong": "① 雷属性を大きく強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力をわずかに強化する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Increases your Lightning Element by 60.\n②  Increases your ATK by ??? every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: ????)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Increases your Lightning Element by 60.\n<color=yellow>SP: </color>Increases your Lightning Element by 66.\n②  Increases your ATK by 150 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 4000)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31018",
 		"jp_explainShort": "雷属性大強化＋攻撃３回ごと攻撃力小強化",
 		"tr_explainShort": "Lightning up + 3 actions = ATK up",
 		"jp_explainLong": "① 雷属性を大きく強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力をわずかに強化する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Increases your Lightning Element by 70.\n②  Increases your ATK by ??? every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: ????)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 35 seconds"
+		"tr_explainLong": "①  Increases your Lightning Element by 70.\n<color=yellow>SP: </color>Increases your Lightning Element by 84.\n②  Increases your ATK by 150 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 4000)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 35 seconds"
 	},
 	{
 		"assign": "31019",
@@ -1264,14 +1264,14 @@
 		"jp_explainShort": "炎属性強化＋攻撃３回ごと攻撃力大強化",
 		"tr_explainShort": "Fire Element up + 3 actions = ATK up",
 		"jp_explainLong": "① 炎属性を強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を大きく強化する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Increases your Fire Element by ??.\n②  Increases your ATK  by ??? every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: ????)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Increases your Fire Element by 20.\n<color=yellow>SP: </color>Increases your Fire Element by 25.\n②  Increases your ATK  by 500 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 5000)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31144",
 		"jp_explainShort": "炎属性強化＋攻撃３回ごと攻撃力大強化",
 		"tr_explainShort": "Fire Element up + 3 actions = ATK up",
 		"jp_explainLong": "① 炎属性を強化する。\n② アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を大きく強化する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Increases your Fire Element by ??.\n②  Increases your ATK  by ??? every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: ????)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Increases your Fire Element by 30.\n<color=yellow>SP: </color>Increases your Fire Element by 35.\n②  Increases your ATK  by 500 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 5000)\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31147",

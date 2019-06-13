@@ -1978,14 +1978,14 @@
 		"jp_explainShort": "発見済みエネミーチップ数に応じ特大追撃",
 		"tr_explainShort": "Add. damage x discovered Enemy Chips",
 		"jp_explainLong": "① チップ研究室において発見済みエネミーチップが\n　　 多いほど追加で特大ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional 0.778% damage to enemies x\n     the number of Enemy Chips discovered in the Chip\n   Lab.\n     (Maximum boost: 110%)\n<color=yellow>SP: </color>(Maximum boost: 120%)\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 0.778% damage to enemies x\n     the number of Enemy Chips discovered in the\n     Chip Lab.\n     (Maximum boost: 110%)\n<color=yellow>SP: </color>(Maximum boost: 120%)\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "31304",
 		"jp_explainShort": "発見済みエネミーチップ数に応じ絶大追撃",
 		"tr_explainShort": "Add. damage x discovered Enemy Chips",
 		"jp_explainLong": "① チップ研究室において発見済みエネミーチップが\n　　 多いほど追加で絶大ダメージを与える。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional 0.778% damage to enemies x\n     the number of Enemy Chips discovered in the Chip\n     Lab.\n     (Maximum boost: 130%)\n<color=yellow>SP: </color>(Maximum boost: 140%)\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 0.778% damage to enemies x\n     the number of Enemy Chips discovered in the\n     Chip Lab.\n     (Maximum boost: 130%)\n<color=yellow>SP: </color>(Maximum boost: 140%)\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "31305",

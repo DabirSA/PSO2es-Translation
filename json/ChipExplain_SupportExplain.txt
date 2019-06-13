@@ -2440,7 +2440,7 @@
 		"jp_explainShort": "攻撃小増＋必殺技のＣＰ消費増加と劇的強化",
 		"tr_explainShort": "Dam. boost + PA&Tech boost, CP use up",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 必殺技・法術の威力を劇的に強化する。\n③ 必殺技・法術のＣＰ消費量を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 20%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts the power of PAs and Techs by 75%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 80%.\n     <color=yellow>[A-Frame]</color>\n③  Increases the CP consumption of PAs and Techs\n     by 25%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 20%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts the power of PAs and Techs by 75%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 80%.\n     <color=yellow>[A-Frame]</color>\n③  Increases the CP consumption of PAs and Techs\n     by 25%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31392",

@@ -550,28 +550,28 @@
 		"jp_explainShort": "ダメージ軽減＋飛翔剣の必殺技を大強化",
 		"tr_explainShort": "Damage reduced + Dual Blade PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を大きく強化する。\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by ??%.\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 50%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by 20%.\n<color=yellow>SP: </color>Reduces damage from enemies by 30%.\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31026",
 		"jp_explainShort": "ダメージ大軽減＋飛翔剣の必殺技を劇的強化",
 		"tr_explainShort": "Damage reduced + Dual Blade PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を劇的に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by 40%.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 70%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 80%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by 40%.\n<color=yellow>SP: </color>Reduces damage from enemies by 50%.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31029",
 		"jp_explainShort": "ダメージ軽減＋双機銃の必殺技を大強化",
 		"tr_explainShort": "Damage reduced + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を大きく強化する。\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     50%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by ??%.\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     50%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     60%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by 20%.\n<color=yellow>SP: </color>Reduces damage from enemies by 30%.\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31030",
 		"jp_explainShort": "ダメージ大軽減＋双機銃の必殺技を劇的強化",
 		"tr_explainShort": "Damage reduced + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を劇的に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     70%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by 40%.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     70%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     80%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by 40%.\n<color=yellow>SP: </color>Reduces damage from enemies by 50%.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31061",
@@ -816,14 +816,14 @@
 		"jp_explainShort": "必殺技の威力大強化＋ダメージ軽減",
 		"tr_explainShort": "PA damage up + damage reduced",
 		"jp_explainLong": "① 必殺技の威力を大きく強化する。\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts the power of PAs by ??%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by ??%.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts the power of PAs by 50%.\n<color=yellow>SP: </color>Boosts the power of PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by 20%.\n<color=yellow>SP: </color>Reduces damage from enemies by 30%.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31190",
 		"jp_explainShort": "必殺技の威力劇的強化＋ダメージ軽減",
 		"tr_explainShort": "PA damage up + damage reduced",
 		"jp_explainLong": "① 必殺技の威力を劇的に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts the power of PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by 40%.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts the power of PAs by 70%.\n<color=yellow>SP: </color>Boosts the power of PAs by 80%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage from enemies by 40%.\n<color=yellow>SP: </color>Reduces damage from enemies by 50%.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31197",
@@ -2321,14 +2321,14 @@
 		"jp_explainShort": "必殺技・法術威力絶大強化＋ダメージ軽減",
 		"tr_explainShort": "PAs/Techs boosted + dam. taken reduced",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts power of PAs and Techs by 125%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage taken from enemies by ??%.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts power of PAs and Techs by 125%.\n<color=yellow>SP: </color>Boosts power of PAs and Techs by 135%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage taken from enemies by 35%.\n<color=yellow>SP: </color>Reduces damage taken from enemies by 40%.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31939",
 		"jp_explainShort": "必殺技・法術威力絶大強化＋ダメージ大軽減",
 		"tr_explainShort": "PAs/Techs boosted + dam. taken reduced",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts power of PAs and Techs by 145%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage taken from enemies by ??%.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts power of PAs and Techs by 145%.\n<color=yellow>SP: </color>Boosts power of PAs and Techs by 155%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces damage taken from enemies by 45%.\n<color=yellow>SP: </color>Reduces damage taken from enemies by 50%.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31949",

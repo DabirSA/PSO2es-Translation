@@ -2601,14 +2601,14 @@
 		"jp_explainShort": "氷属性の打撃による大ダメージ",
 		"tr_explainShort": "Ice striking damage",
 		"jp_explainLong": "【ダメージボム】\n① 氷属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 1500% 200 Ice striking damage to the target.\n<color=yellow>SP: </color>Deals 2000% 200 Ice striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1500% 200 Ice striking damage to the\n    target.\n<color=yellow>SP: </color>Deals 2000% 200 Ice striking damage to the target."
 	},
 	{
 		"assign": "81020",
 		"jp_explainShort": "氷属性の打撃による特大ダメージ",
 		"tr_explainShort": "Ice striking damage",
 		"jp_explainLong": "【ダメージボム】\n① 氷属性の打撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 2500% 200 Ice striking damage to the target.\n<color=yellow>SP: </color>Deals 3000% 200 Ice striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 2500% 200 Ice striking damage to the\n    target.\n<color=yellow>SP: </color>Deals 3000% 200 Ice striking damage to the target."
 	},
 	{
 		"assign": "81110",
@@ -7417,14 +7417,14 @@
 		"jp_explainShort": "闇属性の打撃による中ダメージ",
 		"tr_explainShort": "Heavy Dark damage",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の打撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 750% 100 Dark striking damage to the target.\n<color=yellow>SP: </color>Deals 1000% 100 Dark striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 750% 100 Dark striking damage to the\n    target.\n<color=yellow>SP: </color>Deals 1000% 100 Dark striking damage to the target."
 	},
 	{
 		"assign": "4920",
 		"jp_explainShort": "闇属性の打撃による大ダメージ",
 		"tr_explainShort": "Heavy Dark damage",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 1250% 100 Dark striking damage to the target.\n<color=yellow>SP: </color>Deals 1500% 100 Dark striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1250% 100 Dark striking damage to the\n    target.\n<color=yellow>SP: </color>Deals 1500% 100 Dark striking damage to the target."
 	},
 	{
 		"assign": "5110",
@@ -7739,14 +7739,14 @@
 		"jp_explainShort": "全体に炎属性の打撃による中ダメージ",
 		"tr_explainShort": "Fire striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に炎属性の打撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Fire striking damage to all enemies.\n<color=yellow>SP: </color>Deals 800% 80 Fire striking damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Fire striking damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 800% 80 Fire striking damage to all enemies."
 	},
 	{
 		"assign": "9120",
 		"jp_explainShort": "全体に炎属性の打撃による大ダメージ",
 		"tr_explainShort": "Fire striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に炎属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Fire striking damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Fire striking damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Fire striking damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Fire striking damage to all enemies."
 	},
 	{
 		"assign": "9210",
@@ -7823,14 +7823,14 @@
 		"jp_explainShort": "敵全体に光属性の打撃による大ダメージ",
 		"tr_explainShort": "Light striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に光属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Light striking damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Light striking damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Light striking damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Light striking damage to all enemies."
 	},
 	{
 		"assign": "20026",
 		"jp_explainShort": "敵全体に光属性の打撃による大ダメージ",
 		"tr_explainShort": "Light striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に光属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Light striking damage to all enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Light striking damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Light striking damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Light striking damage to all enemies."
 	},
 	{
 		"assign": "20027",
@@ -8131,14 +8131,14 @@
 		"jp_explainShort": "全体に氷属性の射撃による大ダメージ",
 		"tr_explainShort": "Ice shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の射撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Ice shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Ice shooting damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Ice shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Ice shooting damage to all enemies."
 	},
 	{
 		"assign": "20012",
 		"jp_explainShort": "全体に氷属性の射撃による大ダメージ",
 		"tr_explainShort": "Ice shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の射撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Ice shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Ice shooting damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Ice shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Ice shooting damage to all enemies."
 	},
 	{
 		"assign": "20019",

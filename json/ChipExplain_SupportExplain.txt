@@ -4,14 +4,14 @@
 		"jp_explainShort": "ＨＰが劇的回復",
 		"tr_explainShort": "HP recovery",
 		"jp_explainLong": "① ＨＰを劇的に回復する。\n[発動条件]バトル終了時",
-		"tr_explainLong": "① Recovers HP by ??%.\n[Activation Trigger] End of battle"
+		"tr_explainLong": "① Recovers HP by 80%.\n<color=yellow>SP: </color>Recovers HP by 85%.\n[Activation Trigger] End of battle"
 	},
 	{
 		"assign": "720",
 		"jp_explainShort": "ＨＰが劇的回復",
 		"tr_explainShort": "HP recovery",
 		"jp_explainLong": "① ＨＰを劇的に回復する。\n[発動条件]バトル終了時",
-		"tr_explainLong": "① Recovers HP by 100%.\n[Activation Trigger] End of battle"
+		"tr_explainLong": "① Recovers HP by 95%.\n<color=yellow>SP: </color>Recovers HP by 100%.\n[Activation Trigger] End of battle"
 	},
 	{
 		"assign": "810",
@@ -46,28 +46,28 @@
 		"jp_explainShort": "チップのＣＰ消費量が減少",
 		"tr_explainShort": "CP consumption decreased",
 		"jp_explainLong": "① 消費ＣＰを減少する。\n[発動条件]アクティブチップ発動時",
-		"tr_explainLong": "① Reduces CP consumption by ??%.\n[Activation Trigger] Activating an Active Chip"
+		"tr_explainLong": "① Reduces CP consumption by 50%.\n<color=yellow>SP: </color>Reduces CP consumption by 65%.\n[Activation Trigger] Activating an Active Chip\n[Cooldown] 5 seconds"
 	},
 	{
 		"assign": "1220",
 		"jp_explainShort": "チップのＣＰ消費量が大減少",
 		"tr_explainShort": "CP consumption decreased",
 		"jp_explainLong": "① 消費ＣＰを減少する。\n[発動条件]アクティブチップ発動時",
-		"tr_explainLong": "① Reduces CP consumption by 90%.\n[Activation Trigger] Activating an Active Chip"
+		"tr_explainLong": "① Reduces CP consumption by 80%.\n<color=yellow>SP: </color>Reduces CP consumption by 99%.\n[Activation Trigger] Activating an Active Chip\n[Cooldown] 5 seconds"
 	},
 	{
 		"assign": "1410",
 		"jp_explainShort": "ＨＰ１で耐えることがある",
 		"tr_explainShort": "Survive with 1 HP",
 		"jp_explainLong": "① ＨＰ１で耐えることがある。\n[発動条件]戦闘不能になるダメージを受けた時",
-		"tr_explainLong": "① Allows you to survive with 1 HP.\n[Activation Trigger] Taking lethal damage"
+		"tr_explainLong": "① Allows you to survive with 1 HP.\n[Activation Trigger] Defeated at 30% or more HP\n<color=yellow>SP: </color>Defeated at 25% or more HP\n[Cooldown] 30 seconds"
 	},
 	{
 		"assign": "1420",
 		"jp_explainShort": "ＨＰ１で耐えることがある",
 		"tr_explainShort": "Survive with 1 HP",
 		"jp_explainLong": "① ＨＰ１で耐えることがある。\n[発動条件]戦闘不能になるダメージを受けた時",
-		"tr_explainLong": "① Allows you to survive with 1 HP.\n[Activation Trigger] Taking lethal damage"
+		"tr_explainLong": "① Allows you to survive with 1 HP.\n[Activation Trigger] Defeated at 20%  or more HP\n<color=yellow>SP: </color>Defeated at 15%  or more HP\n[Cooldown] 30 seconds"
 	},
 	{
 		"assign": "1630",
@@ -732,14 +732,14 @@
 		"jp_explainShort": "弱点属性で攻撃時にダメージ量が増加",
 		"tr_explainShort": "Elemental weakness damage boosted",
 		"jp_explainLong": "① 敵の弱点に有効な属性でのダメージを増加する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Boosts ATK against enemy elemental weaknesses\n    by ???%.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Boosts your ATK by 90% against enemy\n    elemental weaknesses.\n<color=yellow>SP: </color>Boosts your ATK by 110% against enemy\n    elemental weaknesses.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "31034",
 		"jp_explainShort": "弱点属性で攻撃時にダメージ量が増加",
 		"tr_explainShort": "Elemental weakness damage boosted",
 		"jp_explainLong": "① 敵の弱点に有効な属性でのダメージを増加する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Boosts ATK against enemy elemental weaknesses\n    by 120%.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Boosts your ATK by 120% against enemy\n    elemental weaknesses.\n<color=yellow>SP: </color>Boosts your ATK by 145% against enemy\n    elemental weaknesses.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "31035",
@@ -5345,14 +5345,14 @@
 		"jp_explainShort": "ＨＰが回復する",
 		"tr_explainShort": "HP recovery",
 		"jp_explainLong": "① ＨＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Recovers HP by ??%.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Recovers HP by 15%.\n<color=yellow>SP: </color>Recovers HP by 17%.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "2320",
 		"jp_explainShort": "ＨＰが回復する",
 		"tr_explainShort": "HP recovery",
 		"jp_explainLong": "① ＨＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Recovers HP by 18%.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Recovers HP by 18%.\n<color=yellow>SP: </color>Recovers HP by 20%.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "80110",
@@ -9153,14 +9153,14 @@
 		"jp_explainShort": "弱点属性で攻撃時にダメージ量が増加",
 		"tr_explainShort": "Elemental weakness damage boosted",
 		"jp_explainLong": "① 敵の弱点に有効な属性でのダメージを増加する。\n[発動条件]敵からダメージを受けた時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts ATK against enemy elemental weaknesses\n    by ???%.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Boosts your ATK by 75% against enemy\n    elemental weaknesses.\n<color=yellow>SP: </color>Boosts your ATK by 85% against enemy\n    elemental weaknesses.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "20004",
 		"jp_explainShort": "弱点属性で攻撃時にダメージ量が増加",
 		"tr_explainShort": "Elemental weakness damage boosted",
 		"jp_explainLong": "① 敵の弱点に有効な属性でのダメージを増加する。\n[発動条件]敵からダメージを受けた時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts ATK against enemy elemental weaknesses\n    by ???%.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Boosts your ATK by 100% against enemy\n    elemental weaknesses.\n<color=yellow>SP: </color>Boosts your ATK by 120% against enemy\n    elemental weaknesses.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "20021",

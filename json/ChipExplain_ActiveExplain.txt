@@ -690,14 +690,14 @@
 		"jp_explainShort": "チップのＣＰ消費量が減少",
 		"tr_explainShort": "CP consumption decreased",
 		"jp_explainLong": "① 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]一定時間",
-		"tr_explainLong": "① Reduces CP consumption by 40%.\n    (Even applies to this chip's activation cost)\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "① Reduces CP consumption by 40%.\n<color=yellow>SP: </color>Reduces CP consumption by 50%.\n    (Even applies to this chip's activation cost)\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31100",
 		"jp_explainShort": "チップのＣＰ消費量が大減少",
 		"tr_explainShort": "CP consumption decreased",
 		"jp_explainLong": "① 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]一定時間",
-		"tr_explainLong": "① Reduces CP consumption by 60%.\n    (Even applies to this chip's activation cost)\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Reduces CP consumption by 60%.\n<color=yellow>SP: </color>Reduces CP consumption by 70%.\n    (Even applies to this chip's activation cost)\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31119",
@@ -2048,14 +2048,14 @@
 		"jp_explainShort": "状態異常を取り払いＨＰを中回復",
 		"tr_explainShort": "Status cured + HP recovered",
 		"jp_explainLong": "① 自身にかかった状態異常を取り払う。\n② ＨＰを回復する。",
-		"tr_explainLong": "① Cures all status effects on yourself.\n② Recovers HP by 45%."
+		"tr_explainLong": "① Cures all status effects on yourself.\n② Recovers HP by 45%.\n<color=yellow>SP: </color>Recovers HP by 50%."
 	},
 	{
 		"assign": "31831",
 		"jp_explainShort": "状態異常を取り払いＨＰを大回復",
 		"tr_explainShort": "Status cured + HP recovered",
 		"jp_explainLong": "① 自身にかかった状態異常を取り払う。\n② ＨＰを大きく回復する。",
-		"tr_explainLong": "① Cures all status effects on yourself.\n② Recovers HP by 55%."
+		"tr_explainLong": "① Cures all status effects on yourself.\n② Recovers HP by 55%.\n<color=yellow>SP: </color>Recovers HP by 60%."
 	},
 	{
 		"assign": "31834",
@@ -2585,16 +2585,16 @@
 	{
 		"assign": "80910",
 		"jp_explainShort": "ダメージを武器の上限値に収束させる",
-		"tr_explainShort": "Damage variance tightened",
+		"tr_explainShort": "Critical hit rate increased",
 		"jp_explainLong": "① 敵に与えるダメージを\n　　 装備中の武器における上限値に収束する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Tightens random damage variance to bring\n    minimum damage closer to maximum.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "① Increases critical hit rate by 70%.\n<color=yellow>SP: </color>Increases critical hit rate by 80%.\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "80920",
 		"jp_explainShort": "ダメージを武器の上限値に収束させる",
-		"tr_explainShort": "Damage variance tightened",
+		"tr_explainShort": "Critical hit rate increased",
 		"jp_explainLong": "① 敵に与えるダメージを\n　　 装備中の武器における上限値に収束する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Tightens random damage variance to bring\n    minimum damage closer to maximum.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "① Increases critical hit rate by 85%.\n<color=yellow>SP: </color>Increases critical hit rate by 95%.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "81010",
@@ -7207,28 +7207,28 @@
 		"jp_explainShort": "ＨＰを小回復",
 		"tr_explainShort": "Small HP recovery",
 		"jp_explainLong": "① ＨＰをわずかに回復する。",
-		"tr_explainLong": "① Recovers HP by 10%."
+		"tr_explainLong": "① Recovers HP by 10%.\n<color=yellow>SP: </color>Recovers HP by 12%."
 	},
 	{
 		"assign": "1810",
 		"jp_explainShort": "ＨＰを回復",
 		"tr_explainShort": "HP recovery",
 		"jp_explainLong": "① ＨＰを回復する。",
-		"tr_explainLong": "① Recovers HP by 15%."
+		"tr_explainLong": "① Recovers HP by 15%.\n<color=yellow>SP: </color>Recovers HP by 18%."
 	},
 	{
 		"assign": "1910",
 		"jp_explainShort": "ＨＰを回復",
 		"tr_explainShort": "HP recovery",
 		"jp_explainLong": "① ＨＰを回復する。",
-		"tr_explainLong": "① Recovers HP by 20%."
+		"tr_explainLong": "① Recovers HP by 20%.\n<color=yellow>SP: </color>Recovers HP by 24%."
 	},
 	{
 		"assign": "2010",
 		"jp_explainShort": "状態異常を取り払いＨＰを小回復",
 		"tr_explainShort": "Status effects cured + HP recovery",
 		"jp_explainLong": "① 自身にかかった状態異常を取り払う。\n② ＨＰをわずかに回復する。",
-		"tr_explainLong": "① Cures all status effects on yourself.\n② Recovers HP by 10%."
+		"tr_explainLong": "① Cures all status effects on yourself.\n② Recovers HP by 10%.\n<color=yellow>SP: </color>Recovers HP by 12%."
 	},
 	{
 		"assign": "20110",
@@ -7347,14 +7347,14 @@
 		"jp_explainShort": "プレイヤーの闇属性を劇的強化",
 		"tr_explainShort": "Dark Element boosted",
 		"jp_explainLong": "① 効果発動時の闇属性値に応じて\n　　 闇属性を劇的に強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts your Dark Element value by 80% of its\n    value on activation.\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "① Boosts your Dark Element value by 80% of its\n    value on activation.\n<color=yellow>SP: </color>Boosts your Dark Element value by 100% of its\n    value on activation.\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "4020",
 		"jp_explainShort": "プレイヤーの闇属性を劇的強化",
 		"tr_explainShort": "Dark Element boosted",
 		"jp_explainLong": "① 効果発動時の闇属性値に応じて\n　　 闇属性を劇的に強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts your Dark Element value by 110% of its\n    value on activation.\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "① Boosts your Dark Element value by 110% of its\n    value on activation.\n<color=yellow>SP: </color>Boosts your Dark Element value by 130% of its\n    value on activation.\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "4110",
@@ -7767,14 +7767,14 @@
 		"jp_explainShort": "プレイヤーの光属性を劇的強化",
 		"tr_explainShort": "Light Element boosted",
 		"jp_explainLong": "① 効果発動時の光属性値に応じて\n　　 光属性を劇的に強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts your Light Element value by 80% of its\n    value on activation.\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "① Boosts your Light Element value by 80% of its\n    value on activation.\n<color=yellow>SP: </color>Boosts your Light Element value by 100% of its\n    value on activation.\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "9320",
 		"jp_explainShort": "プレイヤーの光属性を劇的強化",
 		"tr_explainShort": "Light Element boosted",
 		"jp_explainLong": "① 効果発動時の光属性値に応じて\n　　 光属性を劇的に強化する。\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts your Light Element value by 110% of its\n    value on activation.\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "① Boosts your Light Element value by 110% of its\n    value on activation.\n<color=yellow>SP: </color>Boosts your Light Element value by 130% of its\n    value on activation.\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "9410",
@@ -7835,14 +7835,14 @@
 	{
 		"assign": "20027",
 		"jp_explainShort": "射撃小ダメージ＋一定確率で「パニック」",
-		"tr_explainShort": "Shooting damage + chance to [Panic]",
+		"tr_explainShort": "Shooting damage to all + chance to [Panic]",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による小ダメージを与える。\n② 一定確率で「パニック」効果を与える。",
 		"tr_explainLong": "[Damage Bomb]\n① Deals 200% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 250% shooting damage to all enemies.\n② Has a chance to inflict [Panic]."
 	},
 	{
 		"assign": "20028",
 		"jp_explainShort": "射撃中ダメージ＋一定確率で「パニック」",
-		"tr_explainShort": "Shooting damage + chance to [Panic]",
+		"tr_explainShort": "Shooting damage to all + chance to [Panic]",
 		"jp_explainLong": "【ダメージボム】\n① 射撃による中ダメージを与える。\n② 一定確率で「パニック」効果を与える。",
 		"tr_explainLong": "[Damage Bomb]\n① Deals 300% shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 350% shooting damage to all enemies.\n② Has a chance to inflict [Panic]."
 	},

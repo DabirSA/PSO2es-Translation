@@ -5443,476 +5443,476 @@
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が強化",
 		"tr_explainShort": "HP over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40002",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が大強化",
 		"tr_explainShort": "HP over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Greatly boosts Sword PAs.\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40003",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が強化",
 		"tr_explainShort": "HP over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40004",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が大強化",
 		"tr_explainShort": "HP over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40005",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が強化",
 		"tr_explainShort": "HP over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40006",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が大強化",
 		"tr_explainShort": "HP over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40007",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が強化",
 		"tr_explainShort": "HP over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40008",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が大強化",
 		"tr_explainShort": "HP over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40009",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"tr_explainShort": "HP over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40010",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が大強化",
 		"tr_explainShort": "HP over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40011",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が強化",
 		"tr_explainShort": "HP over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40012",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が大強化",
 		"tr_explainShort": "HP over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40013",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が強化",
 		"tr_explainShort": "HP over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40014",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が大強化",
 		"tr_explainShort": "HP over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40015",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が強化",
 		"tr_explainShort": "HP over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40016",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が大強化",
 		"tr_explainShort": "HP over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40017",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が強化",
 		"tr_explainShort": "HP over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40018",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が大強化",
 		"tr_explainShort": "HP over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40019",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が強化",
 		"tr_explainShort": "HP over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40020",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が大強化",
 		"tr_explainShort": "HP over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40021",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が強化",
 		"tr_explainShort": "HP over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40022",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が大強化",
 		"tr_explainShort": "HP over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40023",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が強化",
 		"tr_explainShort": "HP over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40024",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が大強化",
 		"tr_explainShort": "HP over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40025",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が強化",
 		"tr_explainShort": "HP over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40026",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が大強化",
 		"tr_explainShort": "HP over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40027",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が強化",
 		"tr_explainShort": "HP over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40028",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が大強化",
 		"tr_explainShort": "HP over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40029",
 		"jp_explainShort": "定期的にＨＰが小回復＋炎の法術が強化",
 		"tr_explainShort": "HP over time + Fire Techs boosted",
 		"jp_explainLong": "① 炎属性の法術の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Fire Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Fire Techs by 40%.\n<color=yellow>SP: </color>Boosts the power of Fire Techs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40030",
 		"jp_explainShort": "定期的にＨＰが小回復＋炎の法術が大強化",
 		"tr_explainShort": "HP over time + Fire Techs boosted",
 		"jp_explainLong": "① 炎属性の法術の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Greatly boosts Fire Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Fire Techs by 60%.\n<color=yellow>SP: </color>Boosts the power of Fire Techs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40031",
 		"jp_explainShort": "定期的にＨＰが小回復＋氷の法術が強化",
 		"tr_explainShort": "HP over time + Ice Techs boosted",
 		"jp_explainLong": "① 氷属性の法術の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Ice Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Ice Techs by 40%.\n<color=yellow>SP: </color>Boosts the power of Ice Techs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40032",
 		"jp_explainShort": "定期的にＨＰが小回復＋氷の法術が大強化",
 		"tr_explainShort": "HP over time + Ice Techs boosted",
 		"jp_explainLong": "① 氷属性の法術の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Greatly boosts Ice Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Ice Techs by 60%.\n<color=yellow>SP: </color>Boosts the power of Ice Techs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40033",
 		"jp_explainShort": "定期的にＨＰが小回復＋風の法術が強化",
 		"tr_explainShort": "HP over time + Wind Techs boosted",
 		"jp_explainLong": "① 風属性の法術の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Wind Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Wind Techs by 40%.\n<color=yellow>SP: </color>Boosts the power of Wind Techs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40034",
 		"jp_explainShort": "定期的にＨＰが小回復＋風の法術が大強化",
 		"tr_explainShort": "HP over time + Wind Techs boosted",
 		"jp_explainLong": "① 風属性の法術の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Greatly boosts Wind Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Wind Techs by 60%.\n<color=yellow>SP: </color>Boosts the power of Wind Techs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40035",
 		"jp_explainShort": "定期的にＨＰが小回復＋雷の法術が強化",
 		"tr_explainShort": "HP over time + Lightning Techs boosted",
 		"jp_explainLong": "① 雷属性の法術の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Lightning Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Lightning Techs by 40%.\n<color=yellow>SP: </color>Boosts the power of Lightning Techs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40036",
 		"jp_explainShort": "定期的にＨＰが小回復＋雷の法術が大強化",
 		"tr_explainShort": "HP over time + Lightning Techs boosted",
 		"jp_explainLong": "① 雷属性の法術の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Greatly boosts Lightning Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Lightning Techs by 60%.\n<color=yellow>SP: </color>Boosts the power of Lightning Techs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40037",
 		"jp_explainShort": "定期的にＨＰが小回復＋光の法術が強化",
 		"tr_explainShort": "HP over time + Light Techs boosted",
 		"jp_explainLong": "① 光属性の法術の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Light Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Light Techs by 40%.\n<color=yellow>SP: </color>Boosts the power of Light Techs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40038",
 		"jp_explainShort": "定期的にＨＰが小回復＋光の法術が大強化",
 		"tr_explainShort": "HP over time + Light Techs boosted",
 		"jp_explainLong": "① 光属性の法術の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Greatly boosts Light Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Light Techs by 60%.\n<color=yellow>SP: </color>Boosts the power of Light Techs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40039",
 		"jp_explainShort": "定期的にＨＰが小回復＋闇の法術が強化",
 		"tr_explainShort": "HP over time + Dark Techs boosted",
 		"jp_explainLong": "① 闇属性の法術の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Dark Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Dark Techs by 40%.\n<color=yellow>SP: </color>Boosts the power of Dark Techs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40040",
 		"jp_explainShort": "定期的にＨＰが小回復＋闇の法術が大強化",
 		"tr_explainShort": "HP over time + Dark Techs boosted",
 		"jp_explainLong": "① 闇属性の法術の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Greatly boosts Dark Techs.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by ??% every ? seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Dark Techs by 60%.\n<color=yellow>SP: </color>Boosts the power of Dark Techs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40041",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が強化",
 		"tr_explainShort": "HP over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40042",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が大強化",
 		"tr_explainShort": "HP over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40043",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が強化",
 		"tr_explainShort": "HP over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40044",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が大強化",
 		"tr_explainShort": "HP over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40045",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が強化",
 		"tr_explainShort": "HP over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40046",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が大強化",
 		"tr_explainShort": "HP over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40047",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が強化",
 		"tr_explainShort": "HP over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40048",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が大強化",
 		"tr_explainShort": "HP over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40049",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"tr_explainShort": "HP over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40050",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が大強化",
 		"tr_explainShort": "HP over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40051",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が強化",
 		"tr_explainShort": "HP over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40052",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が大強化",
 		"tr_explainShort": "HP over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40053",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が強化",
 		"tr_explainShort": "HP over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40054",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が大強化",
 		"tr_explainShort": "HP over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40055",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が強化",
 		"tr_explainShort": "HP over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40056",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が大強化",
 		"tr_explainShort": "HP over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40057",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が強化",
 		"tr_explainShort": "HP over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40058",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が大強化",
 		"tr_explainShort": "HP over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40059",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が強化",
 		"tr_explainShort": "HP over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40060",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が大強化",
 		"tr_explainShort": "HP over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40061",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が強化",
 		"tr_explainShort": "HP over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40062",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が大強化",
 		"tr_explainShort": "HP over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40063",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が強化",
 		"tr_explainShort": "HP over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40064",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が大強化",
 		"tr_explainShort": "HP over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40065",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が強化",
 		"tr_explainShort": "HP over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40066",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が大強化",
 		"tr_explainShort": "HP over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40067",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が強化",
 		"tr_explainShort": "HP over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40068",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が大強化",
 		"tr_explainShort": "HP over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40069",
@@ -6003,1022 +6003,1022 @@
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 大剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Sword.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Sword.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Sword.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40082",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 大剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Sword.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Sword.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Sword.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40083",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 自在槍装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Wired Lances.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Wired Lances.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     Wired Lances.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40084",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 自在槍装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Wired Lances.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Wired Lances.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     Wired Lances.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40085",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 長槍装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Partizan.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Partizan.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Partizan.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40086",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 長槍装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Partizan.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Partizan.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Partizan.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40087",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 双小剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Twin Daggers.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Twin Daggers.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     Twin Daggers.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40088",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 双小剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Twin Daggers.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Twin Daggers.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     Twin Daggers.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40089",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 両剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Double Saber.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Double Saber.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Double Saber.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40090",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 両剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Double Saber.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Double Saber.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Double Saber.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40091",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 鋼拳装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Knuckles.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Knuckles.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     Knuckles.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40092",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 鋼拳装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Knuckles.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Knuckles.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     Knuckles.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40093",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 銃剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Gunslash.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Gunslash.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Gunslash.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40094",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 銃剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Gunslash.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Gunslash.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Gunslash.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40095",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 長銃装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     an Assault Rifle.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     an Assault Rifle.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     an Assault Rifle.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40096",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 長銃装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     an Assault Rifle.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     an Assault Rifle.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     an Assault Rifle.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40097",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 大砲装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Launcher.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Launcher.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Launcher.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40098",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 大砲装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Launcher.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Launcher.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Launcher.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40099",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 双機銃装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Twin Machineguns.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Twin Machineguns.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     Twin Machineguns.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40100",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 双機銃装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Twin Machineguns.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Twin Machineguns.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     Twin Machineguns.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40101",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 長杖装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]法術チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Rod.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Rod.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Rod.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40102",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 長杖装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]法術チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Rod.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Rod.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Rod.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40103",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 導具装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]法術チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Talis.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Talis.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Talis.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40104",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 導具装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]法術チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Talis.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Talis.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Talis.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40105",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 短杖装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]法術チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Wand.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Wand.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Wand.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40106",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 短杖装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]法術チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Wand.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Wand.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Wand.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a Tech chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40107",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 抜剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Katana.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Katana.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Katana.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40108",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 抜剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Katana.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Katana.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Katana.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40109",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 強弓装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Bullet Bow.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     a Bullet Bow.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     a Bullet Bow.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40110",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 強弓装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Bullet Bow.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     a Bullet Bow.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     a Bullet Bow.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40111",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 魔装脚装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップもしくは法術チップ使用時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Jet Boots.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA or Tech chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Jet Boots.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     Jet Boots.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA or Tech chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40112",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 魔装脚装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップもしくは法術チップ使用時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Jet Boots.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA or Tech chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Jet Boots.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     Jet Boots.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA or Tech chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40113",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 飛翔剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Dual Blades.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 40% when equipped with\n     Dual Blades.\n<color=yellow>SP: </color>Boosts damage by 50% when equipped with\n     Dual Blades.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40114",
 		"jp_explainShort": "ダメージ大増加＋定期的にＨＰが小回復",
 		"tr_explainShort": "Damage boosted + HP recov. over time",
 		"jp_explainLong": "① 飛翔剣装備時に攻撃力を大きく増加する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]必殺技チップ発動時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Dual Blades.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 10 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% when equipped with\n     Dual Blades.\n<color=yellow>SP: </color>Boosts damage by 70% when equipped with\n     Dual Blades.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 8.3 seconds.\n[Activation Trigger] Activating a PA chip\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "40115",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が強化",
 		"tr_explainShort": "HP up over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40116",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が大強化",
 		"tr_explainShort": "HP up over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40117",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が強化",
 		"tr_explainShort": "HP up over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40118",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が大強化",
 		"tr_explainShort": "HP up over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40119",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が強化",
 		"tr_explainShort": "HP up over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40120",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が大強化",
 		"tr_explainShort": "HP up over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40121",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が強化",
 		"tr_explainShort": "HP up over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40122",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が大強化",
 		"tr_explainShort": "HP up over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40123",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"tr_explainShort": "HP up over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40124",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が大強化",
 		"tr_explainShort": "HP up over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40125",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が強化",
 		"tr_explainShort": "HP up over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40126",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が大強化",
 		"tr_explainShort": "HP up over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40127",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が強化",
 		"tr_explainShort": "HP up over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40128",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が大強化",
 		"tr_explainShort": "HP up over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40129",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が強化",
 		"tr_explainShort": "HP up over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40130",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が大強化",
 		"tr_explainShort": "HP up over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40131",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が強化",
 		"tr_explainShort": "HP up over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40132",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が大強化",
 		"tr_explainShort": "HP up over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40133",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が強化",
 		"tr_explainShort": "HP up over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40134",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が大強化",
 		"tr_explainShort": "HP up over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40135",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が強化",
 		"tr_explainShort": "HP up over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40136",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が大強化",
 		"tr_explainShort": "HP up over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40137",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が強化",
 		"tr_explainShort": "HP up over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40138",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が大強化",
 		"tr_explainShort": "HP up over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40139",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が強化",
 		"tr_explainShort": "HP up over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40140",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が大強化",
 		"tr_explainShort": "HP up over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40141",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が強化",
 		"tr_explainShort": "HP up over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40142",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が大強化",
 		"tr_explainShort": "HP up over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40143",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が強化",
 		"tr_explainShort": "HP up over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40144",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が大強化",
 		"tr_explainShort": "HP up over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40145",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が強化",
 		"tr_explainShort": "HP up over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40146",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が大強化",
 		"tr_explainShort": "HP up over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40147",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が強化",
 		"tr_explainShort": "HP up over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40148",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が大強化",
 		"tr_explainShort": "HP up over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40149",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が強化",
 		"tr_explainShort": "HP up over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40150",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が大強化",
 		"tr_explainShort": "HP up over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40151",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"tr_explainShort": "HP up over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40152",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が大強化",
 		"tr_explainShort": "HP up over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40153",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が強化",
 		"tr_explainShort": "HP up over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40154",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が大強化",
 		"tr_explainShort": "HP up over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40155",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が強化",
 		"tr_explainShort": "HP up over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40156",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が大強化",
 		"tr_explainShort": "HP up over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40157",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が強化",
 		"tr_explainShort": "HP up over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40158",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が大強化",
 		"tr_explainShort": "HP up over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40159",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が強化",
 		"tr_explainShort": "HP up over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40160",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が大強化",
 		"tr_explainShort": "HP up over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40161",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が強化",
 		"tr_explainShort": "HP up over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40162",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が大強化",
 		"tr_explainShort": "HP up over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40163",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が強化",
 		"tr_explainShort": "HP up over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40164",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が大強化",
 		"tr_explainShort": "HP up over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40165",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が強化",
 		"tr_explainShort": "HP up over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40166",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が大強化",
 		"tr_explainShort": "HP up over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40167",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が強化",
 		"tr_explainShort": "HP up over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40168",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が大強化",
 		"tr_explainShort": "HP up over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40169",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が強化",
 		"tr_explainShort": "HP up over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40170",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が大強化",
 		"tr_explainShort": "HP up over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40171",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が強化",
 		"tr_explainShort": "HP up over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40172",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が大強化",
 		"tr_explainShort": "HP up over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40173",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が強化",
 		"tr_explainShort": "HP up over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40174",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が大強化",
 		"tr_explainShort": "HP up over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40175",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が強化",
 		"tr_explainShort": "HP up over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40176",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が大強化",
 		"tr_explainShort": "HP up over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40177",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が強化",
 		"tr_explainShort": "HP up over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40178",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が大強化",
 		"tr_explainShort": "HP up over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40179",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"tr_explainShort": "HP up over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40180",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が大強化",
 		"tr_explainShort": "HP up over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40181",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が強化",
 		"tr_explainShort": "HP up over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40182",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が大強化",
 		"tr_explainShort": "HP up over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40183",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が強化",
 		"tr_explainShort": "HP up over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40184",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が大強化",
 		"tr_explainShort": "HP up over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40185",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が強化",
 		"tr_explainShort": "HP up over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40186",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が大強化",
 		"tr_explainShort": "HP up over time + Assault Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40187",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が強化",
 		"tr_explainShort": "HP up over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40188",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が大強化",
 		"tr_explainShort": "HP up over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40189",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が強化",
 		"tr_explainShort": "HP up over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40190",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が大強化",
 		"tr_explainShort": "HP up over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40191",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が強化",
 		"tr_explainShort": "HP up over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40192",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が大強化",
 		"tr_explainShort": "HP up over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40193",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が強化",
 		"tr_explainShort": "HP up over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40194",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が大強化",
 		"tr_explainShort": "HP up over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40195",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が強化",
 		"tr_explainShort": "HP up over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40196",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が大強化",
 		"tr_explainShort": "HP up over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40197",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が強化",
 		"tr_explainShort": "HP up over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40198",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が大強化",
 		"tr_explainShort": "HP up over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40199",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が強化",
 		"tr_explainShort": "HP up over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40200",
 		"jp_explainShort": "定期的にＨＰが小回復＋大剣の技が大強化",
 		"tr_explainShort": "HP up over time + Sword PA boost",
 		"jp_explainLong": "① 大剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Sword PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Sword PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40201",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が強化",
 		"tr_explainShort": "HP up over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40202",
 		"jp_explainShort": "定期的にＨＰが小回復＋自在槍の技が大強化",
 		"tr_explainShort": "HP up over time + Wired Lance PA boost",
 		"jp_explainLong": "① 自在槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Wired Lance PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Wired Lance PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40203",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が強化",
 		"tr_explainShort": "HP up over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40204",
 		"jp_explainShort": "定期的にＨＰが小回復＋長槍の技が大強化",
 		"tr_explainShort": "HP up over time + Partizan PA boost",
 		"jp_explainLong": "① 長槍の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Partizan PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Partizan PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40205",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が強化",
 		"tr_explainShort": "HP up over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40206",
 		"jp_explainShort": "定期的にＨＰが小回復＋双小剣の技が大強化",
 		"tr_explainShort": "HP up over time + Twin Dagger PA boost",
 		"jp_explainLong": "① 双小剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Dagger PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Twin Dagger PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40207",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が強化",
 		"tr_explainShort": "HP up over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40208",
 		"jp_explainShort": "定期的にＨＰが小回復＋両剣の技が大強化",
 		"tr_explainShort": "HP up over time + Double Saber PA boost",
 		"jp_explainLong": "① 両剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Double Saber PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Double Saber PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40209",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が強化",
 		"tr_explainShort": "HP up over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40210",
 		"jp_explainShort": "定期的にＨＰが小回復＋鋼拳の技が大強化",
 		"tr_explainShort": "HP up over time + Knuckles PA boost",
 		"jp_explainLong": "① 鋼拳の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Knuckles PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Knuckles PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40211",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が強化",
 		"tr_explainShort": "HP up over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40212",
 		"jp_explainShort": "定期的にＨＰが小回復＋銃剣の技が大強化",
 		"tr_explainShort": "HP up over time + Gunslash PA boost",
 		"jp_explainLong": "① 銃剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40213",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が強化",
 		"tr_explainShort": "HP up over time + Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40214",
 		"jp_explainShort": "定期的にＨＰが小回復＋長銃の技が大強化",
 		"tr_explainShort": "HP up over time + Rifle PA boost",
 		"jp_explainLong": "① 長銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Assault Rifle PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Assault Rifle PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40215",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が強化",
 		"tr_explainShort": "HP up over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40216",
 		"jp_explainShort": "定期的にＨＰが小回復＋大砲の技が大強化",
 		"tr_explainShort": "HP up over time + Launcher PA boost",
 		"jp_explainLong": "① 大砲の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Launcher PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Launcher PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40217",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が強化",
 		"tr_explainShort": "HP up over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     40%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40218",
 		"jp_explainShort": "定期的にＨＰが小回復＋双機銃の技が大強化",
 		"tr_explainShort": "HP up over time + TMG PA boost",
 		"jp_explainLong": "① 双機銃の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Twin Machinegun PAs by\n     60%.\n<color=yellow>SP: </color>Boosts the power of Twin Machinegun PAs by\n     70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40219",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が強化",
 		"tr_explainShort": "HP up over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40220",
 		"jp_explainShort": "定期的にＨＰが小回復＋抜剣の技が大強化",
 		"tr_explainShort": "HP up over time + Katana PA boost",
 		"jp_explainLong": "① 抜剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Katana PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Katana PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40221",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が強化",
 		"tr_explainShort": "HP up over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40222",
 		"jp_explainShort": "定期的にＨＰが小回復＋強弓の技が大強化",
 		"tr_explainShort": "HP up over time + Bullet Bow PA boost",
 		"jp_explainLong": "① 強弓の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40223",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が強化",
 		"tr_explainShort": "HP up over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40224",
 		"jp_explainShort": "定期的にＨＰが小回復＋魔装脚の技が大強化",
 		"tr_explainShort": "HP up over time + Jet Boots PA boost",
 		"jp_explainLong": "① 魔装脚の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Jet Boots PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Jet Boots PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40225",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が強化",
 		"tr_explainShort": "HP up over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 40%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 50%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40226",
 		"jp_explainShort": "定期的にＨＰが小回復＋飛翔剣の技が大強化",
 		"tr_explainShort": "HP up over time + Dual Blades PA boost",
 		"jp_explainLong": "① 飛翔剣の必殺技の威力を大きく強化する。\n② 定期的にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 6 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Dual Blades PAs by 60%.\n<color=yellow>SP: </color>Boosts the power of Dual Blades PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "40227",

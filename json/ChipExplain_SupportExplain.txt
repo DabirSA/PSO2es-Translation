@@ -158,14 +158,14 @@
 		"jp_explainShort": "チップの効果時間が延長",
 		"tr_explainShort": "Chip Effect Duration extended",
 		"jp_explainLong": "① アクティブチップのアビリティ効果時間を\n　　 延長する。\n[発動条件]アクティブチップ発動時",
-		"tr_explainLong": "① Extends the Effect Duration of Active Chips'\n    abilities by 8 seconds.\n[Activation Trigger] Activating an Active Chip"
+		"tr_explainLong": "① Extends the Effect Duration of an Active Chip's\n    ability by 8 seconds.\n<color=yellow>SP: </color>Extends the Effect Duration of an Active Chip's\n    ability by 9 seconds.\n[Activation Trigger] Activating an Active Chip\n[Cooldown] 12 seconds"
 	},
 	{
 		"assign": "30012",
 		"jp_explainShort": "チップの効果時間が延長",
 		"tr_explainShort": "Chip Effect Duration extended",
 		"jp_explainLong": "① アクティブチップのアビリティ効果時間を\n　　 延長する。\n[発動条件]アクティブチップ発動時",
-		"tr_explainLong": "① Extends the Effect Duration of Active Chips'\n    abilities by 10 seconds.\n[Activation Trigger] Activating an Active Chip"
+		"tr_explainLong": "① Extends the Effect Duration of an Active Chip's\n    ability by 10 seconds.\n<color=yellow>SP: </color>Extends the Effect Duration of an Active Chip's\n    ability by 12 seconds.\n[Activation Trigger] Activating an Active Chip\n[Cooldown] 10 seconds"
 	},
 	{
 		"assign": "30019",
@@ -228,14 +228,14 @@
 		"jp_explainShort": "状態異常の敵に対してダメージ量が大増加",
 		"tr_explainShort": "Damage boosted vs status",
 		"jp_explainLong": "① 状態異常の敵に対してダメージを大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 60% against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "① Boosts damage by 60% against enemies\n    affected by status effects.\n<color=yellow>SP: </color>Boosts damage by 80% against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "30036",
 		"jp_explainShort": "状態異常の敵に対してダメージ量が劇的増加",
 		"tr_explainShort": "Damage boosted vs status",
 		"jp_explainLong": "① 状態異常の敵に対してダメージを劇的に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "① Boosts damage by 100% against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "① Boosts damage by 100% against enemies\n    affected by status effects.\n<color=yellow>SP: </color>Boosts damage by 120% against enemies\n    affected by status effects.\n    <color=yellow>[C-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "30037",
@@ -5401,14 +5401,14 @@
 		"jp_explainShort": "ＣＰが回復",
 		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Recovers CP by ??.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Recovers CP by 7.\n<color=yellow>SP: </color>Recovers CP by 10.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 2 seconds"
 	},
 	{
 		"assign": "81320",
 		"jp_explainShort": "ＣＰが回復",
 		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Recovers CP by ??.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Recovers CP by 12.\n<color=yellow>SP: </color>Recovers CP by 15.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 2 seconds"
 	},
 	{
 		"assign": "81410",
@@ -5429,14 +5429,14 @@
 		"jp_explainShort": "ＣＰが大回復",
 		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを大きく回復する。\n[発動条件]敵からの攻撃でダウンした時",
-		"tr_explainLong": "① Greatly recovers CP.\n[Activation Trigger] Knocked down by an enemy"
+		"tr_explainLong": "① Recovers CP by 40.\n<color=yellow>SP: </color>Recovers CP by 50.\n[Activation Trigger] Knocked down by an enemy"
 	},
 	{
 		"assign": "81520",
 		"jp_explainShort": "ＣＰが大回復",
 		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを大きく回復する。\n[発動条件]敵からの攻撃でダウンした時",
-		"tr_explainLong": "① Greatly recovers CP.\n[Activation Trigger] Knocked down by an enemy"
+		"tr_explainLong": "① Recovers CP by 50.\n<color=yellow>SP: </color>Recovers CP by 60.\n[Activation Trigger] Knocked down by an enemy"
 	},
 	{
 		"assign": "40001",
@@ -8453,84 +8453,84 @@
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by 10.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Fire Element by 10.\n<color=yellow>SP: </color>Increases your Fire Element by 12.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "21410",
 		"jp_explainShort": "炎属性が強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Fire Element by 20.\n<color=yellow>SP: </color>Increases your Fire Element by 24.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "21510",
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by 10.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Ice Element by 10.\n<color=yellow>SP: </color>Increases your Ice Element by 12.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "21610",
 		"jp_explainShort": "氷属性が強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Ice Element by 20.\n<color=yellow>SP: </color>Increases your Ice Element by 24.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "21710",
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 10.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 10.\n<color=yellow>SP: </color>Increases your Lightning Element by 12.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "21810",
 		"jp_explainShort": "雷属性が強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 20.\n<color=yellow>SP: </color>Increases your Lightning Element by 24.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "21910",
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by 10.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Wind Element by 10.\n<color=yellow>SP: </color>Increases your Wind Element by 12.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "22010",
 		"jp_explainShort": "風属性が強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Wind Element by 20.\n<color=yellow>SP: </color>Increases your Wind Element by 24.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "22110",
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by 10.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Light Element by 10.\n<color=yellow>SP: </color>Increases your Light Element by 12.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "22210",
 		"jp_explainShort": "光属性が強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Light Element by 20.\n<color=yellow>SP: </color>Increases your Light Element by 24.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "22310",
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by 10.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Dark Element by 10.\n<color=yellow>SP: </color>Increases your Dark Element by 12.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "22410",
 		"jp_explainShort": "闇属性が強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性を強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Dark Element by 20.\n<color=yellow>SP: </color>Increases your Dark Element by 24.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "3410",
@@ -8551,28 +8551,28 @@
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Dark Element by 2.\n<color=yellow>SP: </color>Increases your Dark Element by 3.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "3520",
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by 4.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Dark Element by 4.\n<color=yellow>SP: </color>Increases your Dark Element by 6.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "3610",
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Dark Element by 4.\n<color=yellow>SP: </color>Increases your Dark Element by 6.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "3620",
 		"jp_explainShort": "闇属性が小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Dark Element by 7.\n<color=yellow>SP: </color>Increases your Dark Element by 10.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "3710",
@@ -8733,28 +8733,28 @@
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Wind Element by 2.\n<color=yellow>SP: </color>Increases your Wind Element by 3.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "5620",
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by 4.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Wind Element by 4.\n<color=yellow>SP: </color>Increases your Wind Element by 6.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "5710",
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Wind Element by 4.\n<color=yellow>SP: </color>Increases your Wind Element by 6.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "5720",
 		"jp_explainShort": "風属性が小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Wind Element by 7.\n<color=yellow>SP: </color>Increases your Wind Element by 10.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "5810",
@@ -8789,28 +8789,28 @@
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Ice Element by 2.\n<color=yellow>SP: </color>Increases your Ice Element by 3.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "6220",
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by 4.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Ice Element by 4.\n<color=yellow>SP: </color>Increases your Ice Element by 6.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "6310",
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Ice Element by 4.\n<color=yellow>SP: </color>Increases your Ice Element by 6.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "6320",
 		"jp_explainShort": "氷属性が小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Ice Element by 7.\n<color=yellow>SP: </color>Increases your Ice Element by 10.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "6510",
@@ -8887,42 +8887,42 @@
 		"jp_explainShort": "ＣＰが小回復",
 		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Recovers CP by ??.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 7.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 5 seconds"
 	},
 	{
 		"assign": "7920",
 		"jp_explainShort": "ＣＰが回復",
 		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Recovers CP by ??.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Recovers CP by 8.\n<color=yellow>SP: </color>Recovers CP by 10.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 5 seconds"
 	},
 	{
 		"assign": "8010",
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Fire Element by 4.\n<color=yellow>SP: </color>Increases your Fire Element by 6.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "8020",
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Fire Element by 7.\n<color=yellow>SP: </color>Increases your Fire Element by 10.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "8110",
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Fire Element by 2.\n<color=yellow>SP: </color>Increases your Fire Element by 3.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "8120",
 		"jp_explainShort": "炎属性が小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by 4.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Fire Element by 4.\n<color=yellow>SP: </color>Increases your Fire Element by 6.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "8210",
@@ -8957,42 +8957,42 @@
 		"jp_explainShort": "ＣＰが小回復",
 		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Recovers CP by ??.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 7.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 5 seconds"
 	},
 	{
 		"assign": "8420",
 		"jp_explainShort": "ＣＰが回復",
 		"tr_explainShort": "CP recovery",
 		"jp_explainLong": "① ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "① Recovers CP by ??.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "① Recovers CP by 8.\n<color=yellow>SP: </color>Recovers CP by 10.\n[Activation Trigger] Successful Just Attack\n[Cooldown] 5 seconds"
 	},
 	{
 		"assign": "8510",
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Light Element by 4.\n<color=yellow>SP: </color>Increases your Light Element by 6.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "8520",
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Light Element by 7.\n<color=yellow>SP: </color>Increases your Light Element by 10.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "8610",
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Light Element by 2.\n<color=yellow>SP: </color>Increases your Light Element by 3.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "8620",
 		"jp_explainShort": "光属性が小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by 4.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Light Element by 4.\n<color=yellow>SP: </color>Increases your Light Element by 6.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "8810",
@@ -9069,28 +9069,28 @@
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 2.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 2.\n<color=yellow>SP: </color>Increases your Lightning Element by 3.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "9520",
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]敵からダメージを受けた時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 4.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 4.\n<color=yellow>SP: </color>Increases your Lightning Element by 6.\n[Activation Trigger] Taking damage from enemies\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "9610",
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 4.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 4.\n<color=yellow>SP: </color>Increases your Lightning Element by 6.\n[Activation Trigger] Landing an attack\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "9620",
 		"jp_explainShort": "雷属性が小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 7.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 7.\n<color=yellow>SP: </color>Increases your Lightning Element by 10.\n[Activation Trigger] Landing an attack\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "9710",
@@ -9167,14 +9167,14 @@
 		"jp_explainShort": "ＣＰ大回復",
 		"tr_explainShort": "Large CP recovery",
 		"jp_explainLong": "① ＣＰを大きく回復する。\n[発動条件]敵からダメージを受けた時",
-		"tr_explainLong": "① Recovers CP by 50.\n[Activation Trigger] Taking damage"
+		"tr_explainLong": "① Recovers CP by 50.\n<color=yellow>SP: </color>Recovers CP by 60.\n[Activation Trigger] Taking damage from enemies"
 	},
 	{
 		"assign": "20022",
 		"jp_explainShort": "ＣＰ大回復",
 		"tr_explainShort": "Large CP recovery",
 		"jp_explainLong": "① ＣＰを大きく回復する。\n[発動条件]敵からダメージを受けた時",
-		"tr_explainLong": "① Recovers CP by 70.\n[Activation Trigger] Taking damage"
+		"tr_explainLong": "① Recovers CP by 70.\n<color=yellow>SP: </color>Recovers CP by 80.\n[Activation Trigger] Taking damage from enemies"
 	},
 	{
 		"assign": "20045",

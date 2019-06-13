@@ -172,14 +172,14 @@
 		"jp_explainShort": "ＨＰを削り敵全体に特大ダメージ",
 		"tr_explainShort": "Damages self and enemies",
 		"jp_explainLong": "【ダメージボム】\n① 自分自身をも巻き込んで\n　　 敵全体に炎属性の法撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 3000% 250 Fire Tech damage to all\n    enemies, while also damaging you by 30% of\n    your maximum HP.\n<color=yellow>SP: </color>n① Deals 3500% 250 Fire Tech damage to all\n    enemies, while also damaging you by 30% of\n    your maximum HP.\n    You cannot activate this chip when below 30% HP."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 3000% 250 Fire tech damage to all\n    enemies, while also damaging you by 30% of\n    your maximum HP.\n<color=yellow>SP: </color>n① Deals 3500% 250 Fire tech damage to all\n    enemies, while also damaging you by 30% of\n    your maximum HP.\n    You cannot activate this chip when below 30% HP."
 	},
 	{
 		"assign": "1580",
 		"jp_explainShort": "ＨＰを削り敵全体に特大ダメージ",
 		"tr_explainShort": "Damages self and enemies",
 		"jp_explainLong": "【ダメージボム】\n① 自分自身をも巻き込んで\n　　 敵全体に炎属性の法撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals 4000% 250 Fire Tech damage to all\n    enemies, while also damaging you by 30% of\n    your maximum HP.\n<color=yellow>SP: </color>n① Deals 5000% 250 Fire Tech damage to all\n    enemies, while also damaging you by 30% of\n    your maximum HP.\n    You cannot activate this chip when below 30% HP."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 4000% 250 Fire tech damage to all\n    enemies, while also damaging you by 30% of\n    your maximum HP.\n<color=yellow>SP: </color>n① Deals 5000% 250 Fire tech damage to all\n    enemies, while also damaging you by 30% of\n    your maximum HP.\n    You cannot activate this chip when below 30% HP."
 	},
 	{
 		"assign": "1590",
@@ -2375,16 +2375,16 @@
 	{
 		"assign": "31963",
 		"jp_explainShort": "ＨＰを削り敵全体に特大ダメージ",
-		"tr_explainShort": "Cuts HP to damage all enemies",
+		"tr_explainShort": "Damages self and enemies",
 		"jp_explainLong": "【ダメージボム】\n① 自分自身をも巻き込んで\n　　 敵全体に光属性の打撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals massive Light striking damage to yourself\n    and all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 12500% 250 Light striking damage to all\n    enemies, while also damaging you by 99% of your\n    maximum HP.\n<color=yellow>SP: </color>Deals 13000% 250 Light striking damage to all\n    enemies, while also damaging you by 99% of your\n    maximum HP."
 	},
 	{
 		"assign": "31964",
 		"jp_explainShort": "ＨＰを削り敵全体に特大ダメージ",
-		"tr_explainShort": "Cuts HP to damage all enemies",
+		"tr_explainShort": "Damages self and enemies",
 		"jp_explainLong": "【ダメージボム】\n① 自分自身をも巻き込んで\n　　 敵全体に光属性の打撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals massive Light striking damage to yourself\n    and all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 13500% 250 Light striking damage to all\n    enemies, while also damaging you by 99% of your\n    maximum HP.\n<color=yellow>SP: </color>Deals 14000% 250 Light striking damage to all\n    enemies, while also damaging you by 99% of your\n    maximum HP."
 	},
 	{
 		"assign": "31965",
@@ -2599,16 +2599,16 @@
 	{
 		"assign": "81010",
 		"jp_explainShort": "氷属性の打撃による大ダメージ",
-		"tr_explainShort": "Ice striking damage to all enemies",
+		"tr_explainShort": "Ice striking damage",
 		"jp_explainLong": "【ダメージボム】\n① 氷属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Ice striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1500% 200 Ice striking damage to the target.\n<color=yellow>SP: </color>Deals 2000% 200 Ice striking damage to the target."
 	},
 	{
 		"assign": "81020",
 		"jp_explainShort": "氷属性の打撃による特大ダメージ",
-		"tr_explainShort": "Ice striking damage to all enemies",
+		"tr_explainShort": "Ice striking damage",
 		"jp_explainLong": "【ダメージボム】\n① 氷属性の打撃による特大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals massive Ice striking damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 2500% 200 Ice striking damage to the target.\n<color=yellow>SP: </color>Deals 3000% 200 Ice striking damage to the target."
 	},
 	{
 		"assign": "81110",
@@ -2657,28 +2657,28 @@
 		"jp_explainShort": "雷属性を強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性を強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 35.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 70.\n<color=yellow>SP: </color>Increases your Lightning Element by 84.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "81720",
 		"jp_explainShort": "雷属性を大強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 55.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 90.\n<color=yellow>SP: </color>Increases your Lightning Element by 100.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "81810",
 		"jp_explainShort": "炎属性を強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性を強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases your Fire Element by 35.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "① Increases your Fire Element by 70.\n<color=yellow>SP: </color>Increases your Fire Element by 84.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "81820",
 		"jp_explainShort": "炎属性を大強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性を大きく強化する。\n[効果時間]長い時間",
-		"tr_explainLong": "① Increases your Fire Element by 55.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "① Increases your Fire Element by 90.\n<color=yellow>SP: </color>Increases your Fire Element by 100.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "50110",
@@ -7235,98 +7235,98 @@
 		"jp_explainShort": "炎属性を小強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by 10.\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Fire Element by 10.\n<color=yellow>SP: </color>Increases your Fire Element by 12.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "20210",
 		"jp_explainShort": "炎属性を強化",
 		"tr_explainShort": "Fire Element up",
 		"jp_explainLong": "① 炎属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Fire Element by 20.\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Fire Element by 20.\n<color=yellow>SP: </color>Increases your Fire Element by 24.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "20310",
 		"jp_explainShort": "氷属性を小強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by 10.\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Ice Element by 10.\n<color=yellow>SP: </color>Increases your Ice Element by 12.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "20410",
 		"jp_explainShort": "氷属性を強化",
 		"tr_explainShort": "Ice Element up",
 		"jp_explainLong": "① 氷属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Ice Element by 20.\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Ice Element by 20.\n<color=yellow>SP: </color>Increases your Ice Element by 24.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "20510",
 		"jp_explainShort": "雷属性を小強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 10.\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 10.\n<color=yellow>SP: </color>Increases your Lightning Element by 12.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "20610",
 		"jp_explainShort": "雷属性を強化",
 		"tr_explainShort": "Lightning Element up",
 		"jp_explainLong": "① 雷属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Lightning Element by 20.\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Lightning Element by 20.\n<color=yellow>SP: </color>Increases your Lightning Element by 24.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "20710",
 		"jp_explainShort": "風属性を小強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by 10.\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Wind Element by 10.\n<color=yellow>SP: </color>Increases your Wind Element by 12.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "20810",
 		"jp_explainShort": "風属性を強化",
 		"tr_explainShort": "Wind Element up",
 		"jp_explainLong": "① 風属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Wind Element by 20.\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Wind Element by 20.\n<color=yellow>SP: </color>Increases your Wind Element by 24.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "20910",
 		"jp_explainShort": "光属性を小強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by 10.\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Light Element by 10.\n<color=yellow>SP: </color>Increases your Light Element by 12.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "21010",
 		"jp_explainShort": "光属性を強化",
 		"tr_explainShort": "Light Element up",
 		"jp_explainLong": "① 光属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Light Element by 20.\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Light Element by 20.\n<color=yellow>SP: </color>Increases your Light Element by 24.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "21110",
 		"jp_explainShort": "闇属性を小強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性をわずかに強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by 10.\n[Effect Duration] 8 seconds"
+		"tr_explainLong": "① Increases your Dark Element by 10.\n<color=yellow>SP: </color>Increases your Dark Element by 12.\n[Effect Duration] 8 seconds"
 	},
 	{
 		"assign": "21210",
 		"jp_explainShort": "闇属性を強化",
 		"tr_explainShort": "Dark Element up",
 		"jp_explainLong": "① 闇属性を強化する。\n[効果時間]短い時間",
-		"tr_explainLong": "① Increases your Dark Element by 20.\n[Effect Duration] 12 seconds"
+		"tr_explainLong": "① Increases your Dark Element by 20.\n<color=yellow>SP: </color>Increases your Dark Element by 24.\n[Effect Duration] 12 seconds"
 	},
 	{
 		"assign": "3810",
 		"jp_explainShort": "闇属性の法撃による中ダメージ",
-		"tr_explainShort": "Dark Tech damage",
+		"tr_explainShort": "Dark tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Dark Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 375% 30 Dark tech damage to the target.\n<color=yellow>SP: </color>Deals 450% 30 Dark tech damage to the target."
 	},
 	{
 		"assign": "3820",
 		"jp_explainShort": "闇属性の法撃による中ダメージ",
-		"tr_explainShort": "Dark Tech damage",
+		"tr_explainShort": "Dark tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Dark Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 525% 30 Dark tech damage to the target.\n<color=yellow>SP: </color>Deals 675% 30 Dark tech damage to the target."
 	},
 	{
 		"assign": "3910",
@@ -7359,16 +7359,16 @@
 	{
 		"assign": "4110",
 		"jp_explainShort": "全体に闇属性の法撃による中ダメージ",
-		"tr_explainShort": "Medium Dark Tech damage to all enemies",
+		"tr_explainShort": "Medium Dark tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に闇属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Dark Tech damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Dark tech damage to all enemies.\n<color=yellow>SP: </color>Deals 800% 80 Dark tech damage to all enemies."
 	},
 	{
 		"assign": "4120",
 		"jp_explainShort": "全体に闇属性の法撃による大ダメージ",
-		"tr_explainShort": "Heavy Dark Tech damage to all enemies",
+		"tr_explainShort": "Heavy Dark tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に闇属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Dark Tech damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Dark tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Dark tech damage to all enemies."
 	},
 	{
 		"assign": "4310",
@@ -7417,14 +7417,14 @@
 		"jp_explainShort": "闇属性の打撃による中ダメージ",
 		"tr_explainShort": "Heavy Dark damage",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の打撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Dark damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 750% 100 Dark striking damage to the target.\n<color=yellow>SP: </color>Deals 1000% 100 Dark striking damage to the target."
 	},
 	{
 		"assign": "4920",
 		"jp_explainShort": "闇属性の打撃による大ダメージ",
 		"tr_explainShort": "Heavy Dark damage",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Dark damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1250% 100 Dark striking damage to the target.\n<color=yellow>SP: </color>Deals 1500% 100 Dark striking damage to the target."
 	},
 	{
 		"assign": "5110",
@@ -7445,42 +7445,42 @@
 		"jp_explainShort": "全体に闇属性の射撃による中ダメージ",
 		"tr_explainShort": "Dark shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に闇属性の射撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Dark shooting damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Dark shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 800% 80 Dark shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "5320",
 		"jp_explainShort": "全体に闇属性の射撃による大ダメージ",
 		"tr_explainShort": "Dark shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に闇属性の射撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Dark shooting damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Dark shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Dark shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "20005",
 		"jp_explainShort": "闇属性の法撃による中ダメージ",
-		"tr_explainShort": "Medium Dark Tech damage",
+		"tr_explainShort": "Medium Dark tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Dark Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Dark tech damage to the target.\n<color=yellow>SP: </color>Deals 800% 80 Dark tech damage to the target."
 	},
 	{
 		"assign": "20006",
 		"jp_explainShort": "闇属性の法撃による大ダメージ",
-		"tr_explainShort": "Heavy Dark Tech damage",
+		"tr_explainShort": "Heavy Dark tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 闇属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Dark Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Dark tech damage to the target.\n<color=yellow>SP: </color>Deals 1200% 80 Dark tech damage to the target."
 	},
 	{
 		"assign": "20007",
 		"jp_explainShort": "敵全体に闇属性の法撃による大ダメージ",
-		"tr_explainShort": "Dark Tech damage to all enemies",
+		"tr_explainShort": "Dark tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に闇属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Dark Tech damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Dark tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Dark tech damage to all enemies."
 	},
 	{
 		"assign": "20008",
 		"jp_explainShort": "敵全体に闇属性の法撃による大ダメージ",
-		"tr_explainShort": "Dark Tech damage to all enemies",
+		"tr_explainShort": "Dark tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に闇属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Dark Tech damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Dark tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Dark tech damage to all enemies."
 	},
 	{
 		"assign": "20017",
@@ -7625,30 +7625,30 @@
 	{
 		"assign": "7010",
 		"jp_explainShort": "風属性の法撃による中ダメージ",
-		"tr_explainShort": "Medium Wind Tech damage",
+		"tr_explainShort": "Medium Wind tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 風属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Wind Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Wind tech damage to the target.\n<color=yellow>SP: </color>Deals 800% 80 Wind tech damage to the target."
 	},
 	{
 		"assign": "7020",
 		"jp_explainShort": "風属性の法撃による大ダメージ",
-		"tr_explainShort": "Medium Wind Tech damage",
+		"tr_explainShort": "Medium Wind tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 風属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Wind Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Wind tech damage to the target.\n<color=yellow>SP: </color>Deals 1200% 80 Wind tech damage to the target."
 	},
 	{
 		"assign": "7110",
 		"jp_explainShort": "全体に風属性の打撃による中ダメージ",
 		"tr_explainShort": "Wind striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に風属性の打撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Wind striking damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Wind striking damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 800% 80 Wind striking damage to all\n    enemies."
 	},
 	{
 		"assign": "7120",
 		"jp_explainShort": "全体に風属性の打撃による大ダメージ",
 		"tr_explainShort": "Wind striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に風属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Wind striking damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Wind striking damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Wind striking damage to all\n    enemies."
 	},
 	{
 		"assign": "7210",
@@ -7695,58 +7695,58 @@
 	{
 		"assign": "7510",
 		"jp_explainShort": "全体に氷属性の法撃による中ダメージ",
-		"tr_explainShort": "Ice Tech damage to all enemies",
+		"tr_explainShort": "Ice tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Ice Tech damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Ice tech damage to all enemies.\n<color=yellow>SP: </color>Deals 800% 80 Ice tech damage to all enemies."
 	},
 	{
 		"assign": "7520",
 		"jp_explainShort": "全体に氷属性の法撃による大ダメージ",
-		"tr_explainShort": "Ice Tech damage to all enemies",
+		"tr_explainShort": "Ice tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Ice Tech damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Ice tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Ice tech damage to all enemies."
 	},
 	{
 		"assign": "8710",
 		"jp_explainShort": "光属性の法撃による中ダメージ",
-		"tr_explainShort": "Light Tech damage",
+		"tr_explainShort": "Light tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 光属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Light Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 300% 20 Light tech damage to the target.\n<color=yellow>SP: </color>Deals 375% 20 Light tech damage to the target."
 	},
 	{
 		"assign": "8720",
 		"jp_explainShort": "光属性の法撃による中ダメージ",
-		"tr_explainShort": "Light Tech damage",
+		"tr_explainShort": "Light tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 光属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Light Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 450% 20 Light tech damage to the target.\n<color=yellow>SP: </color>Deals 525% 20 Light tech damage to the target."
 	},
 	{
 		"assign": "8910",
 		"jp_explainShort": "光属性の法撃による中ダメージ",
-		"tr_explainShort": "Light Tech damage",
+		"tr_explainShort": "Light tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 光属性の法撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Light Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 750% 100 Light tech damage to the target.\n<color=yellow>SP: </color>Deals 1000% 100 Light tech damage to the target."
 	},
 	{
 		"assign": "8920",
 		"jp_explainShort": "光属性の法撃による大ダメージ",
-		"tr_explainShort": "Light Tech damage",
+		"tr_explainShort": "Light tech damage",
 		"jp_explainLong": "【ダメージボム】\n① 光属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Light Tech damage to the target."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1250% 100 Light tech damage to the target.\n<color=yellow>SP: </color>Deals 1500% 100 Light tech damage to the target."
 	},
 	{
 		"assign": "9110",
 		"jp_explainShort": "全体に炎属性の打撃による中ダメージ",
 		"tr_explainShort": "Fire striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に炎属性の打撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Fire striking damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Fire striking damage to all enemies.\n<color=yellow>SP: </color>Deals 800% 80 Fire striking damage to all enemies."
 	},
 	{
 		"assign": "9120",
 		"jp_explainShort": "全体に炎属性の打撃による大ダメージ",
 		"tr_explainShort": "Fire striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に炎属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Fire striking damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Fire striking damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Fire striking damage to all enemies."
 	},
 	{
 		"assign": "9210",
@@ -7781,14 +7781,14 @@
 		"jp_explainShort": "全体に光属性の射撃による中ダメージ",
 		"tr_explainShort": "Light shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に光属性の射撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Light shooting damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Light shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 800% 80 Light shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "9420",
 		"jp_explainShort": "全体に光属性の射撃による大ダメージ",
 		"tr_explainShort": "Light shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に光属性の射撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Light shooting damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Light shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Light shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "9423",
@@ -7823,14 +7823,14 @@
 		"jp_explainShort": "敵全体に光属性の打撃による大ダメージ",
 		"tr_explainShort": "Light striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に光属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Light striking damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Light striking damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Light striking damage to all enemies."
 	},
 	{
 		"assign": "20026",
 		"jp_explainShort": "敵全体に光属性の打撃による大ダメージ",
 		"tr_explainShort": "Light striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に光属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Light striking damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Light striking damage to all enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Light striking damage to all enemies."
 	},
 	{
 		"assign": "20027",
@@ -7865,14 +7865,14 @@
 		"jp_explainShort": "全体に雷属性の射撃による中ダメージ",
 		"tr_explainShort": "Lightning shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による中ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals medium Lightning shooting damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 600% 80 Lightning shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 800% 80 Lightning shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "9920",
 		"jp_explainShort": "全体に雷属性の射撃による大ダメージ",
 		"tr_explainShort": "Lightning shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Lightning shooting damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Lightning shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Lightning shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "10010",
@@ -7907,14 +7907,14 @@
 		"jp_explainShort": "敵全体に雷属性の打撃による大ダメージ",
 		"tr_explainShort": "Lightning striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Lightning striking damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Lightning striking damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Lightning striking damage to all\n    enemies."
 	},
 	{
 		"assign": "20038",
 		"jp_explainShort": "敵全体に雷属性の打撃による大ダメージ",
 		"tr_explainShort": "Lightning striking damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の打撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Lightning striking damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Lightning striking damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Lightning striking damage to all\n    enemies."
 	},
 	{
 		"assign": "30110",
@@ -8131,14 +8131,14 @@
 		"jp_explainShort": "全体に氷属性の射撃による大ダメージ",
 		"tr_explainShort": "Ice shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の射撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Ice shooting damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Ice shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Ice shooting damage to all enemies."
 	},
 	{
 		"assign": "20012",
 		"jp_explainShort": "全体に氷属性の射撃による大ダメージ",
 		"tr_explainShort": "Ice shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の射撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Ice shooting damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Ice shooting damage to all enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Ice shooting damage to all enemies."
 	},
 	{
 		"assign": "20019",
@@ -8173,28 +8173,28 @@
 		"jp_explainShort": "全体に雷属性の射撃による大ダメージ",
 		"tr_explainShort": "Lightning shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Lightning shooting damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Lightning shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Lightning shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "20072",
 		"jp_explainShort": "全体に雷属性の射撃による大ダメージ",
 		"tr_explainShort": "Lightning shooting damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に雷属性の射撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Lightning shooting damage to all\n    enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Lightning shooting damage to all\n    enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Lightning shooting damage to all\n    enemies."
 	},
 	{
 		"assign": "20059",
 		"jp_explainShort": "全体に氷属性の法撃による大ダメージ",
-		"tr_explainShort": "Ice Tech damage to all enemies",
+		"tr_explainShort": "Ice tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Ice Tech damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1000% 80 Ice tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1200% 80 Ice tech damage to all enemies."
 	},
 	{
 		"assign": "20060",
 		"jp_explainShort": "全体に氷属性の法撃による大ダメージ",
-		"tr_explainShort": "Ice Tech damage to all enemies",
+		"tr_explainShort": "Ice tech damage to all enemies",
 		"jp_explainLong": "【ダメージボム】\n① 敵全体に氷属性の法撃による大ダメージを与える。",
-		"tr_explainLong": "[Damage Bomb]\n① Deals heavy Ice Tech damage to all enemies."
+		"tr_explainLong": "[Damage Bomb]\n① Deals 1400% 80 Ice tech damage to all enemies.\n<color=yellow>SP: </color>Deals 1600% 80 Ice tech damage to all enemies."
 	},
 	{
 		"assign": "20065",

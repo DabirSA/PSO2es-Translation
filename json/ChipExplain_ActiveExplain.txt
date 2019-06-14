@@ -1040,14 +1040,14 @@
 		"jp_explainShort": "攻撃３回毎に攻撃力劇的強化＋加速",
 		"tr_explainShort": "3 actions = ATK up + actions quickened",
 		"jp_explainLong": "① アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を劇的に強化する。（最大時：超絶）\n② 自身の通常攻撃と移動スピードを加速する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Increases your ATK by 800 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 8000)\n②  Speeds up movement and normal attacks by ??%.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Increases your ATK by 800 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 8000)\n<color=yellow>SP: </color>Increases your ATK by 900 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 9000)\n②  Speeds up movement and normal attacks by 30%.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31312",
 		"jp_explainShort": "攻撃３回毎に攻撃力劇的強化＋加速",
 		"tr_explainShort": "3 actions = ATK up + actions quickened",
 		"jp_explainLong": "① アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を劇的に強化する。（最大時：超絶）\n② 自身の通常攻撃と移動スピードを加速する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Increases your ATK by 1000 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 10000)\n②  Speeds up movement and normal attacks by ??%.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Increases your ATK by 1000 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 10000)\n<color=yellow>SP: </color>Increases your ATK by 1100 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 11000)\n②  Speeds up movement and normal attacks by 30%.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31315",
@@ -1152,28 +1152,28 @@
 		"jp_explainShort": "攻撃力絶大増加＋氷属性武器で攻撃力増加",
 		"tr_explainShort": "Damage boosted + Ice weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 さらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using an Ice\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 120%.\n<color=yellow>SP: </color>Boosts damage by 130%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using an Ice\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31380",
 		"jp_explainShort": "攻撃力絶大増加＋氷属性武器で攻撃力増加",
 		"tr_explainShort": "Damage boosted + Ice weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 さらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 140%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using an Ice\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 140%.\n<color=yellow>SP: </color>Boosts damage by 150%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using an Ice\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31389",
 		"jp_explainShort": "攻撃増＋加速＋ボス時氷チップ数で攻撃増",
 		"tr_explainShort": "Dam. boost + quick + boss dam. x # Ice",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 自身の通常攻撃と移動のスピードを加速する。\n③ ボス戦時は装備中の氷属性チップの枚数に応じて\n　　 さらに攻撃力を大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 200%.\n     <color=yellow>[E-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n③  Boosts damage against bosses by 9% x the\n     number of Ice chips equipped.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts damage by 200%.\n<color=yellow>SP: </color>Boosts damage by 210%.\n     <color=yellow>[E-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n③  Boosts damage against bosses by 10% x the\n     number of Ice chips equipped.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31390",
 		"jp_explainShort": "攻撃増＋加速＋ボス時氷チップ数で攻撃増",
 		"tr_explainShort": "Dam. boost + quick + boss dam. x # Ice",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 自身の通常攻撃と移動のスピードを加速する。\n③ ボス戦時は装備中の氷属性チップの枚数に応じて\n　　 さらに攻撃力を大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 220%.\n     <color=yellow>[E-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n③  Boosts damage against bosses by 10% x the\n     number of Ice chips equipped.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 220%.\n<color=yellow>SP: </color>Boosts damage by 230%.\n     <color=yellow>[E-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n③  Boosts damage against bosses by 10% x the\n     number of Ice chips equipped.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31405",

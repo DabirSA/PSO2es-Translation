@@ -1684,14 +1684,14 @@
 		"jp_explainShort": "通常攻撃にバーン付与＋攻撃力劇的増加",
 		"tr_explainShort": "[Burn] imbued + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 通常攻撃時に「バーン」効果を付与する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Gives normal attacks a chance to inflict [Burn].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 80%.\n<color=yellow>SP: </color>Boosts damage by 90%.\n     <color=yellow>[E-Frame]</color>\n②  Gives normal attacks a chance to inflict [Burn].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31234",
 		"jp_explainShort": "通常攻撃にバーン付与＋攻撃力劇的増加",
 		"tr_explainShort": "[Burn] imbued + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 通常攻撃時に「バーン」効果を付与する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Gives normal attacks a chance to inflict [Burn].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 100%.\n<color=yellow>SP: </color>Boosts damage by 110%.\n     <color=yellow>[E-Frame]</color>\n②  Gives normal attacks a chance to inflict [Burn].\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31235",
@@ -1712,14 +1712,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋通常攻撃で攻撃力微増加",
 		"tr_explainShort": "Damage boost + boost per normal attack",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 通常攻撃を行うたびに\n　　 さらに攻撃力をわずかに増加する。（最大時：劇的）\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 70%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 5% each time you\n     perform a normal attack.\n     (Maximum boost: 30%)\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 70%.\n<color=yellow>SP: </color>Boosts damage by 80%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 5% each time you\n     perform a normal attack.\n     (Maximum boost (including ①): 100%)\n<color=yellow>SP: </color>(Maximum boost (including ①): 110%)\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31238",
 		"jp_explainShort": "攻撃力劇的増加＋通常攻撃で攻撃力微増加",
 		"tr_explainShort": "Damage boost + boost per normal attack",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 通常攻撃を行うたびに\n　　 さらに攻撃力をわずかに増加する。（最大時：絶大）\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 90%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 5% each time you\n     perform a normal attack.\n     (Maximum boost: 30%)\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 5% each time you\n     perform a normal attack.\n     (Maximum boost (including ①): 120%)\n<color=yellow>SP: </color>(Maximum boost (including ①): 130%)\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31239",
@@ -2314,14 +2314,14 @@
 		"jp_explainShort": "攻撃絶大増＋ボス時に炎チップ数で能力上昇",
 		"tr_explainShort": "Dam. boost + boost, res. vs boss x # Fire",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② ボス戦時は装備中の炎属性チップの枚数に応じて\n　　 さらに攻撃力を大きく増加する。\n③ ボス戦時は装備中の炎属性チップの枚数に応じて\n　　 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 180%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage against bosses by a further 10% x\n     the number of Fire chips equipped.\n     <color=yellow>[E-Frame]</color>\n③  Reduces damage taken from bosses by ??% x the\n     number of Fire chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 180%.\n<color=yellow>SP: </color>Boosts damage by 190%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage against bosses by a further 10% x\n     the number of Fire chips equipped.\n     <color=yellow>[E-Frame]</color>\n③  Reduces damage taken from bosses by 5% x the\n     number of Fire chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31370",
 		"jp_explainShort": "攻撃超絶増＋ボス時に炎チップ数で能力上昇",
 		"tr_explainShort": "Dam. boost + boost, res. vs boss x # Fire",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② ボス戦時は装備中の炎属性チップの枚数に応じて\n　　 さらに攻撃力を大きく増加する。\n③ ボス戦時は装備中の炎属性チップの枚数に応じて\n　　 敵から受けるダメージを軽減する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 200%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage against bosses by a further 10% x\n     the number of Fire chips equipped.\n     <color=yellow>[E-Frame]</color>\n③  Reduces damage taken from bosses by 5% x the\n     number of Fire chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 200%.\n<color=yellow>SP: </color>Boosts damage by 210%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage against bosses by a further 10% x\n     the number of Fire chips equipped.\n     <color=yellow>[E-Frame]</color>\n③  Reduces damage taken from bosses by 5% x the\n     number of Fire chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31371",
@@ -2370,14 +2370,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋炎属性武器で攻撃力増加",
 		"tr_explainShort": "Damage boosted + Fire weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が炎属性の場合\n　　 さらに攻撃力を増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% if using a Fire\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 120%.\n<color=yellow>SP: </color>Boosts damage by 130%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using a Fire\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31378",
 		"jp_explainShort": "攻撃力絶大増加＋炎属性武器で攻撃力増加",
 		"tr_explainShort": "Damage boosted + Fire weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が炎属性の場合\n　　 さらに攻撃力を増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 140%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using a Fire\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 140%.\n<color=yellow>SP: </color>Boosts damage by 150%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using a Fire\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31381",
@@ -2524,14 +2524,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋被ダメ―ジ時ＨＰ小回復",
 		"tr_explainShort": "Damage boost + HP recovery on injury",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 敵からダメージを受けた際にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 90%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% when you take damage from\n     enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 95%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% when you take damage from\n     enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31404",
 		"jp_explainShort": "攻撃力劇的増加＋被ダメ―ジ時ＨＰ小回復",
 		"tr_explainShort": "Damage boost + HP recovery on injury",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 敵からダメージを受けた際にＨＰをわずかに回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% when you take damage from\n     enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 100%.\n<color=yellow>SP: </color>Boosts damage by 105%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% when you take damage from\n     enemies.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31407",

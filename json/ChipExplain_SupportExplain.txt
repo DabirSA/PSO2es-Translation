@@ -2496,7 +2496,7 @@
 		"jp_explainShort": "追加大ダメージ＋攻撃３回ごと攻撃力大強化",
 		"tr_explainShort": "Additional damage + 3 actions = ATK up",
 		"jp_explainLong": "① アクティブチップ使用か通常攻撃を３回行うごとに\n　　 攻撃力を大きく強化する。（最大時：劇的）\n② 敵に追加で大ダメージを与える。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Increases your ATK by 500 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 3000n②  Deals an additional 40% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 45% damage to enemies.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Increases your ATK by 500 every 3 times you\n     use an active chip or a normal attack.\n     (Maximum increase: 3000\n②  Deals an additional 40% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 45% damage to enemies.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31400",

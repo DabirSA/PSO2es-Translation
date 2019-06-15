@@ -1635,21 +1635,21 @@
 		"jp_explainShort": "攻撃力超絶増＋ダメージ大軽減＋攻撃威力増",
 		"tr_explainShort": "Dam. boost + dam. res. + boost x D. link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 敵から受けるダメージを大きく軽減する。\n③ 全てのリンクスロットに装備した\n　　 闇属性チップの枚数に応じて攻撃の威力を増加する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 275%.\n<color=yellow>SP: </color>Boosts damage by 280%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces damage taken from enemies by 40%.\n③  Boosts damage by 5% x the number of Dark chips\n     equipped in all link slots.\n     <color=yellow>[P-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 275%.\n<color=yellow>SP: </color>Boosts damage by 280%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces damage taken from enemies by 40%.\n③  Boosts damage by 5% x the number of Dark\n     chips equipped in all link slots.\n     <color=yellow>[P-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31634",
 		"jp_explainShort": "攻撃力超絶増＋ダメージ大軽減＋攻撃威力増",
 		"tr_explainShort": "Dam. boost + dam. res. + boost x D. link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 敵から受けるダメージを大きく軽減する。\n③ 全てのリンクスロットに装備した\n　　 闇属性チップの枚数に応じて攻撃の威力を増加する。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 290%.\n<color=yellow>SP: </color>Boosts damage by 295%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces damage taken from enemies by 40%.\n③  Boosts damage by 5% x the number of Dark chips\n     equipped in all link slots.\n     <color=yellow>[P-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 290%.\n<color=yellow>SP: </color>Boosts damage by 295%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces damage taken from enemies by 40%.\n③  Boosts damage by 5% x the number of Dark\n     chips equipped in all link slots.\n     <color=yellow>[P-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31635",
 		"jp_explainShort": "攻撃力極度増＋ダメージ大軽減＋攻撃威力増",
 		"tr_explainShort": "Dam. boost + dam. res. + boost x D. link",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 敵から受けるダメージを大きく軽減する。\n③ 全てのリンクスロットに装備した\n　　 闇属性チップの枚数に応じて攻撃の威力を増加する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 320%.\n<color=yellow>SP: </color>Boosts damage by 325%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces damage taken from enemies by 40%.\n③  Boosts damage by 5% x the number of Dark chips\n     equipped in all link slots.\n     <color=yellow>[P-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 320%.\n<color=yellow>SP: </color>Boosts damage by 325%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces damage taken from enemies by 40%.\n③  Boosts damage by 5% x the number of Dark\n     chips equipped in all link slots.\n     <color=yellow>[P-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31644",
@@ -1726,21 +1726,21 @@
 		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
 		"tr_explainShort": "Dam. boost + CP rec. + boost x Wp link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 255%.\n<color=yellow>SP: </color>Boosts damage by 260%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 15 CP every 4 seconds.\n③  Boosts damage by 5% x the number of Weaponoid\n     chips equipped in all link slots.\n     <color=yellow>[Q-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 255%.\n<color=yellow>SP: </color>Boosts damage by 260%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 15 CP every 4 seconds.\n③  Boosts damage by 5% x the number of\n     Weaponoid chips equipped in all link slots.\n     <color=yellow>[Q-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31667",
 		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
 		"tr_explainShort": "Dam. boost + CP rec. + boost x Wp link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 270%.\n<color=yellow>SP: </color>Boosts damage by 275%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 15 CP every 4 seconds.\n③  Boosts damage by 5% x the number of Weaponoid\n     chips equipped in all link slots.\n     <color=yellow>[Q-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 270%.\n<color=yellow>SP: </color>Boosts damage by 275%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 15 CP every 4 seconds.\n③  Boosts damage by 5% x the number of\n     Weaponoid chips equipped in all link slots.\n     <color=yellow>[Q-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31668",
 		"jp_explainShort": "攻撃力超絶増＋定期ＣＰ回復＋攻撃威力強化",
 		"tr_explainShort": "Dam. boost + CP rec. + boost x Wp link",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 定期的にＣＰを回復する。\n③ 全てのリンクスロットに装備した\n　　 ウェポノイドチップの枚数に応じ攻撃の威力を強化する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 295%.\n<color=yellow>SP: </color>Boosts damage by 300%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 15 CP every 4 seconds.\n③  Boosts damage by 5% x the number of Weaponoid\n     chips equipped in all link slots.\n     <color=yellow>[Q-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 295%.\n<color=yellow>SP: </color>Boosts damage by 300%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 15 CP every 4 seconds.\n③  Boosts damage by 5% x the number of\n     Weaponoid chips equipped in all link slots.\n     <color=yellow>[Q-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31673",
@@ -1838,21 +1838,21 @@
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が光属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 345%.\n<color=yellow>SP: </color>Boosts damage by 355%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds if there is a Light chip in this chip's link\n     slot.\n④  While this chip is equipped, the equip costs of\n     Light PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 345%.\n<color=yellow>SP: </color>Boosts damage by 355%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds if there is a Light chip in this chip's\n     link slot.\n④  While this chip is equipped, the equip costs of\n     Light PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31734",
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が光属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は光属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 365%.\n<color=yellow>SP: </color>Boosts damage by 375%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds if there is a Light chip in this chip's link\n     slot.\n④  While this chip is equipped, the equip costs of\n     Light PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 365%.\n<color=yellow>SP: </color>Boosts damage by 375%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds if there is a Light chip in this chip's\n     link slot.\n④  While this chip is equipped, the equip costs of\n     Light PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31735",
 		"jp_explainShort": "攻撃力極度増＋定期ＨＰ小回復＋効果時間延長",
 		"tr_explainShort": "Dam. boost + HP over time + ext. effects",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 定期的にＨＰをわずかに回復する。\n③ リンクスロットに装備したチップの属性が光属性の場合\n　　 チップ発動時のアビリティ効果時間を延長する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 390%.\n<color=yellow>SP: </color>Boosts damage by 400%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds if there is a Light chip in this chip's link\n     slot.\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 390%.\n<color=yellow>SP: </color>Boosts damage by 400%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 10% every 5 seconds.\n③  Extends the Effect Duration of chips' abilities by\n     10 seconds if there is a Light chip in this chip's\n     link slot.\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31742",
@@ -2139,21 +2139,21 @@
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 150%.\n<color=yellow>SP: </color>Boosts damage by 160%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by 10%\n     if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 150%.\n<color=yellow>SP: </color>Boosts damage by 160%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by\n     10% if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31850",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 170%.\n<color=yellow>SP: </color>Boosts damage by 180%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by 10%\n     if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 170%.\n<color=yellow>SP: </color>Boosts damage by 180%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by\n     10% if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31851",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 190%.\n<color=yellow>SP: </color>Boosts damage by 200%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by 10%\n     if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 190%.\n<color=yellow>SP: </color>Boosts damage by 200%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by\n     10% if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31852",

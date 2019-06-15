@@ -914,14 +914,14 @@
 		"jp_explainShort": "チップのＣＰ消費量が減少＋攻撃力劇的増加",
 		"tr_explainShort": "CP usage reduced + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 70%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts damage by 70%.\n<color=yellow>SP: </color>Boosts damage by 80%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31242",
 		"jp_explainShort": "チップのＣＰ消費量が減少＋攻撃力劇的増加",
 		"tr_explainShort": "CP usage reduced + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 90%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31243",
@@ -1180,14 +1180,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋攻撃力大増加",
 		"tr_explainShort": "CP consumption down + damage boosted",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by ??%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 45%.\n<color=yellow>SP: </color>Boosts damage by 55%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 35%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31406",
 		"jp_explainShort": "消費ＣＰ減少＋攻撃力劇的増加",
 		"tr_explainShort": "CP consumption down + damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 65%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 35%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 65%.\n<color=yellow>SP: </color>Boosts damage by 75%.\n     <color=yellow>[E-Frame]</color>\n②  Reduces CP consumption by 35%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31409",
@@ -7795,14 +7795,14 @@
 		"jp_explainShort": "ダメージ小増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boost + damage HP recovery",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 25%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 1% of damage dealt as HP.\n     (Maximum recovery per hit: 1% of max HP)\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts damage by 15%.\n<color=yellow>SP: </color>Boosts damage by 20%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 1% of damage dealt as HP.\n     (Maximum recovery per hit: 1% of max HP)\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "9424",
 		"jp_explainShort": "ダメージ小増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boost + damage HP recovery",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 1% of damage dealt as HP.\n     (Maximum recovery per hit: 1% of max HP)\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts damage by 25%.\n<color=yellow>SP: </color>Boosts damage by 30%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 1% of damage dealt as HP.\n     (Maximum recovery per hit: 1% of max HP)\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "9421",
@@ -7893,14 +7893,14 @@
 		"jp_explainShort": "ターゲットとの距離によって攻撃力が増加",
 		"tr_explainShort": "Damage boosted by distance from target",
 		"jp_explainLong": "① 攻撃対象の敵との距離が遠いほど\n　　 攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage based on how far you are from\n     the target.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by up to 35% based on how far\n     you are from the target.\n<color=yellow>SP: </color>Boosts damage by up to 40% based on how far\n     you are from the target.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "20036",
 		"jp_explainShort": "ターゲットとの距離によって攻撃力が大増加",
 		"tr_explainShort": "Damage boosted by distance from target",
 		"jp_explainLong": "① 攻撃対象の敵との距離が遠いほど\n　　 攻撃力を大きく増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Greatly boosts damage based on how far you are\n     from the target.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts damage by up to 45% based on how far\n     you are from the target.\n<color=yellow>SP: </color>Boosts damage by up to 50% based on how far\n     you are from the target.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "20037",

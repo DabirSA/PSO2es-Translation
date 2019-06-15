@@ -844,14 +844,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋光弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP usage down + Light weakness boost",
 		"jp_explainLong": "① 攻撃対象の敵が光属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Light.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Light.\n<color=yellow>SP: </color>Boosts damage by 85% against enemies that are\n     weak to Light.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n<color=yellow>SP: </color>Reduces CP consumption by 10%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31058",
 		"jp_explainShort": "消費ＣＰ減少＋光弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP usage down + Light weakness boost",
 		"jp_explainLong": "① 攻撃対象の敵が光属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Light.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Light.\n<color=yellow>SP: </color>Boosts damage by 125% against enemies that are\n     weak to Light.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n<color=yellow>SP: </color>Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31059",
@@ -928,28 +928,28 @@
 		"jp_explainShort": "ダメージ大増加＋鋼拳・自在槍で大増加",
 		"tr_explainShort": "Damage boosted + fist weapons boosted",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 鋼拳か自在槍を装備している場合は\n　　 さらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 50%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     Wired Lances or Knuckles.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 50%.\n<color=yellow>SP: </color>Boosts damage by 60%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     Wired Lances or Knuckles.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31078",
 		"jp_explainShort": "ダメージ劇的増加＋鋼拳・自在槍で大増加",
 		"tr_explainShort": "Damage boosted + fist weapons boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 鋼拳か自在槍を装備している場合は\n　　 さらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 70%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     Wired Lances or Knuckles.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 70%.\n<color=yellow>SP: </color>Boosts damage by 80%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     Wired Lances or Knuckles.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31079",
 		"jp_explainShort": "ＣＰ一定以下時にダメージ量が大増加",
 		"tr_explainShort": "Damage boosted at low CP",
 		"jp_explainLong": "① ＣＰが一定値以下の場合は攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% while CP is below 60.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% while CP is below 60.\n<color=yellow>SP: </color>Boosts damage by 80% while CP is below 60.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31080",
 		"jp_explainShort": "ＣＰ一定以下時にダメージ量が劇的増加",
 		"tr_explainShort": "Damage boosted at low CP",
 		"jp_explainLong": "① ＣＰが一定値以下の場合は攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 105% while CP is below 60.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 100% while CP is below 60.\n<color=yellow>SP: </color>Boosts damage by 120% while CP is below 60.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31081",
@@ -984,14 +984,14 @@
 		"jp_explainShort": "雷属性値に応じてダメージ劇的増加",
 		"tr_explainShort": "Damage boosted x Lightning Element",
 		"jp_explainLong": "① 雷属性値に応じて攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 14% + 0.352% x your\n     Lightning Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 15% + 0.35% x your\n     Lightning Element.\n<color=yellow>SP: </color>Boosts damage by 20% + 0.35% x your\n     Lightning Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31090",
 		"jp_explainShort": "雷属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Lightning Element",
 		"jp_explainLong": "① 雷属性値に応じて攻撃力を絶大に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 24% + 0.352% x your\n     Lightning Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 25% + 0.35% x your\n     Lightning Element.\n<color=yellow>SP: </color>Boosts damage by 30% + 0.35% x your\n     Lightning Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31091",
@@ -1054,56 +1054,56 @@
 		"jp_explainShort": "光属性値に応じてダメージ劇的増加",
 		"tr_explainShort": "Damage boosted x Light Element",
 		"jp_explainLong": "① 光属性値に応じて攻撃力を劇的に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 20% + 0.35% x your Light\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 10% + 0.35% x your Light\n     Element.\n<color=yellow>SP: </color>Boosts damage by 15% + 0.35% x your Light\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31106",
 		"jp_explainShort": "光属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Light Element",
 		"jp_explainLong": "① 光属性値に応じて攻撃力を絶大に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% + 0.35% x your Light\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 20% + 0.35% x your Light\n     Element.\n<color=yellow>SP: </color>Boosts damage by 25% + 0.35% x your Light\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31107",
 		"jp_explainShort": "炎属性値に応じてダメージ劇的増加",
 		"tr_explainShort": "Damage boosted x Fire Element",
 		"jp_explainLong": "① 炎属性値に応じて攻撃力を劇的に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 20% + 0.35% x your Fire\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 10% + 0.35% x your Fire\n     Element.\n<color=yellow>SP: </color>Boosts damage by 15% + 0.35% x your Fire\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31108",
 		"jp_explainShort": "炎属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Fire Element",
 		"jp_explainLong": "① 炎属性値に応じて攻撃力を絶大に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% + 0.35% x your Fire\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 20% + 0.35% x your Fire\n     Element.\n<color=yellow>SP: </color>Boosts damage by 25% + 0.35% x your Fire\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31109",
 		"jp_explainShort": "氷属性値に応じてダメージ劇的増加",
 		"tr_explainShort": "Damage boosted x Ice Element",
 		"jp_explainLong": "① 氷属性値に応じて攻撃力を劇的に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 20% + 0.35% x your Ice\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 10% + 0.35% x your Ice\n     Element.\n<color=yellow>SP: </color>Boosts damage by 15% + 0.35% x your Ice\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31110",
 		"jp_explainShort": "氷属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Ice Element",
 		"jp_explainLong": "① 氷属性値に応じて攻撃力を絶大に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% + 0.35% x your Ice\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 20% + 0.35% x your Ice\n     Element.\n<color=yellow>SP: </color>Boosts damage by 25% + 0.35% x your Ice\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31111",
 		"jp_explainShort": "消費ＣＰ減少＋闇弱点時ダメージ劇的増加",
 		"tr_explainShort": "Dark weakness boost + CP usage down",
 		"jp_explainLong": "① 攻撃対象の敵が闇属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Dark.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Dark.\n<color=yellow>SP: </color>Boosts damage by 85% against enemies that are\n     weak to Dark.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n<color=yellow>SP: </color>Reduces CP consumption by 10%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31112",
 		"jp_explainShort": "消費ＣＰ減少＋闇弱点時ダメージ劇的増加",
 		"tr_explainShort": "Dark weakness boost + CP usage down",
 		"jp_explainLong": "① 攻撃対象の敵が闇属性弱点の場合に\n　　 与えるダメージ劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Dark.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Dark.\n<color=yellow>SP: </color>Boosts damage by 125% against enemies that are\n     weak to Dark.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n<color=yellow>SP: </color>Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31113",
@@ -1180,14 +1180,14 @@
 		"jp_explainShort": "ダメージ大増加＋長槍で大増加",
 		"tr_explainShort": "Damage boosted + Partizans boosted",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 長槍を装備している場合は\n　　 さらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% if equipped with\n     a Partizan.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 50%.\n<color=yellow>SP: </color>Boosts damage by 60%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     a Partizan.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31126",
 		"jp_explainShort": "ダメージ劇的増加＋長槍で大増加",
 		"tr_explainShort": "Damage boosted + Partizans boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 長槍を装備している場合は\n　　 さらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 70%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     a Partizan.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 70%.\n<color=yellow>SP: </color>Boosts damage by 80%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     a Partizan.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31127",
@@ -1208,14 +1208,14 @@
 		"jp_explainShort": "ＣＰ一定以下時にダメージ量が大増加",
 		"tr_explainShort": "Damage boosted at low CP",
 		"jp_explainLong": "① ＣＰが一定値以下の場合は攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% while CP is below 60.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% while CP is below 60.\n<color=yellow>SP: </color>Boosts damage by 80% while CP is below 60.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31130",
 		"jp_explainShort": "ＣＰ一定以下時にダメージ量が劇的増加",
 		"tr_explainShort": "Damage boosted at low CP",
 		"jp_explainLong": "① ＣＰが一定値以下の場合は攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 100% while CP is below 60.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 100% while CP is below 60.\n<color=yellow>SP: </color>Boosts damage by 120% while CP is below 60.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31133",
@@ -1278,14 +1278,14 @@
 		"jp_explainShort": "ダメージ大増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 自身を状態異常にならなくする。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 40%.\n<color=yellow>SP: </color>Boosts damage by 45%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31148",
 		"jp_explainShort": "ダメージ大増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 自身を状態異常にならなくする。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 55%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 55%.\n<color=yellow>SP: </color>Boosts damage by 65%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Slide Action\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31155",
@@ -1390,14 +1390,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋雷弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP usage down + Lightning weak boost",
 		"jp_explainLong": "① 攻撃対象の敵が雷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Lightning.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Lightning.\n<color=yellow>SP: </color>Boosts damage by 85% against enemies that are\n     weak to Lightning.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n<color=yellow>SP: </color>Reduces CP consumption by 10%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31174",
 		"jp_explainShort": "消費ＣＰ減少＋雷弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP usage down + Lightning weak boost",
 		"jp_explainLong": "① 攻撃対象の敵が雷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Lightning.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Lightning.\n<color=yellow>SP: </color>Boosts damage by 125% against enemies that are\n     weak to Lightning.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n<color=yellow>SP: </color>Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31177",
@@ -1502,14 +1502,14 @@
 		"jp_explainShort": "攻撃力大増加＋大剣・銃剣でさらに増加",
 		"tr_explainShort": "Damage boost + Sword/Gunslash boost",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 大剣か銃剣を装備している場合は\n　　 さらに攻撃力を増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% if equipped with\n　　 a Sword or a Gunslash.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 45%.\n<color=yellow>SP: </color>Boosts damage by 55%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 30% if equipped with\n　　 a Sword or a Gunslash.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31196",
 		"jp_explainShort": "攻撃力劇的増加＋大剣・銃剣でさらに増加",
 		"tr_explainShort": "Damage boost + Sword/Gunslash boost",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 大剣か銃剣を装備している場合は\n　　 さらに攻撃力を増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% if equipped with\n　　 a Sword or a Gunslash.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 65%.\n<color=yellow>SP: </color>Boosts damage by 75%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 30% if equipped with\n　　 a Sword or a Gunslash.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31199",
@@ -1796,14 +1796,14 @@
 		"jp_explainShort": "攻撃力大増加＋飛翔剣で大増加",
 		"tr_explainShort": "Damage boosted + Dual Blades boosted",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 飛翔剣を装備している場合は\n　　 さらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 30% if equipped with\n     Dual Blades.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 60%.\n<color=yellow>SP: </color>Boosts damage by 70%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     Dual Blades.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31264",
 		"jp_explainShort": "攻撃力劇的増加＋飛翔剣で大増加",
 		"tr_explainShort": "Damage boosted + Dual Blades boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 飛翔剣を装備している場合は\n　　 さらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 80%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     Dual Blades.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 80%.\n<color=yellow>SP: </color>Boosts damage by 90%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% if equipped with\n     Dual Blades.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31265",
@@ -1936,14 +1936,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 80%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 80%.\n<color=yellow>SP: </color>Boosts damage by 85%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31296",
 		"jp_explainShort": "攻撃力劇的増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 90%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 95%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31299",
@@ -2062,14 +2062,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋炎弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP use down + Fire weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が炎属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Fire.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Fire.\n<color=yellow>SP: </color>Boosts damage by 85% against enemies that are\n     weak to Fire.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n<color=yellow>SP: </color>Reduces CP consumption by 10%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31324",
 		"jp_explainShort": "消費ＣＰ減少＋炎弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP use down + Fire weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が炎属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Fire.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Fire.\n<color=yellow>SP: </color>Boosts damage by 125% against enemies that are\n     weak to Fire.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n<color=yellow>SP: </color>Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31325",
@@ -2202,14 +2202,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋有効弱点時ダメージ大増",
 		"tr_explainShort": "Weakness boosted + CP use down",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを大きく増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 60% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 35%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "①  Boosts damage by 60% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 70% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 35%.\n<color=yellow>SP: </color>Reduces CP consumption by 36%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31352",
 		"jp_explainShort": "消費ＣＰ減少＋有効弱点時ダメージ劇的増",
 		"tr_explainShort": "Weakness boosted + CP use down",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 80% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 35%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 80% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 90% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 36%.\n<color=yellow>SP: </color>Reduces CP consumption by 37%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31353",
@@ -2230,14 +2230,14 @@
 		"jp_explainShort": "攻撃力超絶増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 200%.\n<color=yellow>SP: </color>Boosts damage by 210%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31358",
 		"jp_explainShort": "攻撃力超絶増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 220%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 220%.\n<color=yellow>SP: </color>Boosts damage by 230%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31359",
@@ -2258,14 +2258,14 @@
 		"jp_explainShort": "攻撃力劇的増＋ＨＰ一定以下時ダメージ大増",
 		"tr_explainShort": "Damage boosted + boost at low HP",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② ＨＰが一定以下の場合はさらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% when HP is\n     below ??%.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 80%.\n<color=yellow>SP: </color>Boosts damage by 90%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% when HP is\n     below 50%.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31362",
 		"jp_explainShort": "攻撃力劇的増＋ＨＰ一定以下時ダメージ大増",
 		"tr_explainShort": "Damage boosted + boost at low HP",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② ＨＰが一定以下の場合はさらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% when HP is\n     below 50%.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 100%.\n<color=yellow>SP: </color>Boosts damage by 110%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% when HP is\n     below 50%.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31363",
@@ -2356,14 +2356,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋氷弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP usage down + Ice weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Ice.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Ice.\n<color=yellow>SP: </color>Boosts damage by 85% against enemies that are\n     weak to Ice.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n<color=yellow>SP: </color>Reduces CP consumption by 10%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31376",
 		"jp_explainShort": "消費ＣＰ減少＋氷弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP usage down + Ice weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が氷属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Ice.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Ice.\n<color=yellow>SP: </color>Boosts damage by 125% against enemies that are\n     weak to Ice.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n<color=yellow>SP: </color>Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31377",
@@ -2412,14 +2412,14 @@
 		"jp_explainShort": "光属性値に応じて攻撃力超絶増加",
 		"tr_explainShort": "Damage boosted x Light Element",
 		"jp_explainLong": "① 光属性値に応じて攻撃力を超絶に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 120% + 0.333% x your Light\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 120% + 0.333% x your Light\n     Element.\n<color=yellow>SP: </color>Boosts damage by 130% + 0.333% x your Light\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31386",
 		"jp_explainShort": "光属性値に応じて攻撃力超絶増加",
 		"tr_explainShort": "Damage boosted x Light Element",
 		"jp_explainLong": "① 光属性値に応じて攻撃力を超絶に増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 140% + 0.333% x your Light\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 140% + 0.333% x your Light\n     Element.\n<color=yellow>SP: </color>Boosts damage by 150% + 0.333% x your Light\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31387",
@@ -2636,14 +2636,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋風弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP use down + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Wind.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 65% against enemies that are\n     weak to Wind.\n<color=yellow>SP: </color>Boosts damage by 85% against enemies that are\n     weak to Wind.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 5%.\n<color=yellow>SP: </color>Reduces CP consumption by 10%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31432",
 		"jp_explainShort": "消費ＣＰ減少＋風弱点時ダメージ劇的増加",
 		"tr_explainShort": "CP use down + Wind weakness boosted",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを劇的に増加する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Wind.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 105% against enemies that are\n     weak to Wind.\n<color=yellow>SP: </color>Boosts damage by 125% against enemies that are\n     weak to Wind.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n<color=yellow>SP: </color>Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31433",
@@ -4524,16 +4524,16 @@
 	{
 		"assign": "31813",
 		"jp_explainShort": "攻撃力絶大増加＋状態異常無効",
-		"tr_explainShort": "Damage boosted + status cured",
+		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Cures all status effects on yourself.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 130%.\n<color=yellow>SP: </color>Boosts damage by 135%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31814",
 		"jp_explainShort": "攻撃力絶大増加＋状態異常無効",
-		"tr_explainShort": "Damage boosted + status cured",
+		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 自身を状態異常にならなくする。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 140%.\n     <color=yellow>[E-Frame]</color>\n②  Cures all status effects on yourself.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 140%.\n<color=yellow>SP: </color>Boosts damage by 145%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31815",
@@ -5044,14 +5044,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋有効弱点時ダメージ絶大増",
 		"tr_explainShort": "Dam. boost vs weakness + CP use down",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② 消費ＣＰを減少する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ???% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by ??%.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 145% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 150% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 10%.\n<color=yellow>SP: </color>Reduces CP consumption by 15%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31929",
 		"jp_explainShort": "消費ＣＰ減少＋有効弱点時ダメージ絶大増",
 		"tr_explainShort": "Dam. boost vs weakness + CP use down",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性で\n　　 攻撃した場合に与えるダメージを絶大に増加する。\n② 消費ＣＰを減少する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ???% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by ??%.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 155% against enemy\n     elemental weaknesses.\n<color=yellow>SP: </color>Boosts damage by 160% against enemy\n     elemental weaknesses.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 20%.\n<color=yellow>SP: </color>Reduces CP consumption by 25%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31930",

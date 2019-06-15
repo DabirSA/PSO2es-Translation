@@ -578,42 +578,42 @@
 		"jp_explainShort": "風属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Wind Element",
 		"jp_explainLong": "① 風属性値に応じて攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 14% + 0.352% x your Wind\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts damage by 15% + 0.35% x your Wind\n     Element.\n<color=yellow>SP: </color>Boosts damage by 20% + 0.35% x your Wind\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31062",
 		"jp_explainShort": "風属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Wind Element",
 		"jp_explainLong": "① 風属性値に応じて攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 24% + 0.352% x your Wind\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts damage by 25% + 0.35% x your Wind\n     Element.\n<color=yellow>SP: </color>Boosts damage by 30% + 0.35% x your Wind\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31063",
 		"jp_explainShort": "氷属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Ice Element",
 		"jp_explainLong": "① 氷属性値に応じて攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 14% + 0.352% x your Ice\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts damage by 15% + 0.35% x your Ice\n     Element.\n<color=yellow>SP: </color>Boosts damage by 20% + 0.35% x your Ice\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31064",
 		"jp_explainShort": "氷属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Ice Element",
 		"jp_explainLong": "① 氷属性値に応じて攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 24% + 0.352% x your Ice\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts damage by 25% + 0.35% x your Ice\n     Element.\n<color=yellow>SP: </color>Boosts damage by 30% + 0.35% x your Ice\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31067",
 		"jp_explainShort": "ダメージ増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 35%.\n<color=yellow>SP: </color>Boosts damage by 40%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31068",
 		"jp_explainShort": "ダメージ大増加＋状態異常無効",
 		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 50%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts damage by 50%.\n<color=yellow>SP: </color>Boosts damage by 60%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31071",
@@ -634,28 +634,28 @@
 		"jp_explainShort": "闇属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Dark Element",
 		"jp_explainLong": "① 闇属性値に応じて攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 14% + 0.352% x your Dark\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts damage by 15% + 0.35% x your Dark\n     Element.\n<color=yellow>SP: </color>Boosts damage by 20% + 0.35% x your Dark\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31086",
 		"jp_explainShort": "闇属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Dark Element",
 		"jp_explainLong": "① 闇属性値に応じて攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 24% + 0.352% x your Dark\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts damage by 25% + 0.35% x your Dark\n     Element.\n<color=yellow>SP: </color>Boosts damage by 30% + 0.35% x your Dark\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31087",
 		"jp_explainShort": "炎属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Fire Element",
 		"jp_explainLong": "① 炎属性値に応じて攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 14% + 0.352% x your Fire\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts damage by 15% + 0.35% x your Fire\n     Element.\n<color=yellow>SP: </color>Boosts damage by 20% + 0.35% x your Fire\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31088",
 		"jp_explainShort": "炎属性値に応じてダメージ絶大増加",
 		"tr_explainShort": "Damage boosted x Fire Element",
 		"jp_explainLong": "① 炎属性値に応じて攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 24% + 0.352% x your Fire\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts damage by 25% + 0.35% x your Fire\n     Element.\n<color=yellow>SP: </color>Boosts damage by 30% + 0.35% x your Fire\n     Element.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31093",
@@ -676,14 +676,14 @@
 		"jp_explainShort": "ダメージ大増加＋抜剣で増加",
 		"tr_explainShort": "Damage boosted + Katana boosted",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 抜剣を装備している場合はさらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 45%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 30% if equipped with\n     a Katana.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 45%.\n<color=yellow>SP: </color>Boosts damage by 55%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 30% if equipped with\n     a Katana.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31098",
 		"jp_explainShort": "ダメージ劇的増加＋抜剣で増加",
 		"tr_explainShort": "Damage boosted + Katana boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 抜剣を装備している場合はさらに攻撃力を増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 65%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 30% if equipped with\n     a Katana.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 65%.\n<color=yellow>SP: </color>Boosts damage by 75%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 30% if equipped with\n     a Katana.\n     <color=yellow>[E-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31099",
@@ -872,14 +872,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋ダメージの一部をＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 80%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 1% of damage dealt as HP.\n     (Maximum recovery per hit: 3% of max HP)\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 80%.\n<color=yellow>SP: </color>Boosts damage by 90%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 1% of damage dealt as HP.\n     (Maximum recovery per hit: 3% of max HP)\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31212",
 		"jp_explainShort": "攻撃力劇的増加＋ダメージの一部をＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 1% of damage dealt as HP.\n     (Maximum recovery per hit: 3% of max HP)\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 100%.\n<color=yellow>SP: </color>Boosts damage by 110%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 1% of damage dealt as HP.\n     (Maximum recovery per hit: 3% of max HP)\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31215",
@@ -1068,14 +1068,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋風弱点時ダメージ絶大増加",
 		"tr_explainShort": "CP usage down + Wind weakness boost",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 120% against enemies that\n     are weak to Wind.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by ??%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts damage by 120% against enemies that\n     are weak to Wind.\n<color=yellow>SP: </color>Boosts damage by 130% against enemies that\n     are weak to Wind.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 15%.\n<color=yellow>SP: </color>Reduces CP consumption by 20%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31320",
 		"jp_explainShort": "消費ＣＰ減少＋風弱点時ダメージ絶大増加",
 		"tr_explainShort": "CP usage down + Wind weakness boost",
 		"jp_explainLong": "① 攻撃対象の敵が風属性弱点の場合に\n　　 与えるダメージを絶大に増加する。\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 140% against enemies that\n     are weak to Wind.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 25%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 140% against enemies that\n     are weak to Wind.\n<color=yellow>SP: </color>Boosts damage by 150% against enemies that\n     are weak to Wind.\n     <color=yellow>[D-Frame]</color>\n②  Reduces CP consumption by 25%.\n<color=yellow>SP: </color>Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31327",
@@ -2531,28 +2531,28 @@
 		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]短い時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers ??% of damage dealt as HP.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 40%.\n<color=yellow>SP: </color>Boosts damage by 45%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 8% of damage dealt as HP.\n     (Maximum recovery per hit: 8% of max HP)\n<color=yellow>SP: </color>Recovers 10% of damage dealt as HP.\n     (Maximum recovery per hit: 10% of max HP)\n[Effect Duration] 10 seconds"
 	},
 	{
 		"assign": "80420",
 		"jp_explainShort": "攻撃力大増加＋ダメージの一部ＨＰ回復",
 		"tr_explainShort": "Damage boosted + damage HP recovery",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 与えたダメージの一部を自身のＨＰとして回復する。\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers ??% of damage dealt as HP.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 45%.\n<color=yellow>SP: </color>Boosts damage by 50%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers 12% of damage dealt as HP.\n     (Maximum recovery per hit: 12% of max HP)\n<color=yellow>SP: </color>Recovers 15% of damage dealt as HP.\n     (Maximum recovery per hit: 15% of max HP)\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "80510",
 		"jp_explainShort": "攻撃力増加＋状態異常無効",
-		"tr_explainShort": "Damage boosted + status cured",
+		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Cures all status effects on yourself.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 30%.\n<color=yellow>SP: </color>Boosts damage by 35%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "80520",
 		"jp_explainShort": "攻撃力大増加＋状態異常無効",
-		"tr_explainShort": "Damage boosted + status cured",
+		"tr_explainShort": "Damage boosted + status immunity",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 自身を状態異常にならなくする。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Cures all status effects on yourself.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 40%.\n<color=yellow>SP: </color>Boosts damage by 45%.\n     <color=yellow>[E-Frame]</color>\n②  Grants immunity to status effects.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "80710",

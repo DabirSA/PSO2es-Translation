@@ -1474,14 +1474,14 @@
 		"jp_explainShort": "攻撃力超絶増＋ダメージ減＋指定技威力強化",
 		"tr_explainShort": "Damage boost + damage res. + PA boost",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 「オーバーエンド」の威力を絶大に強化する。\n③ 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts the power of \"Over End\" by ???%.\n     <color=yellow>[A-Frame]</color>\n③  Reduces damage taken from enemies by ??%.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 210%.\n<color=yellow>SP: </color>Boosts damage by 220%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts the power of \"Over End\" by 175%.\n     <color=yellow>[A-Frame]</color>\n③  Reduces damage taken from enemies by 40%.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31544",
 		"jp_explainShort": "攻撃力超絶増＋ダメージ減＋指定技威力強化",
 		"tr_explainShort": "Damage boost + damage res. + PA boost",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 「オーバーエンド」の威力を絶大に強化する。\n③ 敵から受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 230%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts the power of \"Over End\" by 180%.\n     <color=yellow>[A-Frame]</color>\n③  Reduces damage taken from enemies by 40%.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 230%.\n<color=yellow>SP: </color>Boosts damage by 240%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts the power of \"Over End\" by 175%.\n     <color=yellow>[A-Frame]</color>\n③  Reduces damage taken from enemies by 40%.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31555",
@@ -1901,21 +1901,21 @@
 		"jp_explainShort": "攻撃力増＋ダメージ防御＋風弱点ダメージ増",
 		"tr_explainShort": "Dam. boost + barrier + Wind weak boost",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 275%.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     50% of your maximum HP.\n③  Boosts damage by 7% x the number of Wind chips\n     equipped in all link slots against enemies weak to\n     Wind.\n     <color=yellow>[D-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 275%.\n<color=yellow>SP: </color>Boosts damage by 280%.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     50% of your maximum HP.\n③  Boosts damage by 7% x the number of Wind chips\n     equipped in all link slots against enemies weak to\n     Wind.\n     <color=yellow>[D-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31753",
 		"jp_explainShort": "攻撃力増＋ダメージ防御＋風弱点ダメージ増",
 		"tr_explainShort": "Dam. boost + barrier + Wind weak boost",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は風属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 290%.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     50% of your maximum HP.\n③  Boosts damage by 7% x the number of Wind chips\n     equipped in all link slots against enemies weak to\n     Wind.\n     <color=yellow>[D-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 290%.\n<color=yellow>SP: </color>Boosts damage by 295%.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     50% of your maximum HP.\n③  Boosts damage by 7% x the number of Wind chips\n     equipped in all link slots against enemies weak to\n     Wind.\n     <color=yellow>[D-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     Wind PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31754",
 		"jp_explainShort": "攻撃力増＋ダメージ防御＋風弱点ダメージ増",
 		"tr_explainShort": "Dam. boost + barrier + Wind weak boost",
 		"jp_explainLong": "① 攻撃力を極度に増加する。\n② 一定ダメージを防ぐ効果をＨＰに上乗せする。\n③ 攻撃対象の敵が風属性弱点の場合に\n　　 全てのリンクスロットに装備した\n　　 風属性チップの枚数に応じダメージを大きく増加する。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 310%.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     50% of your maximum HP.\n③  Boosts damage by 7% x the number of Wind chips\n     equipped in all link slots against enemies weak to\n     Wind.\n     <color=yellow>[D-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 310%.\n<color=yellow>SP: </color>Boosts damage by 315%.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     50% of your maximum HP.\n③  Boosts damage by 7% x the number of Wind chips\n     equipped in all link slots against enemies weak to\n     Wind.\n     <color=yellow>[D-Frame]</color>\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31757",
@@ -2139,21 +2139,21 @@
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by ??% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by ??%\n     if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 150%.\n<color=yellow>SP: </color>Boosts damage by 160%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by 10%\n     if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31850",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は闇属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by ??% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by ??%\n     if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 170%.\n<color=yellow>SP: </color>Boosts damage by 180%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by 10%\n     if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     Dark PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31851",
 		"jp_explainShort": "攻撃力増＋特定クエストダメージ＋消費ＣＰ減",
 		"tr_explainShort": "Dam. boost + Quest boost + CP cost down",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② タワークエストで敵に与えるダメージを\n　　 アビリティレベルに応じて極度に増加する。\n③ リンクスロットに装備したチップの属性が\n　　 闇属性の場合、闇属性チップの消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n④ このチップを装備中は全属性の必殺技・法術の\n　　 チップコストが減少する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 190%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by ??%\n     if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 190%.\n<color=yellow>SP: </color>Boosts damage by 200%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 10% x this chip's ability level\n     in Tower Quests.\n     <color=yellow>[X-Frame]</color>\n③  Reduces the CP consumption of Dark chips by 10%\n     if there is a Dark chip in this chip's link slot.\n     (Even applies to this chip's activation cost)\n④  While this chip is equipped, the equip costs of\n     all PAs and Techs are halved.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31852",
@@ -2419,14 +2419,14 @@
 		"jp_explainShort": "原生種・ダーカーにダメージ絶大増加＋軽減",
 		"tr_explainShort": "Dam. boost & dam. resist vs Natives/Darkers",
 		"jp_explainLong": "① 原生種とダーカーに与えるダメージを絶大に増加する。\n② 原生種とダーカーから受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Natives and Darkers by\n     ???%.\n     <color=yellow>[B-Frame]</color>\n②  Reduces damage taken from Natives and Darkers\n     by ??%.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage against Natives and Darkers by\n     135%.\n<color=yellow>SP: </color>Boosts damage against Natives and Darkers by\n     140%.\n     <color=yellow>[B-Frame]</color>\n②  Reduces damage taken from Natives and Darkers\n     by 30%.\n<color=yellow>SP: </color>Reduces damage taken from Natives and Darkers\n     by 35%.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31974",
 		"jp_explainShort": "原生種・ダーカーにダメージ絶大増加＋大軽減",
 		"tr_explainShort": "Dam. boost & dam. resist vs Natives/Darkers",
 		"jp_explainLong": "① 原生種とダーカーに与えるダメージを絶大に増加する。\n② 原生種とダーカーから受けるダメージを大きく軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Natives and Darkers by\n     ???%.\n     <color=yellow>[B-Frame]</color>\n②  Reduces damage taken from Natives and Darkers\n     by ??%.\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage against Natives and Darkers by\n     145%.\n<color=yellow>SP: </color>Boosts damage against Natives and Darkers by\n     150%.\n     <color=yellow>[B-Frame]</color>\n②  Reduces damage taken from Natives and Darkers\n     by 40%.\n<color=yellow>SP: </color>Reduces damage taken from Natives and Darkers\n     by 50%.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31977",

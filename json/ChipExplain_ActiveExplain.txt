@@ -746,14 +746,14 @@
 		"jp_explainShort": "属性種類数ダメージ大増加＋ダメージ防御",
 		"tr_explainShort": "Damage boost x # Elems + barrier",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を大きく増加する。\n② 装備中チップの属性種類数に応じて\n　　 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     ??% of your maximum HP x the number of\n     different chip elements equipped.\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 8% x the number of different\n     chip elements equipped.\n<color=yellow>SP: </color>Boosts damage by 10% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     7% of your maximum HP x the number of\n     different chip elements equipped.\n<color=yellow>SP: </color>Grants you a barrier that prevents damage up to\n     8% of your maximum HP x the number of\n     different chip elements equipped.\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31142",
 		"jp_explainShort": "属性種類数ダメージ劇的増＋ダメージ防御",
 		"tr_explainShort": "Damage boost x # Elems + barrier",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を劇的に増加する。\n② 装備中チップの属性種類数に応じて\n　　 一定ダメージを防ぐ効果をＨＰに上乗せする。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     ??% of your maximum HP x the number of\n     different chip elements equipped.\n[Effect Duration] 40 seconds"
+		"tr_explainLong": "①  Boosts damage by 11% x the number of different\n     chip elements equipped.\n<color=yellow>SP: </color>Boosts damage by 13% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n②  Grants you a barrier that prevents damage up to\n     8% of your maximum HP x the number of\n     different chip elements equipped.\n<color=yellow>SP: </color>Grants you a barrier that prevents damage up to\n     9% of your maximum HP x the number of\n     different chip elements equipped.\n[Effect Duration] 40 seconds"
 	},
 	{
 		"assign": "31145",
@@ -1096,14 +1096,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋光チップ数ＨＰ自動小回復",
 		"tr_explainShort": "Damage boost + HP recovery over time",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 定期的にＨＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by ??% x the number of Light chips\n     equipped every ?? seconds.\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 1.65% x the number of Light chips\n     equipped every 6.5 seconds.\n<color=yellow>SP: </color>Recovers HP by 2.30% x the number of Light chips\n     equipped every 6.5 seconds.\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31336",
 		"jp_explainShort": "攻撃力劇的増加＋光チップ数ＨＰ自動回復",
 		"tr_explainShort": "Damage boost + HP recovery over time",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 定期的にＨＰを回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 110%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by ??% x the number of Light chips\n     equipped every ?? seconds.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 110%.\n<color=yellow>SP: </color>Boosts damage by 120%.\n     <color=yellow>[E-Frame]</color>\n②  Recovers HP by 2.65% x the number of Light chips\n     equipped every 6.5 seconds.\n<color=yellow>SP: </color>Recovers HP by 3.30% x the number of Light chips\n     equipped every 6.5 seconds.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31339",
@@ -1306,14 +1306,14 @@
 		"jp_explainShort": "属性種類数攻撃力劇的増加＋追加大ダメージ",
 		"tr_explainShort": "Damage boost x # Elems + add. damage",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 装備中チップの属性種類数に応じて\n　　 さらに攻撃力を増加する。\n③ 敵に追加で特大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 5% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n③  Deals an additional 75% damage to enemies.\n     <color=yellow>[Chase]</color>\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 100%.\n<color=yellow>SP: </color>Boosts damage by 110%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 5% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n③  Deals an additional 75% damage to enemies.\n     <color=yellow>[Chase]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31458",
 		"jp_explainShort": "属性種類数攻撃力絶大増加＋追加大ダメージ",
 		"tr_explainShort": "Damage boost x # Elems + add. damage",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中チップの属性種類数に応じて\n　　 さらに攻撃力を増加する。\n③ 敵に追加で特大ダメージを与える。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 120%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 5% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n③  Deals an additional 75% damage to enemies.\n     <color=yellow>[Chase]</color>\n[Effect Duration] 80 seconds"
+		"tr_explainLong": "①  Boosts damage by 120%.\n<color=yellow>SP: </color>Boosts damage by 130%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 5% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n③  Deals an additional 75% damage to enemies.\n     <color=yellow>[Chase]</color>\n[Effect Duration] 80 seconds"
 	},
 	{
 		"assign": "31475",

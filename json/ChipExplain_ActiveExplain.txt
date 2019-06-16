@@ -830,14 +830,14 @@
 		"jp_explainShort": "定期的に攻撃力が増加",
 		"tr_explainShort": "Damage boosted over time",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 20% every 2.4 seconds.\n     (Maximum boost: 120%)\n     <color=yellow>[G-Frame]</color>\n[Effect Duration] 50 seconds"
+		"tr_explainLong": "①  Boosts damage by 20% every 3 seconds.\n     (Maximum boost: 120%)\n<color=yellow>SP: </color>Boosts damage by 24% every 3 seconds.\n     (Maximum boost: 140%)\n     <color=yellow>[G-Frame]</color>\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31198",
 		"jp_explainShort": "定期的に攻撃力が大増加",
 		"tr_explainShort": "Damage boosted over time",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 27% every 2.4 seconds.\n     (Maximum boost: 160%)\n     <color=yellow>[G-Frame]</color>\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 27% every 3 seconds.\n     (Maximum boost: 160%)\n<color=yellow>SP: </color>Boosts damage by 30% every 3 seconds.\n     (Maximum boost: 180%)\n     <color=yellow>[G-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31201",
@@ -1222,14 +1222,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を小増加",
 		"tr_explainShort": "CP usage down + dam. boost over time",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：劇的）\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??% every ? seconds.\n     (Maximum boost: ??%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces CP consumption by ??%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 12% every 3 seconds.\n     (Maximum boost: 70%)\n<color=yellow>SP: </color>Boosts damage by 14% every 3 seconds.\n     (Maximum boost: 80%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31420",
 		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を小増加",
 		"tr_explainShort": "CP usage down + dam. boost over time",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：劇的）\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 17% every ? seconds.\n     (Maximum boost: 100%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 17% every 3 seconds.\n     (Maximum boost: 100%)\n<color=yellow>SP: </color>Boosts damage by 19% every 3 seconds.\n     (Maximum boost: 110%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces CP consumption by 30%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 50 seconds"
 	},
 	{
 		"assign": "31425",
@@ -1418,14 +1418,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を小増加",
 		"tr_explainShort": "CP usage down + dam. boost over time",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by ??% every ? seconds.\n     (Maximum boost: ???%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces CP consumption by ??%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 28% every 3 seconds.\n     (Maximum boost: 165%)\n<color=yellow>SP: </color>Boosts damage by 31% every 3 seconds.\n     (Maximum boost: 185%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces CP consumption by 15%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31520",
 		"jp_explainShort": "消費ＣＰ減少＋定期的に攻撃力を増加",
 		"tr_explainShort": "CP usage down + dam. boost over time",
 		"jp_explainLong": "① 定期的に攻撃力を増加する。（最大時：絶大）\n② 消費ＣＰを減少する。\n　　 このチップ発動時にも、この効果が適用される。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 33% every ? seconds.\n     (Maximum boost: 195%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces CP consumption by 15%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 33% every 3 seconds.\n     (Maximum boost: 195%)\n<color=yellow>SP: </color>Boosts damage by 36% every 3 seconds.\n     (Maximum boost: 215%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces CP consumption by 15%.\n     (Even applies to this chip's activation cost)\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31523",
@@ -1761,14 +1761,14 @@
 		"jp_explainShort": "定期的にＨＰ小回復＋威力絶大増加",
 		"tr_explainShort": "HP recovery over time + power boost",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts power by 130%.\n     <color=yellow>[F-Frame]</color>\n②  Recovers HP by 5% every ? seconds.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts power by 130%.\n<color=yellow>SP: </color>Boosts power by 150%.\n     <color=yellow>[F-Frame]</color>\n②  Recovers HP by 5% every 9 seconds.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31678",
 		"jp_explainShort": "定期的にＨＰ小回復＋威力絶大増加",
 		"tr_explainShort": "HP recovery over time + power boost",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② 定期的にＨＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts power by 170%.\n     <color=yellow>[F-Frame]</color>\n②  Recovers HP by 5% every ? seconds.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts power by 170%.\n<color=yellow>SP: </color>Boosts power by 190%.\n     <color=yellow>[F-Frame]</color>\n②  Recovers HP by 5% every 9 seconds.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31700",
@@ -1859,14 +1859,14 @@
 		"jp_explainShort": "威力絶大増加＋定期的にＣＰ回復",
 		"tr_explainShort": "Power boosted + CP recovery over time",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts power by 180%.\n     <color=yellow>[F-Frame]</color>\n②  Recovers CP by 5 every ? seconds.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts power by 180%.\n<color=yellow>SP: </color>Boosts power by 190%.\n     <color=yellow>[F-Frame]</color>\n②  Recovers CP by 5 every 10 seconds.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31743",
 		"jp_explainShort": "威力超絶増加＋定期的にＣＰ回復",
 		"tr_explainShort": "Power boosted + CP recovery over time",
 		"jp_explainLong": "① 威力を超絶に増加する。\n② 定期的にＣＰをわずかに回復する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts power by 200%.\n     <color=yellow>[F-Frame]</color>\n②  Recovers CP by 5 every ? seconds.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts power by 200%.\n<color=yellow>SP: </color>Boosts power by 210%.\n     <color=yellow>[F-Frame]</color>\n②  Recovers CP by 5 every 10 seconds.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31748",
@@ -1922,14 +1922,14 @@
 		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
 		"tr_explainShort": "Damage boost over time + dam. resist",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 21% every ? seconds.\n     (Maximum boost: 125%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces damage taken from enemies by 30%.\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 21% every 3 seconds.\n     (Maximum boost: 125%)\n<color=yellow>SP: </color>Boosts damage by 23% every 3 seconds.\n     (Maximum boost: 135%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces damage taken from enemies by 30%.\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31758",
 		"jp_explainShort": "定期的に攻撃力を小増加＋ダメージ軽減",
 		"tr_explainShort": "Damage boost over time + dam. resist",
 		"jp_explainLong": "① 定期的に攻撃力をわずかに増加する。（最大時：絶大）\n② 敵から受けるダメージを軽減する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 24% every ? seconds.\n     (Maximum boost: 145%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces damage taken from enemies by 30%.\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 24% every 3 seconds.\n     (Maximum boost: 145%)\n<color=yellow>SP: </color>Boosts damage by 26% every 3 seconds.\n     (Maximum boost: 155%)\n     <color=yellow>[G-Frame]</color>\n②  Reduces damage taken from enemies by 30%.\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31759",
@@ -1950,14 +1950,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋一定確率で自身がフリーズ",
 		"tr_explainShort": "Damage boost but chance to [Freeze] self",
 		"jp_explainLong": "① 定期的に一定確率でフリーズになる代わりに\n　　 攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 150% in exchange for having\n     a chance to [Freeze] you every ? seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 150% in exchange for having\n     a chance to [Freeze] you every 5 seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31773",
 		"jp_explainShort": "攻撃力絶大増加＋一定確率で自身がフリーズ",
 		"tr_explainShort": "Damage boost but chance to [Freeze] self",
 		"jp_explainLong": "① 定期的に一定確率でフリーズになる代わりに\n　　 攻撃力を絶大に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 160% in exchange for having\n     a chance to [Freeze] you every ? seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 160% in exchange for having\n     a chance to [Freeze] you every 5 seconds.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31778",
@@ -2391,14 +2391,14 @@
 		"jp_explainShort": "アビＬｖ攻撃力劇的増加＋一定確率で自身がバーン",
 		"tr_explainShort": "Dam. boost x ab. lv. but chance to [Burn] self",
 		"jp_explainLong": "① 定期的に一定確率でバーンになる代わりに\n　　 アビリティレベルに応じて攻撃力を劇的に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 70% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you at regular intervals.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 60 seconds"
+		"tr_explainLong": "①  Boosts damage by 70% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you every second.\n<color=yellow>SP: </color>Boosts damage by 80% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you every second.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 60 seconds"
 	},
 	{
 		"assign": "31966",
 		"jp_explainShort": "アビＬｖ攻撃力劇的増加＋一定確率で自身がバーン",
 		"tr_explainShort": "Dam. boost x ab. lv. but chance to [Burn] self",
 		"jp_explainLong": "① 定期的に一定確率でバーンになる代わりに\n　　 アビリティレベルに応じて攻撃力を劇的に増加する。\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 90% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you at regular intervals.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 70 seconds"
+		"tr_explainLong": "①  Boosts damage by 90% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you every second.\n<color=yellow>SP: </color>Boosts damage by 100% + 2% x this chip's\n     ability level in exchange for having a chance to\n     [Burn] you every second.\n     <color=yellow>[U-Frame]</color>\n[Effect Duration] 70 seconds"
 	},
 	{
 		"assign": "31967",

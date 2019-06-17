@@ -3903,14 +3903,14 @@
 		"jp_explainShort": "属性種類・全属性値に応じ属性攻撃力超絶増",
 		"tr_explainShort": "Element damage boosted x # elements",
 		"jp_explainLong": "① 装備中チップの属性種類数と全属性の合計値に応じて\n　　 属性攻撃力を超絶に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts elemental power by 1.005% to the\n     power of the number of different chip elements\n     equipped, x 6.3% x the square root of your\n     total Elements (max. total: 1000).\n<color=yellow>SP: </color>Boosts elemental power by 1.010% to the\n     power of the number of different chip elements\n     equipped, x 6.3 x the square root of your\n     total Elements (max. total: 1000).\n     <color=yellow>[R-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts elemental power by (1 + 0.005% x the\n     number of different chip elements equipped) x\n     6.3 x the square root of your total Elements\n     (max. total: 1000).\n<color=yellow>SP: </color>Boosts elemental power by (1 + 0.01% x the\n     number of different chip elements equipped) x\n     6.3 x the square root of your total Elements\n     (max. total: 1000).\n     <color=yellow>[R-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31686",
 		"jp_explainShort": "属性種類・全属性値に応じ属性攻撃力超絶増",
 		"tr_explainShort": "Element damage boosted x # elements",
 		"jp_explainLong": "① 装備中チップの属性種類数と全属性の合計値に応じて\n　　 属性攻撃力を超絶に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts elemental power by 1.015% to the\n     power of the number of different chip elements\n     equipped, x 6.3% x the square root of your\n     total Elements (max. total: 1000).\n<color=yellow>SP: </color>Boosts elemental power by 1.020% to the\n     power of the number of different chip elements\n     equipped, x 6.3 x the square root of your\n     total Elements (max. total: 1000).\n     <color=yellow>[R-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts elemental power by (1 + 0.015% x the\n     number of different chip elements equipped) x\n     6.3 x the square root of your total Elements\n     (max. total: 1000).\n<color=yellow>SP: </color>Boosts elemental power by (1 + 0.02% x the\n     number of different chip elements equipped) x\n     6.3 x the square root of your total Elements\n     (max. total: 1000).\n     <color=yellow>[R-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31687",

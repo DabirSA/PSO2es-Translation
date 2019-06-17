@@ -298,14 +298,14 @@
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ小回復＋追加特大ダメージ",
 		"tr_explainShort": "HP & CP recovery + additional damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Deals an additional ???% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by ??%.\n③  Recovers CP by ??.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Deals an additional 105% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 110% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 8%.\n<color=yellow>SP: </color>Recovers HP by 10%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 7.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "30050",
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加特大ダメージ",
 		"tr_explainShort": "HP & CP recovery + additional damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Deals an additional 115% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 12%.\n③  Recovers CP by 10.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Deals an additional 115% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 120% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 12%.\n<color=yellow>SP: </color>Recovers HP by 15%.\n③  Recovers CP by 10.\n<color=yellow>SP: </color>Recovers CP by 12.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "30051",
@@ -1012,14 +1012,14 @@
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ小回復＋追加特大ダメージ",
 		"tr_explainShort": "HP recov. + CP recov. + add. damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Deals an additional ???% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by ??%.\n③  Recovers CP by ??.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Deals an additional 115% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 120% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 10%.\n<color=yellow>SP: </color>Recovers HP by 12%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 7.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "31096",
 		"jp_explainShort": "ＨＰ回復＋ＣＰ回復＋追加特大ダメージ",
 		"tr_explainShort": "HP recov. + CP recov. + add. damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰを回復する。\n③ ＣＰを回復する。\n[発動条件]ジャストアタック成功時",
-		"tr_explainLong": "①  Deals an additional 125% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 15%.\n③  Recovers CP by 10.\n[Activation Trigger] Successful Just Attack"
+		"tr_explainLong": "①  Deals an additional 125% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 130% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 15%.\n<color=yellow>SP: </color>Recovers HP by 20%.\n③  Recovers CP by 10.\n<color=yellow>SP: </color>Recovers CP by 12.\n[Activation Trigger] Successful Just Attack"
 	},
 	{
 		"assign": "31101",
@@ -1768,14 +1768,14 @@
 		"jp_explainShort": "攻撃力絶大増＋ＣＰ一定以上時攻撃力大増",
 		"tr_explainShort": "Damage boost + boost at low CP",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② ＣＰが一定以上の場合はさらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 160%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% while CP is\n     above 50.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 160%.\n<color=yellow>SP: </color>Boosts damage by 170%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% while CP is\n     above 50.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31258",
 		"jp_explainShort": "攻撃力絶大増＋ＣＰ一定以上時攻撃力大増",
 		"tr_explainShort": "Damage boost + boost at low CP",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② ＣＰが一定以上の場合はさらに攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 180%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% while CP is\n     above 50.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 180%.\n<color=yellow>SP: </color>Boosts damage by 190%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% while CP is\n     above 50.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31261",
@@ -1810,28 +1810,28 @@
 		"jp_explainShort": "風チップ数攻撃絶大増＋属性追加ダメージ",
 		"tr_explainShort": "Boost x # Wind + add. dam. x Wind Elem",
 		"jp_explainLong": "① 装備中の風属性チップの枚数に応じて\n　　 攻撃力を絶大に増加する。\n② 風属性値に応じて敵に追加で特大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% x the number of Wind\n     chips equipped.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional ??% damage to enemies x \n     your Wind Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 30% x the number of Wind\n     chips equipped.\n<color=yellow>SP: </color>Boosts damage by 31% x the number of Wind\n     chips equipped.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional 0.25% damage to enemies x \n     your Wind Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31266",
 		"jp_explainShort": "風チップ数攻撃絶大増＋属性追加ダメージ",
 		"tr_explainShort": "Boost x # Wind + add. dam. x Wind Elem",
 		"jp_explainLong": "① 装備中の風属性チップの枚数に応じて\n　　 攻撃力を絶大に増加する。\n② 風属性値に応じて敵に追加で特大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 33% x the number of Wind\n     chips equipped.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional 0.25% damage to enemies x \n     your Wind Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 33% x the number of Wind\n     chips equipped.\n<color=yellow>SP: </color>Boosts damage by 35% x the number of Wind\n     chips equipped.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional 0.25% damage to enemies x \n     your Wind Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31273",
 		"jp_explainShort": "攻撃力絶大増加＋追加ダメージ効果小増加",
 		"tr_explainShort": "Damage boosted + add. damage boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中チップの追加ダメージ威力を\n　　 それぞれわずかに増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 190%.\n     <color=yellow>[E-Frame]</color>\n②  Increases the strength of all <color=yellow>[Chase]</color> effects by\n     25%.\n     <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 190%.\n<color=yellow>SP: </color>Boosts damage by 200%.\n     <color=yellow>[E-Frame]</color>\n②  Increases the strength of all <color=yellow>[Chase]</color> effects by\n     25%.\n<color=yellow>SP: </color>Increases the strength of all <color=yellow>[Chase]</color> effects by\n     30%.\n     <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31274",
 		"jp_explainShort": "攻撃力超絶増加＋追加ダメージ効果増加",
 		"tr_explainShort": "Damage boosted + add. damage boosted",
 		"jp_explainLong": "① 攻撃力を超絶に増加する。\n② 装備中チップの追加ダメージ威力を\n　　 それぞれ増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 200%.\n     <color=yellow>[E-Frame]</color>\n②  Increases the strength of all <color=yellow>[Chase]</color> effects by\n     35%.\n     <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 200%.\n<color=yellow>SP: </color>Boosts damage by 210%.\n     <color=yellow>[E-Frame]</color>\n②  Increases the strength of all <color=yellow>[Chase]</color> effects by\n     35%.\n<color=yellow>SP: </color>Increases the strength of all <color=yellow>[Chase]</color> effects by\n     40%.\n     <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31275",
@@ -1964,14 +1964,14 @@
 		"jp_explainShort": "ＨＰとＣＰが小回復＋追加大ダメージ",
 		"tr_explainShort": "HP & CP recovery + additional damage",
 		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional ??% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by ??%.\n③  Recovers CP by ??.\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 55% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 60% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 4%.\n<color=yellow>SP: </color>Recovers HP by 5%.\n③  Recovers CP by 3.\n<color=yellow>SP: </color>Recovers CP by 4.\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "31302",
 		"jp_explainShort": "ＨＰとＣＰが小回復＋追加特大ダメージ",
 		"tr_explainShort": "HP & CP recovery + additional damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional 65% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 6%.\n③  Recovers CP by 5.\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 65% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 70% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 6%.\n<color=yellow>SP: </color>Recovers HP by 7%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 6.\n[Activation Trigger] Landing an attack"
 	},
 	{
 		"assign": "31303",
@@ -1992,14 +1992,14 @@
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋光属性大強化",
 		"tr_explainShort": "Dam. boost vs Darkers + Light Elem. up",
 		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 光属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage against Darkers by ??%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Light Element by 50.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage against Darkers by 105%.\n<color=yellow>SP: </color>Boosts damage against Darkers by 110%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Light Element by 50.\n<color=yellow>SP: </color>Increases your Light Element by 60.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31306",
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋光属性大強化",
 		"tr_explainShort": "Dam. boost vs Darkers + Light Elem. up",
 		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 光属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Darkers by 115%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Light Element by 70.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Darkers by 115%.\n<color=yellow>SP: </color>Boosts damage against Darkers by 120%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Light Element by 70.\n<color=yellow>SP: </color>Increases your Light Element by 80.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31309",
@@ -2048,14 +2048,14 @@
 		"jp_explainShort": "攻撃力大増加＋ＨＰ一定以上時攻撃力大増加",
 		"tr_explainShort": "Damage boosted + boost at high HP",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② ＨＰが一定以上の場合はさらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% as long as HP is\n     at 75% or higher.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 40%.\n<color=yellow>SP: </color>Boosts damage by 50%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 40% as long as HP is\n     at 75% or higher.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31322",
 		"jp_explainShort": "攻撃力大増加＋ＨＰ一定以上時攻撃力大増加",
 		"tr_explainShort": "Damage boosted + boost at high HP",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② ＨＰが一定以上の場合はさらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 60%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 40% as long as HP is\n     at 75% or higher.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 60%.\n<color=yellow>SP: </color>Boosts damage by 70%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 40% as long as HP is\n     at 75% or higher.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31323",
@@ -2076,14 +2076,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋光属性武器で攻撃力増加",
 		"tr_explainShort": "Dam. boosted + Light weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が光属性の場合\n　　 さらに攻撃力を増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% if using a Light\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 140%.\n<color=yellow>SP: </color>Boosts damage by 150%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using a Light\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31326",
 		"jp_explainShort": "攻撃力絶大増加＋光属性武器で攻撃力増加",
 		"tr_explainShort": "Dam. boosted + Light weapons boosted",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が光属性の場合\n　　 さらに攻撃力を増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 160%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using a Light\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 160%.\n<color=yellow>SP: </color>Boosts damage by 170%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 25% if using a Light\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31329",
@@ -2174,14 +2174,14 @@
 		"jp_explainShort": "必殺技大強化＋通常攻撃と移動加速",
 		"tr_explainShort": "PAs boosted + actions quickened",
 		"jp_explainLong": "① 必殺技の威力を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs by ??%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of PAs by 55%.\n<color=yellow>SP: </color>Boosts the power of PAs by 65%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31348",
 		"jp_explainShort": "必殺技劇的強化＋通常攻撃と移動加速",
 		"tr_explainShort": "PAs boosted + actions quickened",
 		"jp_explainLong": "① 必殺技の威力を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts the power of PAs by 70%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts the power of PAs by 75%.\n<color=yellow>SP: </color>Boosts the power of PAs by 85%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31349",
@@ -2328,28 +2328,28 @@
 		"jp_explainShort": "アビリティレベル攻撃増＋ＣＰ回復速度強化",
 		"tr_explainShort": "Dam. boost x ability level + CP regen up",
 		"jp_explainLong": "① アビリティレベルに応じて攻撃力を絶大に増加する。\n② ＣＰの回復速度を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 90% + 4% x this chip's ability\n     level.\n     <color=yellow>[E-Frame]</color>\n②  Boosts your CP regeneration speed by ??%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 90% + 4% x this chip's ability\n     level.\n<color=yellow>SP: </color>Boosts damage by 100% + 4% x this chip's ability\n     level.\n     <color=yellow>[E-Frame]</color>\n②  Boosts your CP regeneration speed by 100%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31372",
 		"jp_explainShort": "アビリティレベル攻撃増＋ＣＰ回復速度強化",
 		"tr_explainShort": "Dam. boost x ability level + CP regen up",
 		"jp_explainLong": "① アビリティレベルに応じて攻撃力を絶大に増加する。\n② ＣＰの回復速度を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 110% + 4% x this chip's ability\n     level.\n     <color=yellow>[E-Frame]</color>\n②  Boosts your CP regeneration speed by ??%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 110% + 4% x this chip's ability\n     level.\n<color=yellow>SP: </color>Boosts damage by 120% + 4% x this chip's ability\n     level.\n     <color=yellow>[E-Frame]</color>\n②  Boosts your CP regeneration speed by 100%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31373",
 		"jp_explainShort": "法術劇的強化＋一定確率で回避",
 		"tr_explainShort": "Tech boost + chance to avoid damage",
 		"jp_explainLong": "① 法術の威力を劇的に強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Techs by ??%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a ?? chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of Techs by 75%.\n<color=yellow>SP: </color>Boosts the power of Techs by 80%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a 35% chance to avoid damage from\n     enemies.\n<color=yellow>SP: </color>Grants a 40% chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31374",
 		"jp_explainShort": "法術劇的強化＋一定確率で回避",
 		"tr_explainShort": "Tech boost + chance to avoid damage",
 		"jp_explainLong": "① 法術の威力を劇的に強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Techs by 85%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a ?? chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Techs by 85%.\n<color=yellow>SP: </color>Boosts the power of Techs by 90%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a 45% chance to avoid damage from\n     enemies.\n<color=yellow>SP: </color>Grants a 50% chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31375",
@@ -2454,42 +2454,42 @@
 		"jp_explainShort": "攻撃力絶大増＋ＣＰ一定以上時攻撃力劇的増",
 		"tr_explainShort": "Damage boosted + boost at high CP",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② ＣＰが一定以上の場合はさらに攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% while CP is\n     above ??.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 120%.\n<color=yellow>SP: </color>Boosts damage by 130%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 90% while CP is\n     above 50.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31394",
 		"jp_explainShort": "攻撃力絶大増＋ＣＰ一定以上時攻撃力劇的増",
 		"tr_explainShort": "Damage boosted + boost at high CP",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② ＣＰが一定以上の場合はさらに攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 140%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 90% while CP is\n     above 50.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 140%.\n<color=yellow>SP: </color>Boosts damage by 150%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 90% while CP is\n     above 50.\n     <color=yellow>[E-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31395",
 		"jp_explainShort": "強弓の技が劇的強化＋加速",
 		"tr_explainShort": "Bullet Bow PA boost + actions quickened",
 		"jp_explainLong": "① 強弓の必殺技の威力を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 85%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 85%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 90%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31396",
 		"jp_explainShort": "強弓の技が劇的強化＋加速",
 		"tr_explainShort": "Bullet Bow PA boost + actions quickened",
 		"jp_explainLong": "① 強弓の必殺技の威力を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 95%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Bullet Bow PAs by 95%.\n<color=yellow>SP: </color>Boosts the power of Bullet Bow PAs by 100%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31397",
 		"jp_explainShort": "抜剣の技が劇的強化＋加速",
 		"tr_explainShort": "Gunslash PA boost + actions quickened",
 		"jp_explainLong": "① 抜剣の必殺技の威力を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 85%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 85%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 90%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31398",
 		"jp_explainShort": "抜剣の技が劇的強化＋加速",
 		"tr_explainShort": "Gunslash PA boost + actions quickened",
 		"jp_explainLong": "① 抜剣の必殺技の威力を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]スライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 95%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of Gunslash PAs by 95%.\n<color=yellow>SP: </color>Boosts the power of Gunslash PAs by 100%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n[Activation Trigger] Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31399",
@@ -2510,14 +2510,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋チップ発動率上昇",
 		"tr_explainShort": "Damage boost + chip activation rates up",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 80%.\n     <color=yellow>[E-Frame]</color>\n②  Increases activation rate of all Support Chips by\n     ??%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 80%.\n<color=yellow>SP: </color>Boosts damage by 90%.\n     <color=yellow>[E-Frame]</color>\n②  Increases activation rate of all Support Chips by\n     20%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31402",
 		"jp_explainShort": "攻撃力劇的増加＋チップ発動率上昇",
 		"tr_explainShort": "Damage boost + chip activation rates up",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Increases activation rate of all Support Chips by\n     15%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 100%.\n<color=yellow>SP: </color>Boosts damage by 110%.\n     <color=yellow>[E-Frame]</color>\n②  Increases activation rate of all Support Chips by\n     20%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31403",
@@ -2734,14 +2734,14 @@
 		"jp_explainShort": "炎チップ数攻撃劇的増＋属性追加ダメージ",
 		"tr_explainShort": "Dam. boost x # Fire + add. dam. x Fire",
 		"jp_explainLong": "① 装備中の炎属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 炎属性値に応じて敵に追加で大ダメージを与える。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% + ??% x the number of\n     Fire chips equipped.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional ??% damage to enemies x\n     your Fire Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 10% + 10% x the number of\n     Fire chips equipped.\n<color=yellow>SP: </color>Boosts damage by 20% + 10% x the number of\n     Fire chips equipped.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional 0.2% damage to enemies x\n     your Fire Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31450",
 		"jp_explainShort": "炎チップ数攻撃劇的増＋属性追加ダメージ",
 		"tr_explainShort": "Dam. boost x # Fire + add. dam. x Fire",
 		"jp_explainLong": "① 装備中の炎属性チップの枚数に応じて\n　　 攻撃力を劇的に増加する。\n② 炎属性値に応じて敵に追加で大ダメージを与える。\n[発動条件]攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 30% + 10% x the number of\n     Fire chips equipped.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional 0.2% damage to enemies x\n     your Fire Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 30% + 10% x the number of\n     Fire chips equipped.\n<color=yellow>SP: </color>Boosts damage by 40% + 10% x the number of\n     Fire chips equipped.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional 0.2% damage to enemies x\n     your Fire Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31451",
@@ -2762,14 +2762,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋追加ダメージ効果小増加",
 		"tr_explainShort": "Damage boosted + add. damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 装備中チップの追加ダメージ威力を\n　　 それぞれわずかに増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Increases the strength of all <color=yellow>[Chase]</color> effects by\n     ??%.\n     <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 110%.\n<color=yellow>SP: </color>Boosts damage by 115%.\n     <color=yellow>[E-Frame]</color>\n②  Increases the strength of all <color=yellow>[Chase]</color> effects by\n     20%.\n<color=yellow>SP: </color>Increases the strength of all <color=yellow>[Chase]</color> effects by\n     25%.\n     <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31456",
 		"jp_explainShort": "攻撃力絶大増加＋追加ダメージ効果増加",
 		"tr_explainShort": "Damage boosted + add. damage boosted",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 装備中チップの追加ダメージ威力を\n　　 それぞれ増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 120%.\n     <color=yellow>[E-Frame]</color>\n②  Increases the strength of all <color=yellow>[Chase]</color> effects by\n     30%.\n     <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 120%.\n<color=yellow>SP: </color>Boosts damage by 125%.\n     <color=yellow>[E-Frame]</color>\n②  Increases the strength of all <color=yellow>[Chase]</color> effects by\n     30%.\n<color=yellow>SP: </color>Increases the strength of all <color=yellow>[Chase]</color> effects by\n     35%.\n     <color=yellow>[Chase Boost]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31459",
@@ -2930,14 +2930,14 @@
 		"jp_explainShort": "機甲種にダメージ劇的増＋弱点属性大強化",
 		"tr_explainShort": "Dam. boost vs Mechs + weak Elem. up",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 攻撃対象の敵の弱点属性を大きく強化する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage against Mechs by ??%.\n     <color=yellow>[B-Frame]</color>\n②  Increases all Elements that the target is weak\n     to by 50.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage against Mechs by 105%.\n<color=yellow>SP: </color>Boosts damage against Mechs by 110%.\n     <color=yellow>[B-Frame]</color>\n②  Increases all Elements that the target is weak\n     to by 50.\n<color=yellow>SP: </color>Increases all Elements that the target is weak\n     to by 60.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31488",
 		"jp_explainShort": "機甲種にダメージ劇的増＋弱点属性大強化",
 		"tr_explainShort": "Dam. boost vs Mechs + weak Elem. up",
 		"jp_explainLong": "① 機甲種に与えるダメージを劇的に増加する。\n② 攻撃対象の敵の弱点属性を大きく強化する。\n[発動条件]機甲種に攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Mechs by 115%.\n     <color=yellow>[B-Frame]</color>\n②  Increases all Elements that the target is weak\n     to by 70.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Mechs by 115%.\n<color=yellow>SP: </color>Boosts damage against Mechs by 120%.\n     <color=yellow>[B-Frame]</color>\n②  Increases all Elements that the target is weak\n     to by 70.\n<color=yellow>SP: </color>Increases all Elements that the target is weak\n     to by 80.\n[Activation Trigger] Landing attacks on Mechs\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31489",
@@ -2972,14 +2972,14 @@
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋炎属性大強化",
 		"tr_explainShort": "Damage boost vs Darkers + Fire Elem. up",
 		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 炎属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage against Darkers by ??%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Fire Element by 50.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage against Darkers by 105%.\n<color=yellow>SP: </color>Boosts damage against Darkers by 110%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Fire Element by 50.\n<color=yellow>SP: </color>Increases your Fire Element by 60.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31494",
 		"jp_explainShort": "ダーカーにダメージ劇的増加＋炎属性大強化",
 		"tr_explainShort": "Damage boost vs Darkers + Fire Elem. up",
 		"jp_explainLong": "① ダーカーに与えるダメージを劇的に増加する。\n② 炎属性を大きく強化する。\n[発動条件]ダーカーに攻撃がヒットした時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage against Darkers by 115%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Fire Element by 70.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage against Darkers by 115%.\n<color=yellow>SP: </color>Boosts damage against Darkers by 120%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Fire Element by 70.\n<color=yellow>SP: </color>Increases your Fire Element by 80.\n[Activation Trigger] Landing attacks on Darkers\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31495",
@@ -3014,14 +3014,14 @@
 		"jp_explainShort": "アビリティレベル攻撃大増＋ＣＰ回復速度強化",
 		"tr_explainShort": "Dam. boost x ability level + CP recovery",
 		"jp_explainLong": "① アビリティレベルに応じて攻撃力を大きく増加する。\n② ＣＰの回復速度を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 30% + 5% x this chip's ability\n     level.\n     <color=yellow>[E-Frame]</color>\n②  Boosts your CP regeneration speed by ??%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 30% + 5% x this chip's ability\n     level.\n<color=yellow>SP: </color>Boosts damage by 35% + 5% x this chip's ability\n     level.\n     <color=yellow>[E-Frame]</color>\n②  Boosts your CP regeneration speed by 100%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31502",
 		"jp_explainShort": "アビリティレベル攻撃大増＋ＣＰ回復速度強化",
 		"tr_explainShort": "Dam. boost x ability level + CP recovery",
 		"jp_explainLong": "① アビリティレベルに応じて攻撃力を大きく増加する。\n② ＣＰの回復速度を劇的に強化する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 40% + 5% x this chip's ability\n     level.\n     <color=yellow>[E-Frame]</color>\n②  Boosts your CP regeneration speed by ??%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 40% + 5% x this chip's ability\n     level.\n<color=yellow>SP: </color>Boosts damage by 45% + 5% x this chip's ability\n     level.\n     <color=yellow>[E-Frame]</color>\n②  Boosts your CP regeneration speed by 100%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31503",
@@ -3084,14 +3084,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋必殺技と法術の威力絶大強化",
 		"tr_explainShort": "CP usage down + PAs & Techs boosted",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by 120%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 120%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 140%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31516",
 		"jp_explainShort": "消費ＣＰ減少＋必殺技と法術の威力絶大強化",
 		"tr_explainShort": "CP usage down + PAs & Techs boosted",
 		"jp_explainLong": "① 必殺技・法術の威力を絶大に強化する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by 160%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 160%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 180%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31521",
@@ -3112,14 +3112,14 @@
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
 		"tr_explainShort": "Dam. boost + act rate up + CP use down",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Increases activation rate of all Support Chips by\n     ??%.\n③  Reduces CP consumption by 10%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "①  Boosts damage by 90%.\n<color=yellow>SP: </color>Boosts damage by 100%.\n     <color=yellow>[E-Frame]</color>\n②  Increases activation rate of all Support Chips by\n     20%.\n③  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31526",
 		"jp_explainShort": "攻撃力劇的増加＋消費ＣＰ減少＋発動率上昇",
 		"tr_explainShort": "Dam. boost + act rate up + CP use down",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 110%.\n     <color=yellow>[E-Frame]</color>\n②  Increases activation rate of all Support Chips by\n     ??%.\n③  Reduces CP consumption by 10%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 110%.\n<color=yellow>SP: </color>Boosts damage by 120%.\n     <color=yellow>[E-Frame]</color>\n②  Increases activation rate of all Support Chips by\n     20%.\n③  Reduces CP consumption by 20%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31527",
@@ -3413,14 +3413,14 @@
 		"jp_explainShort": "攻撃力絶大増加＋消費ＣＰ減少＋発動率上昇",
 		"tr_explainShort": "Dam. boost + CP use down + act. rate up",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を絶大に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n②  Raises the activation rate of all Support Chips by\n     ??%.\n③  Reduces CP consumption by ??%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 20% x the number of different\n     chip elements equipped.\n<color=yellow>SP: </color>Boosts damage by 25% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n②  Raises the activation rate of all Support Chips by\n     50%.\n③  Reduces CP consumption by 50%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31586",
 		"jp_explainShort": "攻撃力絶大増加＋消費ＣＰ減少＋発動率上昇",
 		"tr_explainShort": "Dam. boost + CP use down + act. rate up",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 攻撃力を絶大に増加する。\n② 発動率を上昇する。\n③ 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 30% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n②  Raises the activation rate of all Support Chips by\n     ??%.\n③  Reduces CP consumption by 50%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "①  Boosts damage by 30% x the number of different\n     chip elements equipped.\n<color=yellow>SP: </color>Boosts damage by 35% x the number of different\n     chip elements equipped.\n     <color=yellow>[E-Frame]</color>\n②  Raises the activation rate of all Support Chips by\n     50%.\n③  Reduces CP consumption by 50%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31587",
@@ -3455,14 +3455,14 @@
 		"jp_explainShort": "有効弱点属性武器で攻撃力が劇的増加",
 		"tr_explainShort": "Weapon elemental weakness boosted",
 		"jp_explainLong": "① 装備中の武器の属性が攻撃対象の敵の弱点に\n　　 有効な属性の場合攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% if the equipped weapon's\n     element matches the target's elemental weakness.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 80% if the equipped weapon's\n     element matches the target's elemental weakness.\n<color=yellow>SP: </color>Boosts damage by 90% if the equipped weapon's\n     element matches the target's elemental weakness.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31594",
 		"jp_explainShort": "有効弱点属性武器で攻撃力が劇的増加",
 		"tr_explainShort": "Weapon elemental weakness boosted",
 		"jp_explainLong": "① 装備中の武器の属性が攻撃対象の敵の弱点に\n　　 有効な属性の場合攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 100% if the equipped weapon's\n     element matches the target's elemental weakness.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 100% if the equipped weapon's\n     element matches the target's elemental weakness.\n<color=yellow>SP: </color>Boosts damage by 110% if the equipped weapon's\n     element matches the target's elemental weakness.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31595",
@@ -3539,14 +3539,14 @@
 		"jp_explainShort": "攻撃大増＋属性追加ダメージ",
 		"tr_explainShort": "Damage boost + add. damage x Lightning",
 		"jp_explainLong": "① 攻撃力を大きく増加する。\n② 雷属性値に応じて敵に追加で特大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional ??% damage to enemies\n     x your Lightning Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 55%.\n<color=yellow>SP: </color>Boosts damage by 65%.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional 0.25% damage to enemies\n     x your Lightning Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31612",
 		"jp_explainShort": "攻撃劇的増＋属性追加ダメージ",
 		"tr_explainShort": "Damage boost + add. damage x Lightning",
 		"jp_explainLong": "① 攻撃力を劇的に増加する。\n② 雷属性値に応じて敵に追加で特大ダメージを与える。\n[発動条件]ジャストアタック成功時\n[効果時間]長い時間",
-		"tr_explainLong": "①  Boosts damage by 75%.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional 0.25% damage to enemies\n     x your Lightning Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
+		"tr_explainLong": "①  Boosts damage by 75%.\n<color=yellow>SP: </color>Boosts damage by 85%.\n     <color=yellow>[E-Frame]</color>\n②  Deals an additional 0.25% damage to enemies\n     x your Lightning Element.\n     <color=yellow>[Chase]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 30 seconds"
 	},
 	{
 		"assign": "31613",
@@ -3707,14 +3707,14 @@
 		"jp_explainShort": "消費ＣＰ減少＋必殺技と法術の威力小強化",
 		"tr_explainShort": "CP usage down + PAs/Techs boosted",
 		"jp_explainLong": "① 必殺技・法術の威力をわずかに強化する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by 25%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces CP consumption by ??%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 25%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 30%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces CP consumption by 10%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31641",
 		"jp_explainShort": "消費ＣＰ減少＋必殺技と法術の威力強化",
 		"tr_explainShort": "CP usage down + PAs/Techs boosted",
 		"jp_explainLong": "① 必殺技・法術の威力を強化する。\n② 消費ＣＰを減少する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by 35%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces CP consumption by 15%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 35%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 40%.\n     <color=yellow>[A-Frame]</color>\n②  Reduces CP consumption by 15%.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31642",
@@ -3735,14 +3735,14 @@
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ小回復＋追加絶大ダメージ",
 		"tr_explainShort": "HP recovery + CP recovery + add. dam.",
 		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional 130% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 8%.\n③  Recovers CP by 5.\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 130% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 140% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 8%.\n<color=yellow>SP: </color>Recovers HP by 10%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 7.\n[Activation Trigger] Landing an attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "31649",
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加絶大ダメージ",
 		"tr_explainShort": "HP recovery + CP recovery + add. dam.",
 		"jp_explainLong": "① 敵に追加で絶大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional 150% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 12%.\n③  Recovers CP by 5.\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 150% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 160% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 12%.\n<color=yellow>SP: </color>Recovers HP by 15%.\n③  Recovers CP by 8.\n<color=yellow>SP: </color>Recovers CP by 10.\n[Activation Trigger] Landing an attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "31650",
@@ -3903,14 +3903,14 @@
 		"jp_explainShort": "属性種類・全属性値に応じ属性攻撃力超絶増",
 		"tr_explainShort": "Element damage boosted x # elements",
 		"jp_explainLong": "① 装備中チップの属性種類数と全属性の合計値に応じて\n　　 属性攻撃力を超絶に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts elemental power by ??% x the number\n     of different chip elements equipped + ??% x the\n     square root of your total Elements.\n     <color=yellow>[R-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts elemental power by 1.005% to the\n     power of the number of different chip elements\n     equipped, x 6.3% x the square root of your\n     total Elements (max. total: 1000).\n<color=yellow>SP: </color>Boosts elemental power by 1.010% to the\n     power of the number of different chip elements\n     equipped, x 6.3 x the square root of your\n     total Elements (max. total: 1000).\n     <color=yellow>[R-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31686",
 		"jp_explainShort": "属性種類・全属性値に応じ属性攻撃力超絶増",
 		"tr_explainShort": "Element damage boosted x # elements",
 		"jp_explainLong": "① 装備中チップの属性種類数と全属性の合計値に応じて\n　　 属性攻撃力を超絶に増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts elemental power by 1.5% x the number\n     of different chip elements equipped + 6.3% x the\n     square root of your total Elements.\n     <color=yellow>[R-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts elemental power by 1.015% to the\n     power of the number of different chip elements\n     equipped, x 6.3% x the square root of your\n     total Elements (max. total: 1000).\n<color=yellow>SP: </color>Boosts elemental power by 1.020% to the\n     power of the number of different chip elements\n     equipped, x 6.3 x the square root of your\n     total Elements (max. total: 1000).\n     <color=yellow>[R-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31687",
@@ -3966,14 +3966,14 @@
 		"jp_explainShort": "攻撃力絶大増＋闇光属性武器で攻撃力大増",
 		"tr_explainShort": "Dam. boost + Light/Dark weapon boost",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が光・闇の場合\n　　 攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 40% if equipped with a Light\n     or Dark weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "①  Boosts damage by 135%.\n<color=yellow>SP: </color>Boosts damage by 140%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 40% if equipped with a Light\n     or Dark weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31695",
 		"jp_explainShort": "攻撃力絶大増＋闇光属性武器で攻撃力大増",
 		"tr_explainShort": "Dam. boost + Light/Dark weapon boost",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が光・闇の場合\n　　 攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 145%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 40% if equipped with a Light\n     or Dark weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "①  Boosts damage by 145%.\n<color=yellow>SP: </color>Boosts damage by 150%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 40% if equipped with a Light\n     or Dark weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31696",
@@ -4106,14 +4106,14 @@
 		"jp_explainShort": "氷光武器攻撃力絶大増加＋氷属性上限上昇",
 		"tr_explainShort": "Ice/Light weapons boosted + max Ice up",
 		"jp_explainLong": "① 装備中の武器の属性が氷・光属性の場合\n　　 攻撃力を絶大に増加する。\n② 氷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 150% if using an Ice or Light\n     weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Ice value by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 150% if using an Ice or Light\n     weapon.\n<color=yellow>SP: </color>Boosts damage by 160% if using an Ice or Light\n     weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Ice value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31724",
 		"jp_explainShort": "氷光武器攻撃力絶大増加＋氷属性上限上昇",
 		"tr_explainShort": "Ice/Light weapons boosted + max Ice up",
 		"jp_explainLong": "① 装備中の武器の属性が氷・光属性の場合\n　　 攻撃力を絶大に増加する。\n② 氷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 170% if using an Ice or Light\n     weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Ice value by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 170% if using an Ice or Light\n     weapon.\n<color=yellow>SP: </color>Boosts damage by 180% if using an Ice or Light\n     weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Ice value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31725",
@@ -4134,14 +4134,14 @@
 		"jp_explainShort": "追加特大ダメージ＋ＣＰ回復",
 		"tr_explainShort": "Additional damage + CP recovered",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＣＰを回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Deals an additional ??% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers CP by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Deals an additional 70% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 80% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers CP by 14.\n<color=yellow>SP: </color>Recovers CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31728",
 		"jp_explainShort": "追加特大ダメージ＋ＣＰ回復",
 		"tr_explainShort": "Additional damage + CP recovered",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＣＰを回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Deals an additional 90% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers CP by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "①  Deals an additional 90% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 100% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers CP by 15.\n<color=yellow>SP: </color>Recovers CP by 16.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31731",
@@ -4204,14 +4204,14 @@
 		"jp_explainShort": "アビリティＬｖ炎武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "Fire weapon boost x ability + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% + ?% x this chip's ability\n     level if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's ability\n     level if using a Fire weapon.\n<color=yellow>SP: </color>Boosts damage by 15% + 3% x this chip's ability\n     level if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31745",
 		"jp_explainShort": "アビリティＬｖ炎武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "Fire weapon boost x ability + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's ability\n     level if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's ability\n     level if using a Fire weapon.\n<color=yellow>SP: </color>Boosts damage by 25% + 3% x this chip's ability\n     level if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31746",
@@ -4295,14 +4295,14 @@
 		"jp_explainShort": "アビリティＬｖ風武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "Wind wpn. boost x ability + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n<color=yellow>SP: </color>Boosts damage by 15% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31769",
 		"jp_explainShort": "アビリティＬｖ風武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "Wind wpn. boost x ability + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n<color=yellow>SP: </color>Boosts damage by 25% + 3% x this chip's ability\n     level if equipped with a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31770",
@@ -4393,14 +4393,14 @@
 		"jp_explainShort": "光闇属性武器で攻撃力劇的増",
 		"tr_explainShort": "Light/Dark weapons boosted",
 		"jp_explainLong": "① 装備中の武器の属性が光・闇の場合\n　　 攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% if using a Light or Dark\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 110% if using a Light or Dark\n     weapon.\n<color=yellow>SP: </color>Boosts damage by 115% if using a Light or Dark\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31793",
 		"jp_explainShort": "光闇属性武器で攻撃力劇的増",
 		"tr_explainShort": "Light/Dark weapons boosted",
 		"jp_explainLong": "① 装備中の武器の属性が光・闇の場合\n　　 攻撃力を劇的に増加する。\n[発動条件]ジャストアタック成功もしくはスライド操作時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% if using a Light or Dark\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 115% if using a Light or Dark\n     weapon.\n<color=yellow>SP: </color>Boosts damage by 120% if using a Light or Dark\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful JA or Slide Action\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31796",
@@ -4421,42 +4421,42 @@
 		"jp_explainShort": "属性ダメージ＋一定確率回避",
 		"tr_explainShort": "Weakness boosted + evading",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを劇的に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts elemental damage by 115% against\n     enemies weak to that element.\n     <color=yellow>[S-Frame]</color>\n②  Grants a ?? chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts elemental damage by 115% against\n     enemies weak to that element.\n<color=yellow>SP: </color>Boosts elemental damage by 135% against\n     enemies weak to that element.\n     <color=yellow>[S-Frame]</color>\n②  Grants a 50% chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31799",
 		"jp_explainShort": "属性ダメージ＋一定確率回避",
 		"tr_explainShort": "Weakness boosted + evading",
 		"jp_explainLong": "① 攻撃対象の敵の弱点に有効な属性による\n　　 ダメージを絶大に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts elemental damage by 155% against\n     enemies weak to that element.\n     <color=yellow>[S-Frame]</color>\n②  Grants a ?? chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts elemental damage by 155% against\n     enemies weak to that element.\n<color=yellow>SP: </color>Boosts elemental damage by 175% against\n     enemies weak to that element.\n     <color=yellow>[S-Frame]</color>\n②  Grants a 50% chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31800",
 		"jp_explainShort": "ＪＡ威力絶大増加＋ＪＡ成功３回毎にＣＰ回復",
 		"tr_explainShort": "JA boost x elems + 3 JAs = CP recovery",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 ジャストアタックの威力を絶大に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Just Attacks by 30% x the number of\n     different chip elements equipped.\n     <color=yellow>[T-Frame]</color>\n②  Recovers CP by 5 each time you successfully\n     perform 3 Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts Just Attacks by 30% x the number of\n     different chip elements equipped.\n<color=yellow>SP: </color>Boosts Just Attacks by 35% x the number of\n     different chip elements equipped.\n     <color=yellow>[T-Frame]</color>\n②  Recovers CP by 5 each time you successfully\n     perform 3 Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31801",
 		"jp_explainShort": "ＪＡ威力超絶増加＋ＪＡ成功３回毎にＣＰ回復",
 		"tr_explainShort": "JA boost x elems + 3 JAs = CP recovery",
 		"jp_explainLong": "① 装備中チップの属性種類数に応じて\n　　 ジャストアタックの威力を超絶に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＣＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Just Attacks by 35% x the number of\n     different chip elements equipped.\n     <color=yellow>[T-Frame]</color>\n②  Recovers CP by 5 each time you successfully\n     perform 3 Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts Just Attacks by 35% x the number of\n     different chip elements equipped.\n<color=yellow>SP: </color>Boosts Just Attacks by 40% x the number of\n     different chip elements equipped.\n     <color=yellow>[T-Frame]</color>\n②  Recovers CP by 5 each time you successfully\n     perform 3 Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31802",
 		"jp_explainShort": "アビリティＬｖ闇武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "Dark wep boost x ab. lv. + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% x this chip's ability level if\n     using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's\n     ability level if using a Dark weapon.\n<color=yellow>SP: </color>Boosts damage by 15% + 3% x this chip's\n     ability level if using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31803",
 		"jp_explainShort": "アビリティＬｖ闇武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "Dark wep boost x ab. lv. + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% x this chip's ability level if\n     using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's\n     ability level if using a Dark weapon.\n<color=yellow>SP: </color>Boosts damage by 25% + 3% x this chip's\n     ability level if using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 25.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31804",
@@ -4596,14 +4596,14 @@
 		"jp_explainShort": "アビリティＬｖ氷武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "Ice wep. boost x ab. lv. + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が氷属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% based on this chip's ability\n     level if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 10% + 3% x this chip's\n     ability level if using an Ice weapon.\n<color=yellow>SP: </color>Boosts damage by 15% + 3% x this chip's\n     ability level if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31826",
 		"jp_explainShort": "アビリティＬｖ氷武器攻撃力増＋ＣＰ最大増",
 		"tr_explainShort": "Ice wep. boost x ab. lv. + max CP up",
 		"jp_explainLong": "① 装備中の武器の属性が氷属性の場合\n　　 アビリティレベルに応じて、攻撃力を大きく増加する。\n② ＣＰの最大値を増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??% based on this chip's ability\n     level if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by ??.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 20% + 3% x this chip's\n     ability level if using an Ice weapon.\n<color=yellow>SP: </color>Boosts damage by 25% + 3% x this chip's\n     ability level if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum CP by 15.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31827",
@@ -4673,28 +4673,28 @@
 		"jp_explainShort": "アビＬｖ風技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Wind boost x ab. lv. + extension x # Wind",
 		"jp_explainLong": "① 必殺技・法術チップが風属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Wind PAs and Techs by 12% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Wind Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts Wind PAs and Techs by 12% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Wind PAs and Techs by 22% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Wind Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31855",
 		"jp_explainShort": "アビＬｖ風技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Wind boost x ab. lv. + extension x # Wind",
 		"jp_explainLong": "① 必殺技・法術チップが風属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の風属性チップの枚数に応じて\n　　 風属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Wind PAs and Techs by 32% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Wind Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts Wind PAs and Techs by 32% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Wind PAs and Techs by 42% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Wind Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31856",
 		"jp_explainShort": "アビＬｖ雷技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Thun. boost x ab. lv. + extension x # Thun.",
 		"jp_explainLong": "① 必殺技・法術チップが雷属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Lightning PAs and Techs by 12% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Lightning Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts Lightning PAs and Techs by 12% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Lightning PAs and Techs by 22% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Lightning Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31857",
 		"jp_explainShort": "アビＬｖ雷技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Thun. boost x ab. lv. + extension x # Thun.",
 		"jp_explainLong": "① 必殺技・法術チップが雷属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の雷属性チップの枚数に応じて\n　　 雷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Lightning PAs and Techs by 32% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Lightning Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts Lightning PAs and Techs by 32% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Lightning PAs and Techs by 42% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Lightning Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31860",
@@ -4729,42 +4729,42 @@
 		"jp_explainShort": "攻撃力絶大増＋炎氷属性武器で攻撃力大増",
 		"tr_explainShort": "Damage boost + Ice/Fire weapon boost",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が炎・氷の場合\n　　 攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ???%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by ??% when using an Ice or Fire\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 135%.\n<color=yellow>SP: </color>Boosts damage by 140%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 40% when using an Ice or Fire\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31867",
 		"jp_explainShort": "攻撃力絶大増＋炎氷属性武器で攻撃力大増",
 		"tr_explainShort": "Damage boost + Ice/Fire weapon boost",
 		"jp_explainLong": "① 攻撃力を絶大に増加する。\n② 装備中の武器の属性が炎・氷の場合\n　　 攻撃力を大きく増加する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 145%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 40% when using an Ice or Fire\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
+		"tr_explainLong": "①  Boosts damage by 145%.\n<color=yellow>SP: </color>Boosts damage by 150%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by 40% when using an Ice or Fire\n     weapon.\n     <color=yellow>[H-Frame]</color>\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "31868",
 		"jp_explainShort": "アビＬｖ炎技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Fire boost x ab. lv. + extension x # Fire",
 		"jp_explainLong": "① 必殺技・法術チップが炎属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の炎属性チップの枚数に応じて\n　　 炎属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Fire PAs and Techs by 12% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Fire Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts Fire PAs and Techs by 12% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Fire PAs and Techs by 22% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Fire Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31869",
 		"jp_explainShort": "アビＬｖ炎技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Fire boost x ab. lv. + extension x # Fire",
 		"jp_explainLong": "① 必殺技・法術チップが炎属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の炎属性チップの枚数に応じて\n　　 炎属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Fire PAs and Techs by 32% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Fire Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts Fire PAs and Techs by 32% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Fire PAs and Techs by 42% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Fire Support\n     Chips' abilities by 2 seconds x the number of\n     Wind chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31870",
 		"jp_explainShort": "アビＬｖ闇技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Dark boost x ab. lv. + extension x # Dark",
 		"jp_explainLong": "① 必殺技・法術チップが闇属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Dark PAs and Techs by 12% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Dark Support\n     Chips' abilities by 2 seconds x the number of\n     Dark chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts Dark PAs and Techs by 12% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Dark PAs and Techs by 22% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Dark Support\n     Chips' abilities by 2 seconds x the number of\n     Dark chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31871",
 		"jp_explainShort": "アビＬｖ闇技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Dark boost x ab. lv. + extension x # Dark",
 		"jp_explainLong": "① 必殺技・法術チップが闇属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の闇属性チップの枚数に応じて\n　　 闇属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Dark PAs and Techs by 32% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Dark Support\n     Chips' abilities by 2 seconds x the number of\n     Dark chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts Dark PAs and Techs by 32% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Dark PAs and Techs by 42% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Dark Support\n     Chips' abilities by 2 seconds x the number of\n     Dark chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31872",
@@ -4785,14 +4785,14 @@
 		"jp_explainShort": "必殺技・法術威力超絶強化＋一定確率で回避",
 		"tr_explainShort": "PA & Techs boosted + chance to evade",
 		"jp_explainLong": "① 必殺技・法術の威力を超絶に強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by 240%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a ?? chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 240%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 250%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a 35% chance to avoid damage from\n     enemies.\n<color=yellow>SP: </color>Grants a 40% chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31875",
 		"jp_explainShort": "必殺技・法術威力超絶強化＋一定確率で回避",
 		"tr_explainShort": "PA & Techs boosted + chance to evade",
 		"jp_explainLong": "① 必殺技・法術の威力を超絶に強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by 260%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a ?? chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 260%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 270%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a 45% chance to avoid damage from\n     enemies.\n<color=yellow>SP: </color>Grants a 50% chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31876",
@@ -4820,28 +4820,28 @@
 		"jp_explainShort": "アビＬｖ光技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Light boost x ab. lv. + extension x # Light",
 		"jp_explainLong": "① 必殺技・法術チップが光属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Light PAs and Techs by 12% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Light Support\n     Chips' abilities by 2 seconds x the number of\n     Light chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts Light PAs and Techs by 12% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Light PAs and Techs by 22% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Light Support\n     Chips' abilities by 2 seconds x the number of\n     Light chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31880",
 		"jp_explainShort": "アビＬｖ光技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Light boost x ab. lv. + extension x # Light",
 		"jp_explainLong": "① 必殺技・法術チップが光属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の光属性チップの枚数に応じて\n　　 光属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Light PAs and Techs by 32% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Light Support\n     Chips' abilities by 2 seconds x the number of\n     Light chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts Light PAs and Techs by 32% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Light PAs and Techs by 42% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Light Support\n     Chips' abilities by 2 seconds x the number of\n     Light chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31883",
 		"jp_explainShort": "威力絶大増＋炎武器攻撃力大増＋炎属性上限上昇",
 		"tr_explainShort": "Pow. boost + Fire weapon boost + max Fire up",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が炎属性の場合\n　　 攻撃力を大きく増加する。\n③ 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts power by 130%.\n     <color=yellow>[F-Frame]</color>\n②  Boosts damage by 50% if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n③  Increases your maximum Fire value by 30.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts power by 130%.\n<color=yellow>SP: </color>Boosts power by 140%.\n     <color=yellow>[F-Frame]</color>\n②  Boosts damage by 50% if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n③  Increases your maximum Fire value by 30.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31884",
 		"jp_explainShort": "威力絶大増＋炎武器攻撃力大増＋炎属性上限上昇",
 		"tr_explainShort": "Pow. boost + Fire weapon boost + max Fire up",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が炎属性の場合\n　　 攻撃力を大きく増加する。\n③ 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts power by 150%.\n     <color=yellow>[F-Frame]</color>\n②  Boosts damage by 50% if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n③  Increases your maximum Fire value by 30.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts power by 150%.\n<color=yellow>SP: </color>Boosts power by 160%.\n     <color=yellow>[F-Frame]</color>\n②  Boosts damage by 50% if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n③  Increases your maximum Fire value by 30.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31889",
@@ -4862,42 +4862,42 @@
 		"jp_explainShort": "雷属性ダメージ＋回避",
 		"tr_explainShort": "Lightning elem. boosted + chance to evade",
 		"jp_explainLong": "① 雷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Lightning elemental damage by 145%\n     against enemies weak to Lightning.\n     <color=yellow>[S-Frame]</color>\n②  Grants a ?? chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts Lightning elemental damage by 145%\n     against enemies weak to Lightning.\n<color=yellow>SP: </color>Boosts Lightning elemental damage by 150%\n     against enemies weak to Lightning.\n     <color=yellow>[S-Frame]</color>\n②  Grants a 50% chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31892",
 		"jp_explainShort": "雷属性ダメージ＋回避",
 		"tr_explainShort": "Lightning elem. boosted + chance to evade",
 		"jp_explainLong": "① 雷属性が弱点の敵に対して\n　　 その属性によるダメージを絶大に増加する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Lightning elemental damage by 155%\n     against enemies weak to Lightning.\n     <color=yellow>[S-Frame]</color>\n②  Grants a ?? chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts Lightning elemental damage by 155%\n     against enemies weak to Lightning.\n<color=yellow>SP: </color>Boosts Lightning elemental damage by 160%\n     against enemies weak to Lightning.\n     <color=yellow>[S-Frame]</color>\n②  Grants a 50% chance to avoid damage from\n     enemies.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31893",
 		"jp_explainShort": "必殺技・法術の威力大強化＋加速",
 		"tr_explainShort": "PAs & Techs boosted + actions quickened",
 		"jp_explainLong": "① 必殺技・法術の威力を大きく強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by 55%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 55%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 65%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31894",
 		"jp_explainShort": "必殺技・法術の威力劇的強化＋加速",
 		"tr_explainShort": "PAs & Techs boosted + actions quickened",
 		"jp_explainLong": "① 必殺技・法術の威力を劇的に強化する。\n② 自身の通常攻撃と移動のスピードを加速する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by 75%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by ??%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 75%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 85%.\n     <color=yellow>[A-Frame]</color>\n②  Speeds up movement and normal attacks by 30%.\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31895",
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加特大ダメージ",
 		"tr_explainShort": "HP recov. + CP recov. + add. damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "①  Deals an additional 105% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 10%.\n③  Recovers CP by 8.\n[Activation Trigger] Landing an attack\n[Effect Duration] 10 seconds"
+		"tr_explainLong": "①  Deals an additional 105% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 110% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 10%.\n<color=yellow>SP: </color>Recovers HP by 12%.\n③  Recovers CP by 8.\n<color=yellow>SP: </color>Recovers CP by 10.\n[Activation Trigger] Landing an attack\n[Effect Duration] 10 seconds"
 	},
 	{
 		"assign": "31896",
 		"jp_explainShort": "ＨＰ回復＋ＣＰ回復＋追加特大ダメージ",
 		"tr_explainShort": "HP recov. + CP recov. + add. damage",
 		"jp_explainLong": "① 敵に追加で特大ダメージを与える。\n② ＨＰを回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時\n[効果時間]短い時間",
-		"tr_explainLong": "①  Deals an additional 115% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 15%.\n③  Recovers CP by 12.\n[Activation Trigger] Landing an attack\n[Effect Duration] 10 seconds"
+		"tr_explainLong": "①  Deals an additional 115% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 120% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 15%.\n<color=yellow>SP: </color>Recovers HP by 18%.\n③  Recovers CP by 12.\n<color=yellow>SP: </color>Recovers CP by 15.\n[Activation Trigger] Landing an attack\n[Effect Duration] 10 seconds"
 	},
 	{
 		"assign": "31897",
@@ -4932,14 +4932,14 @@
 		"jp_explainShort": "アビＬｖ氷技法攻撃力大増＋効果時間延長",
 		"tr_explainShort": "Ice boost x ab. lv. + extension x # Ice",
 		"jp_explainLong": "① 必殺技・法術チップが氷属性の場合は\n　　 アビリティレベルに応じて威力を大きく増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Ice PAs and Techs by 12% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Ice Support\n     Chips' abilities by 2 seconds x the number of\n     Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts Ice PAs and Techs by 12% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Ice PAs and Techs by 22% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Ice Support\n     Chips' abilities by 2 seconds x the number of\n     Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31911",
 		"jp_explainShort": "アビＬｖ氷技法攻撃力劇的増＋効果時間延長",
 		"tr_explainShort": "Ice boost x ab. lv. + extension x # Ice",
 		"jp_explainLong": "① 必殺技・法術チップが氷属性の場合は\n　　 アビリティレベルに応じて威力を劇的に増加する。\n② 装備中の氷属性チップの枚数に応じて\n　　 氷属性のサポートチップ発動時の効果時間を延長する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts Ice PAs and Techs by 32% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Ice Support\n     Chips' abilities by 2 seconds x the number of\n     Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts Ice PAs and Techs by 32% + 4% x\n     this chip's ability level.\n<color=yellow>SP: </color>Boosts Ice PAs and Techs by 42% + 4% x\n     this chip's ability level.\n     <color=yellow>[K-Frame]</color>\n②  Extends the Effect Duration of Ice Support\n     Chips' abilities by 2 seconds x the number of\n     Ice chips equipped.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31912",
@@ -5002,28 +5002,28 @@
 		"jp_explainShort": "闇武器攻撃力絶大増加＋闇属性上限上昇",
 		"tr_explainShort": "Dark weapons boosted + max Dark up",
 		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 攻撃力を絶大に増加する。\n② 闇属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 130% if using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Dark Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 130% if using a Dark weapon.\n<color=yellow>SP: </color>Boosts damage by 135% if using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Dark Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31921",
 		"jp_explainShort": "闇武器攻撃力絶大増加＋闇属性上限上昇",
 		"tr_explainShort": "Dark weapons boosted + max Dark up",
 		"jp_explainLong": "① 装備中の武器の属性が闇属性の場合\n　　 攻撃力を絶大に増加する。\n② 闇属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 140% if using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Dark Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 140% if using a Dark weapon.\n<color=yellow>SP: </color>Boosts damage by 145% if using a Dark weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Dark Element by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31924",
 		"jp_explainShort": "氷枚数ＪＡ威力超絶増加＋ＪＡ成功３回毎ＨＰ回復",
 		"tr_explainShort": "JAs boosted x # Ice + 3 JAs = HP recovery",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じて\n　　 ジャストアタックの威力を超絶に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Overwhelmingly boosts Just Attacks based on the\n     number of Ice chips equipped.\n     <color=yellow>[T-Frame]</color>\n②  Recovers HP by ??% every time you successfully\n     perform three Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts Just Attacks by 35% x the number of\n     Ice chips equipped.\n<color=yellow>SP: </color>Boosts Just Attacks by 40% x the number of\n     Ice chips equipped.\n     <color=yellow>[T-Frame]</color>\n②  Recovers HP by 5% every time you successfully\n     perform three Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31925",
 		"jp_explainShort": "氷枚数ＪＡ威力超絶増加＋ＪＡ成功３回毎ＨＰ回復",
 		"tr_explainShort": "JAs boosted x # Ice + 3 JAs = HP recovery",
 		"jp_explainLong": "① 装備中の氷属性チップの枚数に応じて\n　　 ジャストアタックの威力を超絶に増加する。\n② ジャストアタックを３回成功させるごとに\n　　 ＨＰをわずかに回復する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Maximally boosts Just Attacks based on the\n     number of Ice chips equipped.\n     <color=yellow>[T-Frame]</color>\n②  Recovers HP by ??% every time you successfully\n     perform three Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts Just Attacks by 45% x the number of\n     Ice chips equipped.\n<color=yellow>SP: </color>Boosts Just Attacks by 50% x the number of\n     Ice chips equipped.\n     <color=yellow>[T-Frame]</color>\n②  Recovers HP by 5% every time you successfully\n     perform three Just Attacks.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31926",
@@ -5086,28 +5086,28 @@
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ小回復＋追加ダメージ",
 		"tr_explainShort": "HP recov. + CP recov. + add. dam.",
 		"jp_explainLong": "① 敵に追加でダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰをわずかに回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional ??% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by ??%.\n③  Recovers CP by ??%.\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 30% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 35% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 5%.\n<color=yellow>SP: </color>Recovers HP by 6%.\n③  Recovers CP by 5.\n<color=yellow>SP: </color>Recovers CP by 6.\n[Activation Trigger] Landing an attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "31935",
 		"jp_explainShort": "ＨＰ小回復＋ＣＰ回復＋追加大ダメージ",
 		"tr_explainShort": "HP recov. + CP recov. + add. dam.",
 		"jp_explainLong": "① 敵に追加で大ダメージを与える。\n② ＨＰをわずかに回復する。\n③ ＣＰを回復する。\n[発動条件]攻撃がヒットした時",
-		"tr_explainLong": "①  Deals an additional ??% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by ??%.\n③  Recovers CP by ??%.\n[Activation Trigger] Landing an attack"
+		"tr_explainLong": "①  Deals an additional 40% damage to enemies.\n<color=yellow>SP: </color>Deals an additional 45% damage to enemies.\n     <color=yellow>[Chase]</color>\n②  Recovers HP by 7%.\n<color=yellow>SP: </color>Recovers HP by 8%.\n③  Recovers CP by 7.\n<color=yellow>SP: </color>Recovers CP by 8.\n[Activation Trigger] Landing an attack\n[Cooldown] 1 second"
 	},
 	{
 		"assign": "31936",
 		"jp_explainShort": "炎武器攻撃力絶大増加＋炎属性上限上昇",
 		"tr_explainShort": "Fire weapons boosted + max Fire up",
 		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 攻撃力を絶大に増加する。\n② 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 130% if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Fire value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 130% if using a Fire weapon.\n<color=yellow>SP: </color>Boosts damage by 135% if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Fire value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31937",
 		"jp_explainShort": "炎武器攻撃力絶大増加＋炎属性上限上昇",
 		"tr_explainShort": "Fire weapons boosted + max Fire up",
 		"jp_explainLong": "① 装備中の武器の属性が炎属性の場合\n　　 攻撃力を絶大に増加する。\n② 炎属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 140% if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Fire value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 140% if using a Fire weapon.\n<color=yellow>SP: </color>Boosts damage by 145% if using a Fire weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Fire value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31940",
@@ -5135,14 +5135,14 @@
 		"jp_explainShort": "風武器攻撃力絶大増加＋風属性上限上昇",
 		"tr_explainShort": "Wind weapons boosted + max Wind up",
 		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 攻撃力を絶大に増加する。\n② 風属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 130% if using a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Wind value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 130% if using a Wind weapon.\n<color=yellow>SP: </color>Boosts damage by 135% if using a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Wind value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31946",
 		"jp_explainShort": "風武器攻撃力絶大増加＋風属性上限上昇",
 		"tr_explainShort": "Wind weapons boosted + max Wind up",
 		"jp_explainLong": "① 装備中の武器の属性が風属性の場合\n　　 攻撃力を絶大に増加する。\n② 風属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 140% if using a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Wind value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 140% if using a Wind weapon.\n<color=yellow>SP: </color>Boosts damage by 145% if using a Wind weapon.\n     <color=yellow>[H-Frame]</color>\n②  Increases your maximum Wind value by 20.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "31947",
@@ -5317,14 +5317,14 @@
 		"jp_explainShort": "威力絶大増＋氷武器攻撃力小増＋氷属性上限上昇",
 		"tr_explainShort": "Power boost + Ice weapon boost + max Ice up",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 攻撃力をわずかに増加する。\n③ 氷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts power by 140%.\n     <color=yellow>[F-Frame]</color>\n②  Boosts damage by 25% if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n③  Increases your maximum Ice value by 30.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts power by 140%.\n<color=yellow>SP: </color>Boosts power by 1505%.\n     <color=yellow>[F-Frame]</color>\n②  Boosts damage by 25% if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n③  Increases your maximum Ice value by 30.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "31991",
 		"jp_explainShort": "威力絶大増＋氷武器攻撃力小増＋氷属性上限上昇",
 		"tr_explainShort": "Power boost + Ice weapon boost + max Ice up",
 		"jp_explainLong": "① 威力を絶大に増加する。\n② 装備中の武器の属性が氷属性の場合\n　　 攻撃力をわずかに増加する。\n③ 氷属性の上限値が上昇する。\n[発動条件]ジャストアタック成功時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts power by 160%.\n     <color=yellow>[F-Frame]</color>\n②  Boosts damage by 25% if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n③  Increases your maximum Ice value by 30.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts power by 160%.\n<color=yellow>SP: </color>Boosts power by 170%.\n     <color=yellow>[F-Frame]</color>\n②  Boosts damage by 25% if using an Ice weapon.\n     <color=yellow>[H-Frame]</color>\n③  Increases your maximum Ice value by 30.\n[Activation Trigger] Successful Just Attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "2210",
@@ -9209,28 +9209,28 @@
 		"jp_explainShort": "必殺技・法術威力強化＋一定確率で回避",
 		"tr_explainShort": "PAs & Techs boosted + chance to evade",
 		"jp_explainLong": "① 必殺技・法術の威力を強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by ??%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a ??% chance to avoid damage from\n     enemies.\n[Activation Trigger] Taking an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 30%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 35%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a 15% chance to avoid damage from\n     enemies.\n<color=yellow>SP: </color>Grants a 20% chance to avoid damage from\n     enemies.\n[Activation Trigger] Taking an attack\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "20056",
 		"jp_explainShort": "必殺技・法術威力大強化＋一定確率で回避",
 		"tr_explainShort": "PAs & Techs boosted + chance to evade",
 		"jp_explainLong": "① 必殺技・法術の威力を大きく強化する。\n② 敵からの攻撃を一定確率で回避する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts the power of PAs and Techs by ??%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a ??%  chance to avoid damage from\n     enemies.\n[Activation Trigger] Taking an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts the power of PAs and Techs by 40%.\n<color=yellow>SP: </color>Boosts the power of PAs and Techs by 45%.\n     <color=yellow>[A-Frame]</color>\n②  Grants a 25% chance to avoid damage from\n     enemies.\n<color=yellow>SP: </color>Grants a 30% chance to avoid damage from\n     enemies.\n[Activation Trigger] Taking an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "20057",
 		"jp_explainShort": "攻撃力小増加＋特定地形で攻撃力大増加",
 		"tr_explainShort": "Dam. boost + dam. boost in specific area",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 海岸か海底での戦闘で\n　　 さらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 15%.\n     <color=yellow>[E-Frame]</color>\n②  Further boosts damage by 50% when fighting in\n     the Coast or the Seabed.\n     <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
+		"tr_explainLong": "①  Boosts damage by 15%.\n<color=yellow>SP: </color>Boosts damage by 20%.\n     <color=yellow>[E-Frame]</color>\n②  Further boosts damage by 50% when fighting in\n     the Coast or the Seabed.\n     <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "20058",
 		"jp_explainShort": "攻撃力小増加＋特定地形で攻撃力大増加",
 		"tr_explainShort": "Dam. boost + dam. boost in specific area",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 海岸か海底での戦闘で\n　　 さらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by 25%.\n     <color=yellow>[E-Frame]</color>\n②  Further boosts damage by 50% when fighting in\n     the Coast or the Seabed.\n     <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
+		"tr_explainLong": "①  Boosts damage by 25%.\n<color=yellow>SP: </color>Boosts damage by 30%.\n     <color=yellow>[E-Frame]</color>\n②  Further boosts damage by 50% when fighting in\n     the Coast or the Seabed.\n     <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	},
 	{
 		"assign": "20061",
@@ -9265,27 +9265,27 @@
 		"jp_explainShort": "黒の民にダメージ小増加＋闇属性強化",
 		"tr_explainShort": "Dam. boost vs Kuronites + Dark elem. up",
 		"jp_explainLong": "① 黒の民に与えるダメージをわずかに増加する。\n② 闇属性を強化する。\n[発動条件]黒の民に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage against Kuronites by ??%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Dark Element by ??.\n[Activation Trigger] Landing attacks on Kuronites\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage against Kuronites by 15%.\n<color=yellow>SP: </color>Boosts damage against Kuronites by 20%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Dark Element by 20.\n[Activation Trigger] Landing attacks on Kuronites\n[Effect Duration] 15 seconds"
 	},
 	{
 		"assign": "20068",
 		"jp_explainShort": "黒の民にダメージ増加＋闇属性強化",
 		"tr_explainShort": "Dam. boost vs Kuronites + Dark elem. up",
 		"jp_explainLong": "① 黒の民に与えるダメージを増加する。\n② 闇属性を強化する。\n[発動条件]黒の民に攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage against Kuronites by ??%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Dark Element by ??.\n[Activation Trigger] Landing attacks on Kuronites\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage against Kuronites by 25%.\n<color=yellow>SP: </color>Boosts damage against Kuronites by 30%.\n     <color=yellow>[B-Frame]</color>\n②  Increases your Dark Element by 20.\n[Activation Trigger] Landing attacks on Kuronites\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "20069",
 		"jp_explainShort": "攻撃力小増加＋特定地形で攻撃力大増加",
 		"tr_explainShort": "Dam. boost + dam. boost in specific area",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 黒ノ領域での戦闘で\n　　 さらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% when fighting in\n     Kuron.\n     <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 15%.\n<color=yellow>SP: </color>Boosts damage by 20%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% when fighting in\n     Kuron.\n     <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 20 seconds"
 	},
 	{
 		"assign": "20070",
 		"jp_explainShort": "攻撃力小増加＋特定地形で攻撃力大増加",
 		"tr_explainShort": "Dam. boost + dam. boost in specific area",
 		"jp_explainLong": "① 攻撃力をわずかに増加する。\n② 黒ノ領域での戦闘で\n　　 さらに攻撃力を大きく増加する。\n[発動条件]攻撃がヒットした時\n[効果時間]一定時間",
-		"tr_explainLong": "①  Boosts damage by ??%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further ??% when fighting in\n     Kuron.\n     <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] ?? seconds"
+		"tr_explainLong": "①  Boosts damage by 25%.\n<color=yellow>SP: </color>Boosts damage by 30%.\n     <color=yellow>[E-Frame]</color>\n②  Boosts damage by a further 50% when fighting in\n     Kuron.\n     <color=yellow>[I-Frame]</color>\n[Activation Trigger] Landing an attack\n[Effect Duration] 25 seconds"
 	}
 ]
